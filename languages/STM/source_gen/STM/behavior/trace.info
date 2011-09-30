@@ -5,6 +5,7 @@
   <unitInfo fileName="PromotionalDiscountRule_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="STM.behavior.PromotionalDiscountRule_BehaviorDescriptor" />
   <unitInfo fileName="CrossSellDiscountRule_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="STM.behavior.CrossSellDiscountRule_BehaviorDescriptor" />
   <unitInfo fileName="VolumeDiscountRule_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="STM.behavior.VolumeDiscountRule_BehaviorDescriptor" />
+  <unitInfo fileName="AClosureLiteral_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="STM.behavior.AClosureLiteral_BehaviorDescriptor" />
   <unitInfo fileName="CConcept_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="STM.behavior.CConcept_BehaviorDescriptor" />
   <unitInfo fileName="AConcept_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="STM.behavior.AConcept_BehaviorDescriptor" />
   <unitInfo fileName="URL_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="STM.behavior.URL_BehaviorDescriptor" />
@@ -18,7 +19,7 @@
   <unitInfo fileName="BConcept_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="STM.behavior.BConcept_BehaviorDescriptor" />
   <unitInfo fileName="WordScan_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="STM.behavior.WordScan_BehaviorDescriptor" />
   <unitInfo fileName="DiscountRuleSet_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="STM.behavior.DiscountRuleSet_BehaviorDescriptor" />
-  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="54" endPosition="0" unitName="STM.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="56" endPosition="0" unitName="STM.behavior.BehaviorAspectDescriptor" />
   <root nodeId="9200214263550170649">
     <nodeInfo nodeId="5375423026569806383" fileName="AtomicExpression_Behavior.java" startLine="18" startPosition="69" endLine="19" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
     <nodeInfo nodeId="5375423026569806389" fileName="AtomicExpression_Behavior.java" startLine="19" startPosition="32" endLine="20" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />

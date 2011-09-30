@@ -2,13 +2,15 @@
 <dependenciesRoot>
   <dependency className="STM.sandbox.sandbox.Sample" file="Sample.java">
     <classNode dependClassName="java.lang.Exception" />
+    <classNode dependClassName="java.lang.Integer" />
+    <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.Runnable" />
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="java.lang.System" />
     <classNode dependClassName="java.lang.Thread" />
     <classNode dependClassName="org.multiverse.api.StmUtils" />
     <classNode dependClassName="org.multiverse.api.Transaction" />
-    <classNode dependClassName="org.multiverse.api.closures.AtomicVoidClosure" />
+    <classNode dependClassName="org.multiverse.api.closures.AtomicClosure" />
   </dependency>
   <dependency className="STM.sandbox.sandbox.Scan1.groovy" file="Scan1.groovy.null" />
   <dependency className="STM.sandbox.sandbox.Test" file="Test.java">

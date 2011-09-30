@@ -11,11 +11,9 @@ import jetbrains.mps.nodeEditor.style.Style;
 import jetbrains.mps.nodeEditor.style.StyleAttributes;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
 import jetbrains.mps.nodeEditor.cellProviders.CellProviderWithRole;
-import jetbrains.mps.lang.editor.cellProviders.RefCellCellProvider;
+import jetbrains.mps.lang.editor.cellProviders.RefNodeCellProvider;
 import jetbrains.mps.smodel.IOperationContext;
 import jetbrains.mps.nodeEditor.EditorManager;
-import jetbrains.mps.nodeEditor.InlineCellProvider;
-import jetbrains.mps.lang.editor.cellProviders.RefNodeCellProvider;
 
 public class AtomicExpression_Editor extends DefaultNodeEditor {
   public EditorCell createEditorCell(EditorContext editorContext, SNode node) {
@@ -40,7 +38,7 @@ public class AtomicExpression_Editor extends DefaultNodeEditor {
       style.set(StyleAttributes.INDENT_LAYOUT_ON_NEW_LINE, true);
       style.set(StyleAttributes.INDENT_LAYOUT_INDENT, true);
     }
-    editorCell.addEditorCell(this.createRefCell_al1udg_a1a(editorContext, node));
+    editorCell.addEditorCell(this.createRefNode_al1udg_a1a(editorContext, node));
     return editorCell;
   }
 
@@ -62,12 +60,11 @@ public class AtomicExpression_Editor extends DefaultNodeEditor {
     return editorCell;
   }
 
-  private EditorCell createRefCell_al1udg_a1a(EditorContext editorContext, SNode node) {
-    CellProviderWithRole provider = new RefCellCellProvider(node, editorContext);
+  private EditorCell createRefNode_al1udg_a1a(EditorContext editorContext, SNode node) {
+    CellProviderWithRole provider = new RefNodeCellProvider(node, editorContext);
     provider.setRole("closure");
     provider.setNoTargetText("<no closure>");
     EditorCell editorCell;
-    provider.setAuxiliaryCellProvider(new AtomicExpression_Editor._Inline_al1udg_a0b0());
     editorCell = provider.createEditorCell(editorContext);
     editorCell.setSubstituteInfo(provider.createDefaultSubstituteInfo());
     SNode attributeConcept = provider.getRoleAttribute();
@@ -78,43 +75,5 @@ public class AtomicExpression_Editor extends DefaultNodeEditor {
       return manager.createRoleAttributeCell(editorContext, attributeConcept, attributeKind, editorCell);
     } else
     return editorCell;
-  }
-
-  public static class _Inline_al1udg_a0b0 extends InlineCellProvider {
-    public _Inline_al1udg_a0b0() {
-      super();
-    }
-
-    public EditorCell createEditorCell(EditorContext editorContext) {
-      return this.createEditorCell(editorContext, this.getSNode());
-    }
-
-    public EditorCell createEditorCell(EditorContext editorContext, SNode node) {
-      return this.createCollection_al1udg_a0a1a(editorContext, node);
-    }
-
-    private EditorCell createCollection_al1udg_a0a1a(EditorContext editorContext, SNode node) {
-      EditorCell_Collection editorCell = EditorCell_Collection.createIndent2(editorContext, node);
-      editorCell.setCellId("Collection_al1udg_a0a1a");
-      editorCell.addEditorCell(this.createRefNode_al1udg_a0a0b0(editorContext, node));
-      return editorCell;
-    }
-
-    private EditorCell createRefNode_al1udg_a0a0b0(EditorContext editorContext, SNode node) {
-      CellProviderWithRole provider = new RefNodeCellProvider(node, editorContext);
-      provider.setRole("body");
-      provider.setNoTargetText("<no body>");
-      EditorCell editorCell;
-      editorCell = provider.createEditorCell(editorContext);
-      editorCell.setSubstituteInfo(provider.createDefaultSubstituteInfo());
-      SNode attributeConcept = provider.getRoleAttribute();
-      Class attributeKind = provider.getRoleAttributeClass();
-      if (attributeConcept != null) {
-        IOperationContext opContext = editorContext.getOperationContext();
-        EditorManager manager = EditorManager.getInstanceFromContext(opContext);
-        return manager.createRoleAttributeCell(editorContext, attributeConcept, attributeKind, editorCell);
-      } else
-      return editorCell;
-    }
   }
 }

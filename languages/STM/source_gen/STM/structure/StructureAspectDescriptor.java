@@ -8,7 +8,7 @@ import jetbrains.mps.smodel.runtime.impl.CompiledConceptDescriptor;
 import jetbrains.mps.smodel.runtime.interpreted.StructureAspectInterpreted;
 
 public class StructureAspectDescriptor implements jetbrains.mps.smodel.runtime.StructureAspectDescriptor {
-  private static String[] stringSwitchCases_1htk8d_a0a0a = new String[]{"STM.structure.AConcept", "STM.structure.AbsoluteDiscountValue", "STM.structure.AsyncClosureExecution", "STM.structure.AtomicBlock", "STM.structure.AtomicClosureLiteral", "STM.structure.AtomicExpression", "STM.structure.BConcept", "STM.structure.CConcept", "STM.structure.CrossSellDiscountRule", "STM.structure.DiscountRule", "STM.structure.DiscountRuleSet", "STM.structure.DiscountValue", "STM.structure.PercentDiscountValue", "STM.structure.PromotionalDiscountRule", "STM.structure.URL", "STM.structure.VolumeDiscountRule", "STM.structure.VolumeRank", "STM.structure.WordScan"};
+  private static String[] stringSwitchCases_1htk8d_a0a0a = new String[]{"STM.structure.AClosureLiteral", "STM.structure.AConcept", "STM.structure.AbsoluteDiscountValue", "STM.structure.AsyncClosureExecution", "STM.structure.AtomicBlock", "STM.structure.AtomicClosureLiteral", "STM.structure.AtomicExpression", "STM.structure.BConcept", "STM.structure.CConcept", "STM.structure.CrossSellDiscountRule", "STM.structure.DiscountRule", "STM.structure.DiscountRuleSet", "STM.structure.DiscountValue", "STM.structure.PercentDiscountValue", "STM.structure.PromotionalDiscountRule", "STM.structure.URL", "STM.structure.VolumeDiscountRule", "STM.structure.VolumeRank", "STM.structure.WordScan"};
 
   public StructureAspectDescriptor() {
   }
@@ -16,40 +16,42 @@ public class StructureAspectDescriptor implements jetbrains.mps.smodel.runtime.S
   public ConceptDescriptor getDescriptor(String conceptFqName) {
     switch (Arrays.binarySearch(stringSwitchCases_1htk8d_a0a0a, conceptFqName)) {
       case 0:
-        return new CompiledConceptDescriptor("STM.structure.AConcept", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept"}, new String[]{"foo"}, new String[]{"b", "bw"});
+        return new CompiledConceptDescriptor("STM.structure.AClosureLiteral", "jetbrains.mps.baseLanguage.closures.structure.ClosureLiteral", false, new String[]{"jetbrains.mps.baseLanguage.closures.structure.ClosureLiteral"}, new String[]{}, new String[]{});
       case 1:
-        return new CompiledConceptDescriptor("STM.structure.AbsoluteDiscountValue", "STM.structure.DiscountValue", false, new String[]{"STM.structure.DiscountValue"}, new String[]{"value"}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.AConcept", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept"}, new String[]{"foo"}, new String[]{"b", "bw"});
       case 2:
-        return new CompiledConceptDescriptor("STM.structure.AsyncClosureExecution", "jetbrains.mps.baseLanguage.closures.structure.ClosureLiteral", false, new String[]{"jetbrains.mps.baseLanguage.closures.structure.ClosureLiteral"}, new String[]{}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.AbsoluteDiscountValue", "STM.structure.DiscountValue", false, new String[]{"STM.structure.DiscountValue"}, new String[]{"value"}, new String[]{});
       case 3:
-        return new CompiledConceptDescriptor("STM.structure.AtomicBlock", "jetbrains.mps.baseLanguage.structure.Statement", false, new String[]{"jetbrains.mps.baseLanguage.structure.Statement"}, new String[]{}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.AsyncClosureExecution", "jetbrains.mps.baseLanguage.closures.structure.ClosureLiteral", false, new String[]{"jetbrains.mps.baseLanguage.closures.structure.ClosureLiteral"}, new String[]{}, new String[]{});
       case 4:
-        return new CompiledConceptDescriptor("STM.structure.AtomicClosureLiteral", "jetbrains.mps.baseLanguage.closures.structure.ClosureLiteral", false, new String[]{"jetbrains.mps.baseLanguage.closures.structure.ClosureLiteral"}, new String[]{}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.AtomicBlock", "jetbrains.mps.baseLanguage.structure.Statement", false, new String[]{"jetbrains.mps.baseLanguage.structure.Statement"}, new String[]{}, new String[]{});
       case 5:
-        return new CompiledConceptDescriptor("STM.structure.AtomicExpression", "jetbrains.mps.baseLanguage.structure.Expression", false, new String[]{"jetbrains.mps.baseLanguage.structure.Expression"}, new String[]{}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.AtomicClosureLiteral", "jetbrains.mps.baseLanguage.closures.structure.ClosureLiteral", false, new String[]{"jetbrains.mps.baseLanguage.closures.structure.ClosureLiteral"}, new String[]{}, new String[]{});
       case 6:
-        return new CompiledConceptDescriptor("STM.structure.BConcept", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept", "jetbrains.mps.lang.core.structure.INamedConcept"}, new String[]{"value"}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.AtomicExpression", "jetbrains.mps.baseLanguage.structure.Expression", false, new String[]{"jetbrains.mps.baseLanguage.structure.Expression"}, new String[]{}, new String[]{});
       case 7:
-        return new CompiledConceptDescriptor("STM.structure.CConcept", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept"}, new String[]{}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.BConcept", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept", "jetbrains.mps.lang.core.structure.INamedConcept"}, new String[]{"value"}, new String[]{});
       case 8:
-        return new CompiledConceptDescriptor("STM.structure.CrossSellDiscountRule", "STM.structure.DiscountRule", false, new String[]{"STM.structure.DiscountRule"}, new String[]{"crossProduct"}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.CConcept", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept"}, new String[]{}, new String[]{});
       case 9:
-        return new CompiledConceptDescriptor("STM.structure.DiscountRule", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept"}, new String[]{}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.CrossSellDiscountRule", "STM.structure.DiscountRule", false, new String[]{"STM.structure.DiscountRule"}, new String[]{"crossProduct"}, new String[]{});
       case 10:
-        return new CompiledConceptDescriptor("STM.structure.DiscountRuleSet", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept", "jetbrains.mps.lang.core.structure.INamedConcept"}, new String[]{"product"}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.DiscountRule", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept"}, new String[]{}, new String[]{});
       case 11:
-        return new CompiledConceptDescriptor("STM.structure.DiscountValue", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept"}, new String[]{}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.DiscountRuleSet", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept", "jetbrains.mps.lang.core.structure.INamedConcept"}, new String[]{"product"}, new String[]{});
       case 12:
-        return new CompiledConceptDescriptor("STM.structure.PercentDiscountValue", "STM.structure.DiscountValue", false, new String[]{"STM.structure.DiscountValue"}, new String[]{"percent"}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.DiscountValue", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept"}, new String[]{}, new String[]{});
       case 13:
-        return new CompiledConceptDescriptor("STM.structure.PromotionalDiscountRule", "STM.structure.DiscountRule", false, new String[]{"STM.structure.DiscountRule"}, new String[]{}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.PercentDiscountValue", "STM.structure.DiscountValue", false, new String[]{"STM.structure.DiscountValue"}, new String[]{"percent"}, new String[]{});
       case 14:
-        return new CompiledConceptDescriptor("STM.structure.URL", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept"}, new String[]{"value"}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.PromotionalDiscountRule", "STM.structure.DiscountRule", false, new String[]{"STM.structure.DiscountRule"}, new String[]{}, new String[]{});
       case 15:
-        return new CompiledConceptDescriptor("STM.structure.VolumeDiscountRule", "STM.structure.DiscountRule", false, new String[]{"STM.structure.DiscountRule"}, new String[]{}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.URL", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept"}, new String[]{"value"}, new String[]{});
       case 16:
-        return new CompiledConceptDescriptor("STM.structure.VolumeRank", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept"}, new String[]{"limit"}, new String[]{});
+        return new CompiledConceptDescriptor("STM.structure.VolumeDiscountRule", "STM.structure.DiscountRule", false, new String[]{"STM.structure.DiscountRule"}, new String[]{}, new String[]{});
       case 17:
+        return new CompiledConceptDescriptor("STM.structure.VolumeRank", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept"}, new String[]{"limit"}, new String[]{});
+      case 18:
         return new CompiledConceptDescriptor("STM.structure.WordScan", "jetbrains.mps.lang.core.structure.BaseConcept", false, new String[]{"jetbrains.mps.lang.core.structure.BaseConcept", "jetbrains.mps.lang.core.structure.INamedConcept"}, new String[]{"word", "parallel"}, new String[]{});
       default:
         return StructureAspectInterpreted.getInstance().getDescriptor(conceptFqName);

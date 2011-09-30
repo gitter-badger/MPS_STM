@@ -4,7 +4,6 @@ package STM.structure;
 
 import jetbrains.mps.baseLanguage.structure.Expression;
 import jetbrains.mps.smodel.SNode;
-import jetbrains.mps.baseLanguage.closures.structure.ClosureLiteral;
 import jetbrains.mps.smodel.SModel;
 import jetbrains.mps.smodel.SModelUtil_new;
 import jetbrains.mps.project.GlobalScope;
@@ -17,11 +16,11 @@ public class AtomicExpression extends Expression {
     super(node);
   }
 
-  public ClosureLiteral getClosure() {
-    return (ClosureLiteral) this.getChild(ClosureLiteral.class, AtomicExpression.CLOSURE);
+  public AClosureLiteral getClosure() {
+    return (AClosureLiteral) this.getChild(AClosureLiteral.class, AtomicExpression.CLOSURE);
   }
 
-  public void setClosure(ClosureLiteral node) {
+  public void setClosure(AClosureLiteral node) {
     super.setChild(AtomicExpression.CLOSURE, node);
   }
 
