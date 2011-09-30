@@ -16,6 +16,7 @@ public class IntentionsDescriptor extends BaseIntentionsDescriptor {
     add(new CreateEmptyVolumeDiscount_Intention(), "3399367608522560555");
     add(new MakeSurroundWith_Intention(), "5375423026569891159");
     add(new SuroundWithAtomicExpression_Intention(), "3972610319144769251");
+    add(new SurroundWithAsynchronous_Intention(), "1220974949334412690");
     add(new SurroundWithAtomic_Intention(), "7434600580015926423");
     add(new SurroundWithAtomicBlock_Intention(), "4268640335983753294");
     add(new TurnToAbsoluteDiscountValue_Intention(), "3399367608522478871");

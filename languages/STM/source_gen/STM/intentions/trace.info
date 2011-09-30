@@ -1,6 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="IntentionsDescriptor.java" startLine="9" startPosition="0" endLine="27" endPosition="0" unitName="STM.intentions.IntentionsDescriptor" />
+  <unitInfo fileName="IntentionsDescriptor.java" startLine="9" startPosition="0" endLine="28" endPosition="0" unitName="STM.intentions.IntentionsDescriptor" />
+  <root nodeId="1220974949334412690">
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="24" startPosition="30" endLine="25" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="28" startPosition="36" endLine="29" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="32" startPosition="37" endLine="33" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="36" startPosition="44" endLine="37" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1220974949334423724" fileName="SurroundWithAsynchronous_Intention.java" startLine="40" startPosition="85" endLine="41" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8750188059154310852" fileName="SurroundWithAsynchronous_Intention.java" startLine="44" startPosition="76" endLine="45" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1220974949334498110" fileName="SurroundWithAsynchronous_Intention.java" startLine="45" startPosition="109" endLine="46" endPosition="119" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8750188059154315126" fileName="SurroundWithAsynchronous_Intention.java" startLine="46" startPosition="119" endLine="47" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8750188059154310858" fileName="SurroundWithAsynchronous_Intention.java" startLine="47" startPosition="65" endLine="48" endPosition="99" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8750188059154310869" fileName="SurroundWithAsynchronous_Intention.java" startLine="49" startPosition="69" endLine="50" endPosition="277" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8750188059154310879" fileName="SurroundWithAsynchronous_Intention.java" startLine="51" startPosition="5" endLine="52" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="55" startPosition="37" endLine="56" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="63" startPosition="49" endLine="64" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="64" startPosition="26" endLine="65" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="65" startPosition="67" endLine="66" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="66" startPosition="32" endLine="67" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="68" startPosition="7" endLine="69" endPosition="168" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="69" startPosition="168" endLine="70" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="71" startPosition="9" endLine="72" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="72" startPosition="45" endLine="73" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="74" startPosition="66" endLine="75" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="76" startPosition="18" endLine="77" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="77" startPosition="57" endLine="78" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="80" startPosition="38" endLine="81" endPosition="86" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="83" startPosition="9" endLine="84" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="85" startPosition="7" endLine="86" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="20" startPosition="100" endLine="22" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="SurroundWithAsynchronous_Intention#()V" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="59" startPosition="52" endLine="61" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="QuotationClass_h1eq2k_a0a1a5#()V" />
+    <nodeInfo nodeId="8750188059154310865" fileName="SurroundWithAsynchronous_Intention.java" startLine="48" startPosition="99" endLine="51" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="76" startPosition="16" endLine="79" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="79" startPosition="11" endLine="82" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="23" startPosition="0" endLine="27" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="27" startPosition="0" endLine="31" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="31" startPosition="0" endLine="35" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="35" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="39" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="54" startPosition="0" endLine="58" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="73" startPosition="30" endLine="79" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="43" startPosition="0" endLine="54" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="70" startPosition="43" endLine="83" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="70" startPosition="43" endLine="83" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="67" startPosition="32" endLine="85" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="67" startPosition="32" endLine="85" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="62" startPosition="0" endLine="88" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createNode#(Ljava/lang/Object;)Ljetbrains/mps/smodel/SNode;" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="21" startPosition="47" endLine="21" endPosition="47" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="60" startPosition="43" endLine="60" endPosition="43" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="24" startPosition="30" endLine="25" endPosition="60" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="28" startPosition="36" endLine="29" endPosition="17" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="32" startPosition="37" endLine="33" endPosition="17" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="36" startPosition="44" endLine="37" endPosition="17" />
+    <scopeInfo nodeId="1220974949334412692" fileName="SurroundWithAsynchronous_Intention.java" startLine="40" startPosition="85" endLine="41" endPosition="26" />
+    <scopeInfo nodeId="8750188059154310868" fileName="SurroundWithAsynchronous_Intention.java" startLine="49" startPosition="69" endLine="50" endPosition="277" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="55" startPosition="37" endLine="56" endPosition="28" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="74" startPosition="66" endLine="75" endPosition="64" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="80" startPosition="38" endLine="81" endPosition="86" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="20" startPosition="100" endLine="22" endPosition="3" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="59" startPosition="52" endLine="61" endPosition="5" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="76" startPosition="18" endLine="78" endPosition="41" />
+    <scopeInfo nodeId="8750188059154310865" fileName="SurroundWithAsynchronous_Intention.java" startLine="48" startPosition="99" endLine="51" endPosition="5" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="23" startPosition="0" endLine="27" endPosition="0" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="27" startPosition="0" endLine="31" endPosition="0" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="31" startPosition="0" endLine="35" endPosition="0" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="35" startPosition="0" endLine="39" endPosition="0" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="39" startPosition="0" endLine="43" endPosition="0" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="54" startPosition="0" endLine="58" endPosition="0" />
+    <scopeInfo nodeId="1220974949334412694" fileName="SurroundWithAsynchronous_Intention.java" startLine="44" startPosition="76" endLine="52" endPosition="82">
+      <varInfo nodeId="1220974949334498111" varName="statement" />
+      <varInfo nodeId="8750188059154315127" varName="selectedNodes" />
+      <varInfo nodeId="8750188059154310853" varName="asyncStatement" />
+    </scopeInfo>
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="43" startPosition="0" endLine="54" endPosition="0" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="71" startPosition="9" endLine="82" endPosition="11" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="70" startPosition="43" endLine="83" endPosition="9" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="68" startPosition="7" endLine="84" endPosition="31" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="67" startPosition="32" endLine="85" endPosition="7" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="63" startPosition="49" endLine="86" endPosition="20" />
+    <scopeInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="62" startPosition="0" endLine="88" endPosition="0" />
+    <unitInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="59" startPosition="0" endLine="89" endPosition="0" unitName="STM.intentions.SurroundWithAsynchronous_Intention$QuotationClass_h1eq2k_a0a1a5" />
+    <unitInfo nodeId="1220974949334412690" fileName="SurroundWithAsynchronous_Intention.java" startLine="20" startPosition="0" endLine="90" endPosition="0" unitName="STM.intentions.SurroundWithAsynchronous_Intention" />
+  </root>
   <root nodeId="3399367608522427179">
     <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />

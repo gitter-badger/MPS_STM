@@ -5,8 +5,10 @@ package STM.sandbox.sandbox;
 
 public class Sample {
   private String title;
+  private String title;
 
   public Sample(final String title) {
+    this.title = title;
     this.title = title;
   }
 
@@ -16,10 +18,7 @@ public class Sample {
   }
 
   public static void main(String[] args) {
-    System.out.println("");
-  }
-
-  private static String create() {
-    return "Demo";
+    Sample demo = new Sample("Demo");
+    System.out.println("Title: " + demo.title);
   }
 }

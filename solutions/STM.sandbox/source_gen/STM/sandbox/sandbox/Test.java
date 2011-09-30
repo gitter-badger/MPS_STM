@@ -16,7 +16,7 @@ public class Test {
 
   public static void main(String[] args) throws Exception {
     List<String> friends = ListSequence.fromListAndArray(new ArrayList<String>(), "Joe", "Dave", "Alice", "Susan", "John");
-    Iterable<String> jFriends = ListSequence.fromList(friends).where(new IWhereFilter<String>() {
+    System.out.println("Friends: " + ListSequence.fromList(friends).where(new IWhereFilter<String>() {
       public boolean accept(String it) {
         return it.startsWith("J");
       }
@@ -24,7 +24,6 @@ public class Test {
       public String select(String it) {
         return it.toUpperCase();
       }
-    });
-    System.out.println("Friends: " + jFriends);
+    }));
   }
 }
