@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="STM.behavior.AConcept_BehaviorDescriptor" file="AConcept_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.AbsoluteDiscountValue_BehaviorDescriptor" file="AbsoluteDiscountValue_BehaviorDescriptor.java">
+    <classNode dependClassName="STM.behavior.DiscountValue_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.AsyncClosureExecution_BehaviorDescriptor" file="AsyncClosureExecution_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.baseLanguage.closures.behavior.ClosureLiteral_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.AtomicBlock_BehaviorDescriptor" file="AtomicBlock_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.baseLanguage.behavior.Statement_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.AtomicClosureLiteral_BehaviorDescriptor" file="AtomicClosureLiteral_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.baseLanguage.closures.behavior.ClosureLiteral_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.AtomicExpression_Behavior" file="AtomicExpression_Behavior.java">
+    <classNode dependClassName="java.lang.Object" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.HashSet" />
+    <classNode dependClassName="java.util.Set" />
+    <classNode dependClassName="jetbrains.mps.project.GlobalScope" />
+    <classNode dependClassName="jetbrains.mps.smodel.SModelReference" />
+    <classNode dependClassName="jetbrains.mps.smodel.SModelUtil_new" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNodeId" />
+    <classNode dependClassName="jetbrains.mps.smodel.SReference" />
+  </dependency>
+  <dependency className="STM.behavior.AtomicExpression_BehaviorDescriptor" file="AtomicExpression_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.baseLanguage.behavior.Expression_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.BConcept_BehaviorDescriptor" file="BConcept_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
+    <classNode dependClassName="STM.behavior.AConcept_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.AbsoluteDiscountValue_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.AsyncClosureExecution_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.AtomicBlock_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.AtomicClosureLiteral_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.AtomicExpression_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.BConcept_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.CConcept_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.CrossSellDiscountRule_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.DiscountRuleSet_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.PercentDiscountValue_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.PromotionalDiscountRule_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.URL_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.VolumeDiscountRule_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.VolumeRank_BehaviorDescriptor" />
+    <classNode dependClassName="STM.behavior.WordScan_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.CConcept_BehaviorDescriptor" file="CConcept_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.CrossSellDiscountRule_BehaviorDescriptor" file="CrossSellDiscountRule_BehaviorDescriptor.java">
+    <classNode dependClassName="STM.behavior.DiscountRule_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.DiscountRuleSet_BehaviorDescriptor" file="DiscountRuleSet_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.DiscountRule_BehaviorDescriptor" file="DiscountRule_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.DiscountValue_BehaviorDescriptor" file="DiscountValue_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.PercentDiscountValue_BehaviorDescriptor" file="PercentDiscountValue_BehaviorDescriptor.java">
+    <classNode dependClassName="STM.behavior.DiscountValue_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.PromotionalDiscountRule_BehaviorDescriptor" file="PromotionalDiscountRule_BehaviorDescriptor.java">
+    <classNode dependClassName="STM.behavior.DiscountRule_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.URL_BehaviorDescriptor" file="URL_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.VolumeDiscountRule_BehaviorDescriptor" file="VolumeDiscountRule_BehaviorDescriptor.java">
+    <classNode dependClassName="STM.behavior.DiscountRule_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.VolumeRank_BehaviorDescriptor" file="VolumeRank_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="STM.behavior.WordScan_BehaviorDescriptor" file="WordScan_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+</dependenciesRoot>
+

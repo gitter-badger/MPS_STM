@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="IntentionsDescriptor.java" startLine="9" startPosition="0" endLine="27" endPosition="0" unitName="STM.intentions.IntentionsDescriptor" />
+  <root nodeId="3399367608522427179">
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522442750" fileName="TurnToPercentDiscountValue_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522478840" fileName="TurnToPercentDiscountValue_Intention.java" startLine="37" startPosition="76" endLine="38" endPosition="114" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3399367608522478847" fileName="TurnToPercentDiscountValue_Intention.java" startLine="38" startPosition="114" endLine="39" endPosition="113" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522442752" fileName="TurnToPercentDiscountValue_Intention.java" startLine="39" startPosition="113" endLine="40" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="43" startPosition="37" endLine="44" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="13" startPosition="94" endLine="15" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TurnToPercentDiscountValue_Intention#()V" />
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="42" startPosition="0" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="36" startPosition="0" endLine="42" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="14" startPosition="49" endLine="14" endPosition="49" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="49" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="17" />
+    <scopeInfo nodeId="3399367608522427181" fileName="TurnToPercentDiscountValue_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="32" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="43" startPosition="37" endLine="44" endPosition="28" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="13" startPosition="94" endLine="15" endPosition="3" />
+    <scopeInfo nodeId="3399367608522427183" fileName="TurnToPercentDiscountValue_Intention.java" startLine="37" startPosition="76" endLine="40" endPosition="67">
+      <varInfo nodeId="3399367608522478841" varName="percentDiscountValue" />
+    </scopeInfo>
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="42" startPosition="0" endLine="46" endPosition="0" />
+    <scopeInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="36" startPosition="0" endLine="42" endPosition="0" />
+    <unitInfo nodeId="3399367608522427179" fileName="TurnToPercentDiscountValue_Intention.java" startLine="13" startPosition="0" endLine="47" endPosition="0" unitName="STM.intentions.TurnToPercentDiscountValue_Intention" />
+  </root>
+  <root nodeId="3399367608522478871">
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522480228" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522478876" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="37" startPosition="76" endLine="38" endPosition="116" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3399367608522478882" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="38" startPosition="116" endLine="39" endPosition="114" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522478890" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="39" startPosition="114" endLine="40" endPosition="68" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="43" startPosition="37" endLine="44" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="13" startPosition="95" endLine="15" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="TurnToAbsoluteDiscountValue_Intention#()V" />
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="42" startPosition="0" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="36" startPosition="0" endLine="42" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="14" startPosition="50" endLine="14" endPosition="50" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="48" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="17" />
+    <scopeInfo nodeId="3399367608522478873" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="30" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="43" startPosition="37" endLine="44" endPosition="28" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="13" startPosition="95" endLine="15" endPosition="3" />
+    <scopeInfo nodeId="3399367608522478875" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="37" startPosition="76" endLine="40" endPosition="68">
+      <varInfo nodeId="3399367608522478877" varName="absoluteDiscountValue" />
+    </scopeInfo>
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="42" startPosition="0" endLine="46" endPosition="0" />
+    <scopeInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="36" startPosition="0" endLine="42" endPosition="0" />
+    <unitInfo nodeId="3399367608522478871" fileName="TurnToAbsoluteDiscountValue_Intention.java" startLine="13" startPosition="0" endLine="47" endPosition="0" unitName="STM.intentions.TurnToAbsoluteDiscountValue_Intention" />
+  </root>
+  <root nodeId="3399367608522535774">
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="18" startPosition="30" endLine="19" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="22" startPosition="36" endLine="23" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="26" startPosition="37" endLine="27" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="30" startPosition="44" endLine="31" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522535779" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="34" startPosition="85" endLine="35" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522535786" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="38" startPosition="76" endLine="39" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3399367608522552205" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="39" startPosition="96" endLine="40" endPosition="83" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522535812" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="40" startPosition="83" endLine="41" endPosition="88" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3399367608522535836" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="41" startPosition="88" endLine="42" endPosition="114" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3399367608522535843" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="42" startPosition="114" endLine="43" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548041" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="43" startPosition="69" endLine="44" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522535819" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="44" startPosition="52" endLine="45" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522535793" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="45" startPosition="73" endLine="46" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548048" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="46" startPosition="92" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="3399367608522548050" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="47" startPosition="0" endLine="48" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548059" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="48" startPosition="82" endLine="49" endPosition="108" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548068" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="49" startPosition="108" endLine="50" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548074" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="50" startPosition="69" endLine="51" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548080" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="51" startPosition="52" endLine="52" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548086" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="52" startPosition="73" endLine="53" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548131" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="53" startPosition="92" endLine="54" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="3399367608522548125" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="54" startPosition="0" endLine="55" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548119" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="55" startPosition="82" endLine="56" endPosition="108" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548113" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="56" startPosition="108" endLine="57" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548107" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="57" startPosition="70" endLine="58" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548101" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="58" startPosition="52" endLine="59" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522548094" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="59" startPosition="73" endLine="60" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522550702" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="60" startPosition="92" endLine="61" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="3399367608522550704" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="61" startPosition="0" endLine="62" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="65" startPosition="37" endLine="66" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="14" startPosition="95" endLine="16" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="CreateDefaultVolumeDiscount_Intention#()V" />
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="64" startPosition="0" endLine="68" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="37" startPosition="0" endLine="64" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="15" startPosition="50" endLine="15" endPosition="50" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="18" startPosition="30" endLine="19" endPosition="43" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="22" startPosition="36" endLine="23" endPosition="17" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="26" startPosition="37" endLine="27" endPosition="17" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="30" startPosition="44" endLine="31" endPosition="17" />
+    <scopeInfo nodeId="3399367608522535776" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="34" startPosition="85" endLine="35" endPosition="44" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="65" startPosition="37" endLine="66" endPosition="28" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="14" startPosition="95" endLine="16" endPosition="3" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="17" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="25" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="33" startPosition="0" endLine="37" endPosition="0" />
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="64" startPosition="0" endLine="68" endPosition="0" />
+    <scopeInfo nodeId="3399367608522535778" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="38" startPosition="76" endLine="62" endPosition="92">
+      <varInfo nodeId="3399367608522535837" varName="percentDiscountValue" />
+      <varInfo nodeId="3399367608522535813" varName="rank" />
+      <varInfo nodeId="3399367608522535787" varName="rule" />
+    </scopeInfo>
+    <scopeInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="37" startPosition="0" endLine="64" endPosition="0" />
+    <unitInfo nodeId="3399367608522535774" fileName="CreateDefaultVolumeDiscount_Intention.java" startLine="14" startPosition="0" endLine="69" endPosition="0" unitName="STM.intentions.CreateDefaultVolumeDiscount_Intention" />
+  </root>
+  <root nodeId="3399367608522560555">
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522560560" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="42" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522560563" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="37" startPosition="76" endLine="38" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3399367608522560569" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="38" startPosition="96" endLine="39" endPosition="83" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522560576" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="39" startPosition="83" endLine="40" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522562152" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="40" startPosition="92" endLine="41" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="44" startPosition="37" endLine="45" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="13" startPosition="93" endLine="15" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="CreateEmptyVolumeDiscount_Intention#()V" />
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="43" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="36" startPosition="0" endLine="43" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="14" startPosition="48" endLine="14" endPosition="48" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="17" startPosition="30" endLine="18" endPosition="43" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="21" startPosition="36" endLine="22" endPosition="17" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="25" startPosition="37" endLine="26" endPosition="17" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="29" startPosition="44" endLine="30" endPosition="17" />
+    <scopeInfo nodeId="3399367608522560557" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="33" startPosition="85" endLine="34" endPosition="42" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="44" startPosition="37" endLine="45" endPosition="28" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="13" startPosition="93" endLine="15" endPosition="3" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="16" startPosition="0" endLine="20" endPosition="0" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="3399367608522560559" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="37" startPosition="76" endLine="41" endPosition="31">
+      <varInfo nodeId="3399367608522560564" varName="rule" />
+    </scopeInfo>
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="43" startPosition="0" endLine="47" endPosition="0" />
+    <scopeInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="36" startPosition="0" endLine="43" endPosition="0" />
+    <unitInfo nodeId="3399367608522560555" fileName="CreateEmptyVolumeDiscount_Intention.java" startLine="13" startPosition="0" endLine="48" endPosition="0" unitName="STM.intentions.CreateEmptyVolumeDiscount_Intention" />
+  </root>
+  <root nodeId="3972610319144769251">
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="27" startPosition="30" endLine="28" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="31" startPosition="36" endLine="32" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="35" startPosition="37" endLine="36" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="39" startPosition="44" endLine="40" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3972610319144789901" fileName="SuroundWithAtomicExpression_Intention.java" startLine="43" startPosition="85" endLine="44" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3972610319144789903" fileName="SuroundWithAtomicExpression_Intention.java" startLine="47" startPosition="76" endLine="48" endPosition="105" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4726057507308927135" fileName="SuroundWithAtomicExpression_Intention.java" startLine="48" startPosition="105" endLine="49" endPosition="123" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144789909" fileName="SuroundWithAtomicExpression_Intention.java" startLine="49" startPosition="123" endLine="50" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="921976671500453477" fileName="SuroundWithAtomicExpression_Intention.java" startLine="50" startPosition="65" endLine="51" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="5375423026569855418" fileName="SuroundWithAtomicExpression_Intention.java" startLine="51" startPosition="14" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="3972610319144789915" fileName="SuroundWithAtomicExpression_Intention.java" startLine="52" startPosition="0" endLine="53" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144789924" fileName="SuroundWithAtomicExpression_Intention.java" startLine="54" startPosition="69" endLine="55" endPosition="230" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144789938" fileName="SuroundWithAtomicExpression_Intention.java" startLine="56" startPosition="5" endLine="57" endPosition="127" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="921976671500453463" fileName="SuroundWithAtomicExpression_Intention.java" startLine="57" startPosition="127" endLine="58" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="921976671500453466" fileName="SuroundWithAtomicExpression_Intention.java" startLine="58" startPosition="14" endLine="59" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="921976671500453469" fileName="SuroundWithAtomicExpression_Intention.java" startLine="59" startPosition="14" endLine="60" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="5375423026569855914" fileName="SuroundWithAtomicExpression_Intention.java" startLine="60" startPosition="14" endLine="61" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="921976671500453471" fileName="SuroundWithAtomicExpression_Intention.java" startLine="61" startPosition="0" endLine="62" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="921976671500453473" fileName="SuroundWithAtomicExpression_Intention.java" startLine="62" startPosition="14" endLine="63" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="921976671500453475" fileName="SuroundWithAtomicExpression_Intention.java" startLine="63" startPosition="14" endLine="64" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="67" startPosition="37" endLine="68" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="75" startPosition="49" endLine="76" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="76" startPosition="26" endLine="77" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="77" startPosition="67" endLine="78" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="78" startPosition="32" endLine="79" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="80" startPosition="7" endLine="81" endPosition="168" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="81" startPosition="168" endLine="82" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="83" startPosition="9" endLine="84" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="84" startPosition="45" endLine="85" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="86" startPosition="66" endLine="87" endPosition="64" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="88" startPosition="18" endLine="89" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="89" startPosition="57" endLine="90" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="92" startPosition="38" endLine="93" endPosition="86" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="95" startPosition="9" endLine="96" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="97" startPosition="7" endLine="98" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="106" startPosition="50" endLine="107" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="107" startPosition="26" endLine="108" endPosition="67" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="108" startPosition="67" endLine="109" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="109" startPosition="32" endLine="110" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="110" startPosition="32" endLine="111" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="111" startPosition="32" endLine="112" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="112" startPosition="32" endLine="113" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="113" startPosition="32" endLine="114" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="114" startPosition="32" endLine="115" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="116" startPosition="7" endLine="117" endPosition="172" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="117" startPosition="172" endLine="118" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="119" startPosition="9" endLine="120" endPosition="171" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="120" startPosition="171" endLine="121" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="121" startPosition="45" endLine="122" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="123" startPosition="11" endLine="124" endPosition="164" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="124" startPosition="164" endLine="125" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="125" startPosition="48" endLine="126" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="127" startPosition="11" endLine="128" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="130" startPosition="9" endLine="131" endPosition="164" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="131" startPosition="164" endLine="132" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="133" startPosition="11" endLine="134" endPosition="172" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="134" startPosition="172" endLine="135" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="136" startPosition="13" endLine="137" endPosition="171" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="137" startPosition="171" endLine="138" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="138" startPosition="50" endLine="139" endPosition="240" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="139" startPosition="240" endLine="140" endPosition="280" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="141" startPosition="15" endLine="142" endPosition="170" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="142" startPosition="170" endLine="143" endPosition="52" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="143" startPosition="52" endLine="144" endPosition="75" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="144" startPosition="75" endLine="145" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="146" startPosition="15" endLine="147" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="148" startPosition="13" endLine="149" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="150" startPosition="11" endLine="151" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="152" startPosition="9" endLine="153" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="154" startPosition="7" endLine="155" endPosition="20" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="23" startPosition="103" endLine="25" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="SuroundWithAtomicExpression_Intention#()V" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="71" startPosition="52" endLine="73" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="QuotationClass_suxhkx_a0a1a5#()V" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="102" startPosition="55" endLine="104" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="QuotationClass_suxhkx_a0a0a31a5#()V" />
+    <nodeInfo nodeId="3972610319144789920" fileName="SuroundWithAtomicExpression_Intention.java" startLine="53" startPosition="60" endLine="56" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="88" startPosition="16" endLine="91" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="91" startPosition="11" endLine="94" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="34" startPosition="0" endLine="38" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="38" startPosition="0" endLine="42" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="42" startPosition="0" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="66" startPosition="0" endLine="70" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="122" startPosition="49" endLine="127" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="122" startPosition="49" endLine="127" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="85" startPosition="30" endLine="91" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="140" startPosition="280" endLine="146" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="140" startPosition="280" endLine="146" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="118" startPosition="43" endLine="129" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="118" startPosition="43" endLine="129" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="82" startPosition="43" endLine="95" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="82" startPosition="43" endLine="95" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="135" startPosition="48" endLine="148" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="135" startPosition="48" endLine="148" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="79" startPosition="32" endLine="97" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="79" startPosition="32" endLine="97" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="132" startPosition="46" endLine="150" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="132" startPosition="46" endLine="150" endPosition="11" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="46" startPosition="0" endLine="66" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="129" startPosition="9" endLine="152" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="129" startPosition="9" endLine="152" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="74" startPosition="0" endLine="100" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createNode#(Ljava/lang/Object;)Ljetbrains/mps/smodel/SNode;" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="115" startPosition="32" endLine="154" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="115" startPosition="32" endLine="154" endPosition="7" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="105" startPosition="0" endLine="157" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createNode#(Ljava/lang/Object;)Ljetbrains/mps/smodel/SNode;" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="24" startPosition="50" endLine="24" endPosition="50" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="72" startPosition="43" endLine="72" endPosition="43" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="103" startPosition="46" endLine="103" endPosition="46" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="27" startPosition="30" endLine="28" endPosition="60" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="31" startPosition="36" endLine="32" endPosition="17" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="35" startPosition="37" endLine="36" endPosition="17" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="39" startPosition="44" endLine="40" endPosition="17" />
+    <scopeInfo nodeId="3972610319144769253" fileName="SuroundWithAtomicExpression_Intention.java" startLine="43" startPosition="85" endLine="44" endPosition="24" />
+    <scopeInfo nodeId="3972610319144789923" fileName="SuroundWithAtomicExpression_Intention.java" startLine="54" startPosition="69" endLine="55" endPosition="230" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="67" startPosition="37" endLine="68" endPosition="28" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="86" startPosition="66" endLine="87" endPosition="64" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="92" startPosition="38" endLine="93" endPosition="86" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="23" startPosition="103" endLine="25" endPosition="3" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="71" startPosition="52" endLine="73" endPosition="5" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="88" startPosition="18" endLine="90" endPosition="41" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="102" startPosition="55" endLine="104" endPosition="5" />
+    <scopeInfo nodeId="3972610319144789920" fileName="SuroundWithAtomicExpression_Intention.java" startLine="53" startPosition="60" endLine="56" endPosition="5" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="123" startPosition="11" endLine="126" endPosition="58" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="26" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="34" startPosition="0" endLine="38" endPosition="0" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="38" startPosition="0" endLine="42" endPosition="0" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="42" startPosition="0" endLine="46" endPosition="0" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="66" startPosition="0" endLine="70" endPosition="0" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="141" startPosition="15" endLine="145" endPosition="72" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="122" startPosition="49" endLine="127" endPosition="11" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="140" startPosition="280" endLine="146" endPosition="15" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="119" startPosition="9" endLine="128" endPosition="60" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="83" startPosition="9" endLine="94" endPosition="11" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="118" startPosition="43" endLine="129" endPosition="9" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="136" startPosition="13" endLine="147" endPosition="66" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="82" startPosition="43" endLine="95" endPosition="9" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="135" startPosition="48" endLine="148" endPosition="13" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="80" startPosition="7" endLine="96" endPosition="31" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="133" startPosition="11" endLine="149" endPosition="63" />
+    <scopeInfo nodeId="3972610319144769255" fileName="SuroundWithAtomicExpression_Intention.java" startLine="47" startPosition="76" endLine="64" endPosition="14">
+      <varInfo nodeId="4726057507308927136" varName="statement" />
+      <varInfo nodeId="3972610319144789910" varName="selectedNodes" />
+      <varInfo nodeId="3972610319144789904" varName="atomicStatement" />
+    </scopeInfo>
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="79" startPosition="32" endLine="97" endPosition="7" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="132" startPosition="46" endLine="150" endPosition="11" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="46" startPosition="0" endLine="66" endPosition="0" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="130" startPosition="9" endLine="151" endPosition="56" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="75" startPosition="49" endLine="98" endPosition="20" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="129" startPosition="9" endLine="152" endPosition="9" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="74" startPosition="0" endLine="100" endPosition="0" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="116" startPosition="7" endLine="153" endPosition="31" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="115" startPosition="32" endLine="154" endPosition="7" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="106" startPosition="50" endLine="155" endPosition="20" />
+    <scopeInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="105" startPosition="0" endLine="157" endPosition="0" />
+    <unitInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="71" startPosition="0" endLine="101" endPosition="0" unitName="STM.intentions.SuroundWithAtomicExpression_Intention$QuotationClass_suxhkx_a0a1a5" />
+    <unitInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="102" startPosition="0" endLine="158" endPosition="0" unitName="STM.intentions.SuroundWithAtomicExpression_Intention$QuotationClass_suxhkx_a0a0a31a5" />
+    <unitInfo nodeId="3972610319144769251" fileName="SuroundWithAtomicExpression_Intention.java" startLine="23" startPosition="0" endLine="159" endPosition="0" unitName="STM.intentions.SuroundWithAtomicExpression_Intention" />
+  </root>
+  <root nodeId="4268640335983737736">
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="22" startPosition="30" endLine="23" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="26" startPosition="36" endLine="27" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="30" startPosition="37" endLine="31" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="34" startPosition="44" endLine="35" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983753292" fileName="UnwrapAtomicExpression_Intention.java" startLine="38" startPosition="85" endLine="39" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="43" startPosition="58" endLine="44" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="45" startPosition="5" endLine="46" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8440353597759856902" fileName="UnwrapAtomicExpression_Intention.java" startLine="49" startPosition="90" endLine="50" endPosition="79" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8440353597759906941" fileName="UnwrapAtomicExpression_Intention.java" startLine="50" startPosition="79" endLine="51" endPosition="150" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="9200214263550067378" fileName="UnwrapAtomicExpression_Intention.java" startLine="51" startPosition="150" endLine="52" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7434600580015928350" fileName="UnwrapAtomicExpression_Intention.java" startLine="55" startPosition="76" endLine="56" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7434600580015928360" fileName="UnwrapAtomicExpression_Intention.java" startLine="57" startPosition="134" endLine="58" endPosition="148" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4726057507308954388" fileName="UnwrapAtomicExpression_Intention.java" startLine="58" startPosition="148" endLine="59" endPosition="134" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7434600580015928367" fileName="UnwrapAtomicExpression_Intention.java" startLine="59" startPosition="134" endLine="60" endPosition="156" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7434600580015928376" fileName="UnwrapAtomicExpression_Intention.java" startLine="60" startPosition="156" endLine="61" endPosition="119" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7434600580015928393" fileName="UnwrapAtomicExpression_Intention.java" startLine="63" startPosition="37" endLine="64" endPosition="125" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7434600580015928401" fileName="UnwrapAtomicExpression_Intention.java" startLine="64" startPosition="125" endLine="65" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7434600580015928415" fileName="UnwrapAtomicExpression_Intention.java" startLine="68" startPosition="12" endLine="69" endPosition="139" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7434600580015928421" fileName="UnwrapAtomicExpression_Intention.java" startLine="69" startPosition="139" endLine="70" endPosition="122" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4726057507308972663" fileName="UnwrapAtomicExpression_Intention.java" startLine="70" startPosition="122" endLine="71" endPosition="175" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7434600580015928429" fileName="UnwrapAtomicExpression_Intention.java" startLine="72" startPosition="5" endLine="73" endPosition="49" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="76" startPosition="37" endLine="77" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="18" startPosition="90" endLine="20" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="UnwrapAtomicExpression_Intention#()V" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="42" startPosition="84" endLine="45" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="37" startPosition="0" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="7434600580015928413" fileName="UnwrapAtomicExpression_Intention.java" startLine="68" startPosition="10" endLine="72" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="75" startPosition="0" endLine="79" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7434600580015928391" fileName="UnwrapAtomicExpression_Intention.java" startLine="62" startPosition="210" endLine="67" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="48" startPosition="0" endLine="54" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableToNode#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="7434600580015928383" fileName="UnwrapAtomicExpression_Intention.java" startLine="61" startPosition="119" endLine="67" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="41" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicable#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="7434600580015928358" fileName="UnwrapAtomicExpression_Intention.java" startLine="56" startPosition="34" endLine="72" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="54" startPosition="0" endLine="75" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="19" startPosition="45" endLine="19" endPosition="45" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="22" startPosition="30" endLine="23" endPosition="44" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="26" startPosition="36" endLine="27" endPosition="17" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="30" startPosition="37" endLine="31" endPosition="17" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="34" startPosition="44" endLine="35" endPosition="16" />
+    <scopeInfo nodeId="4268640335983737738" fileName="UnwrapAtomicExpression_Intention.java" startLine="38" startPosition="85" endLine="39" endPosition="38" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="43" startPosition="58" endLine="44" endPosition="19" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="76" startPosition="37" endLine="77" endPosition="28" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="18" startPosition="90" endLine="20" endPosition="3" />
+    <scopeInfo nodeId="7434600580015928392" fileName="UnwrapAtomicExpression_Intention.java" startLine="63" startPosition="37" endLine="65" endPosition="27" />
+    <scopeInfo nodeId="7434600580015927791" fileName="UnwrapAtomicExpression_Intention.java" startLine="49" startPosition="90" endLine="52" endPosition="36">
+      <varInfo nodeId="8440353597759906942" varName="atomicExpression" />
+      <varInfo nodeId="8440353597759856903" varName="selectedNodes" />
+    </scopeInfo>
+    <scopeInfo nodeId="7434600580015928414" fileName="UnwrapAtomicExpression_Intention.java" startLine="68" startPosition="12" endLine="71" endPosition="175">
+      <varInfo nodeId="7434600580015928416" varName="statement" />
+    </scopeInfo>
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="25" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="33" startPosition="0" endLine="37" endPosition="0" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="37" startPosition="0" endLine="41" endPosition="0" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="42" startPosition="84" endLine="46" endPosition="16" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="75" startPosition="0" endLine="79" endPosition="0" />
+    <scopeInfo nodeId="7434600580015928391" fileName="UnwrapAtomicExpression_Intention.java" startLine="62" startPosition="210" endLine="67" endPosition="0" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="48" startPosition="0" endLine="54" endPosition="0" />
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="41" startPosition="0" endLine="48" endPosition="0" />
+    <scopeInfo nodeId="7434600580015928359" fileName="UnwrapAtomicExpression_Intention.java" startLine="57" startPosition="134" endLine="67" endPosition="9">
+      <varInfo nodeId="4726057507308954389" varName="statement" />
+      <varInfo nodeId="7434600580015928361" varName="statementList" />
+      <varInfo nodeId="7434600580015928368" varName="index" />
+    </scopeInfo>
+    <scopeInfo nodeId="4268640335983737740" fileName="UnwrapAtomicExpression_Intention.java" startLine="55" startPosition="76" endLine="73" endPosition="49">
+      <varInfo nodeId="7434600580015928351" varName="atomicExpression" />
+    </scopeInfo>
+    <scopeInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="54" startPosition="0" endLine="75" endPosition="0" />
+    <unitInfo nodeId="7434600580015928391" fileName="UnwrapAtomicExpression_Intention.java" startLine="62" startPosition="191" endLine="67" endPosition="7" unitName="STM.intentions.UnwrapAtomicExpression_Intention$1" />
+    <unitInfo nodeId="4268640335983737736" fileName="UnwrapAtomicExpression_Intention.java" startLine="18" startPosition="0" endLine="80" endPosition="0" unitName="STM.intentions.UnwrapAtomicExpression_Intention" />
+  </root>
+  <root nodeId="4268640335983753294">
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="19" startPosition="30" endLine="20" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="23" startPosition="36" endLine="24" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="27" startPosition="37" endLine="28" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="31" startPosition="44" endLine="32" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983753299" fileName="SurroundWithAtomicBlock_Intention.java" startLine="35" startPosition="85" endLine="36" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="40" startPosition="58" endLine="41" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="42" startPosition="5" endLine="43" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1682110299431843416" fileName="SurroundWithAtomicBlock_Intention.java" startLine="46" startPosition="90" endLine="47" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="9200214263550151928" fileName="SurroundWithAtomicBlock_Intention.java" startLine="50" startPosition="76" endLine="51" endPosition="100" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="9200214263550151934" fileName="SurroundWithAtomicBlock_Intention.java" startLine="51" startPosition="100" endLine="52" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5375423026569849188" fileName="SurroundWithAtomicBlock_Intention.java" startLine="52" startPosition="65" endLine="53" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="9200214263550151940" fileName="SurroundWithAtomicBlock_Intention.java" startLine="53" startPosition="63" endLine="54" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="9200214263550151949" fileName="SurroundWithAtomicBlock_Intention.java" startLine="55" startPosition="69" endLine="56" endPosition="250" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="9200214263550151963" fileName="SurroundWithAtomicBlock_Intention.java" startLine="57" startPosition="5" endLine="58" endPosition="83" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="61" startPosition="37" endLine="62" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="15" startPosition="99" endLine="17" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="SurroundWithAtomicBlock_Intention#()V" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="39" startPosition="84" endLine="42" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="9200214263550151945" fileName="SurroundWithAtomicBlock_Intention.java" startLine="54" startPosition="66" endLine="57" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="22" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="34" startPosition="0" endLine="38" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="45" startPosition="0" endLine="49" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableToNode#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="60" startPosition="0" endLine="64" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="38" startPosition="0" endLine="45" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicable#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="49" startPosition="0" endLine="60" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="16" startPosition="46" endLine="16" endPosition="46" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="19" startPosition="30" endLine="20" endPosition="60" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="23" startPosition="36" endLine="24" endPosition="17" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="27" startPosition="37" endLine="28" endPosition="17" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="31" startPosition="44" endLine="32" endPosition="17" />
+    <scopeInfo nodeId="4268640335983753296" fileName="SurroundWithAtomicBlock_Intention.java" startLine="35" startPosition="85" endLine="36" endPosition="40" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="40" startPosition="58" endLine="41" endPosition="19" />
+    <scopeInfo nodeId="1682110299431843415" fileName="SurroundWithAtomicBlock_Intention.java" startLine="46" startPosition="90" endLine="47" endPosition="17" />
+    <scopeInfo nodeId="9200214263550151948" fileName="SurroundWithAtomicBlock_Intention.java" startLine="55" startPosition="69" endLine="56" endPosition="250" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="61" startPosition="37" endLine="62" endPosition="28" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="15" startPosition="99" endLine="17" endPosition="3" />
+    <scopeInfo nodeId="9200214263550151945" fileName="SurroundWithAtomicBlock_Intention.java" startLine="54" startPosition="66" endLine="57" endPosition="5" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="22" startPosition="0" endLine="26" endPosition="0" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="26" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="34" startPosition="0" endLine="38" endPosition="0" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="39" startPosition="84" endLine="43" endPosition="16" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="45" startPosition="0" endLine="49" endPosition="0" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="60" startPosition="0" endLine="64" endPosition="0" />
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="38" startPosition="0" endLine="45" endPosition="0" />
+    <scopeInfo nodeId="4268640335983753298" fileName="SurroundWithAtomicBlock_Intention.java" startLine="50" startPosition="76" endLine="58" endPosition="83">
+      <varInfo nodeId="9200214263550151935" varName="selectedNodes" />
+      <varInfo nodeId="9200214263550151929" varName="atomicStatement" />
+    </scopeInfo>
+    <scopeInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="49" startPosition="0" endLine="60" endPosition="0" />
+    <unitInfo nodeId="4268640335983753294" fileName="SurroundWithAtomicBlock_Intention.java" startLine="15" startPosition="0" endLine="65" endPosition="0" unitName="STM.intentions.SurroundWithAtomicBlock_Intention" />
+  </root>
+  <root nodeId="5375423026569891159">
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="18" startPosition="30" endLine="19" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="22" startPosition="36" endLine="23" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="26" startPosition="37" endLine="27" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="30" startPosition="44" endLine="31" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569894925" fileName="MakeSurroundWith_Intention.java" startLine="35" startPosition="121" endLine="36" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569894926" fileName="MakeSurroundWith_Intention.java" startLine="37" startPosition="12" endLine="38" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="43" startPosition="58" endLine="44" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="45" startPosition="5" endLine="46" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569891168" fileName="MakeSurroundWith_Intention.java" startLine="49" startPosition="90" endLine="50" endPosition="224" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569891192" fileName="MakeSurroundWith_Intention.java" startLine="53" startPosition="76" endLine="54" endPosition="13" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5375423026569894927" fileName="MakeSurroundWith_Intention.java" startLine="55" startPosition="121" endLine="56" endPosition="154" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569894939" fileName="MakeSurroundWith_Intention.java" startLine="57" startPosition="12" endLine="58" endPosition="166" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569891209" fileName="MakeSurroundWith_Intention.java" startLine="59" startPosition="5" endLine="60" endPosition="85" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569893527" fileName="MakeSurroundWith_Intention.java" startLine="60" startPosition="85" endLine="61" endPosition="87" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569893543" fileName="MakeSurroundWith_Intention.java" startLine="61" startPosition="87" endLine="62" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569893559" fileName="MakeSurroundWith_Intention.java" startLine="62" startPosition="109" endLine="63" endPosition="105" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569893591" fileName="MakeSurroundWith_Intention.java" startLine="63" startPosition="105" endLine="64" endPosition="129" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569893599" fileName="MakeSurroundWith_Intention.java" startLine="64" startPosition="129" endLine="65" endPosition="115" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569893629" fileName="MakeSurroundWith_Intention.java" startLine="65" startPosition="115" endLine="66" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569893639" fileName="MakeSurroundWith_Intention.java" startLine="66" startPosition="109" endLine="67" endPosition="125" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569893647" fileName="MakeSurroundWith_Intention.java" startLine="67" startPosition="125" endLine="68" endPosition="125" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569893655" fileName="MakeSurroundWith_Intention.java" startLine="68" startPosition="125" endLine="69" endPosition="127" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569893663" fileName="MakeSurroundWith_Intention.java" startLine="69" startPosition="127" endLine="70" endPosition="117" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569897755" fileName="MakeSurroundWith_Intention.java" startLine="70" startPosition="117" endLine="71" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="5375423026569912098" fileName="MakeSurroundWith_Intention.java" startLine="71" startPosition="0" endLine="72" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="5375423026569903717" fileName="MakeSurroundWith_Intention.java" startLine="72" startPosition="14" endLine="73" endPosition="14" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="5375423026569891201" fileName="MakeSurroundWith_Intention.java" startLine="73" startPosition="14" endLine="74" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="77" startPosition="37" endLine="78" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="14" startPosition="84" endLine="16" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="MakeSurroundWith_Intention#()V" />
+    <nodeInfo nodeId="5375423026569894921" fileName="MakeSurroundWith_Intention.java" startLine="37" startPosition="10" endLine="39" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5375423026569894933" fileName="MakeSurroundWith_Intention.java" startLine="57" startPosition="10" endLine="59" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="42" startPosition="84" endLine="45" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="48" startPosition="0" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableToNode#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="76" startPosition="0" endLine="80" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5375423026569894911" fileName="MakeSurroundWith_Intention.java" startLine="34" startPosition="85" endLine="39" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5375423026569894930" fileName="MakeSurroundWith_Intention.java" startLine="54" startPosition="13" endLine="59" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="41" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicable#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="33" startPosition="0" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="52" startPosition="0" endLine="76" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="15" startPosition="39" endLine="15" endPosition="39" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="18" startPosition="30" endLine="19" endPosition="78" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="22" startPosition="36" endLine="23" endPosition="17" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="26" startPosition="37" endLine="27" endPosition="17" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="30" startPosition="44" endLine="31" endPosition="17" />
+    <scopeInfo nodeId="5375423026569894912" fileName="MakeSurroundWith_Intention.java" startLine="35" startPosition="121" endLine="36" endPosition="36" />
+    <scopeInfo nodeId="5375423026569894922" fileName="MakeSurroundWith_Intention.java" startLine="37" startPosition="12" endLine="38" endPosition="46" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="43" startPosition="58" endLine="44" endPosition="19" />
+    <scopeInfo nodeId="5375423026569891167" fileName="MakeSurroundWith_Intention.java" startLine="49" startPosition="90" endLine="50" endPosition="224" />
+    <scopeInfo nodeId="5375423026569894932" fileName="MakeSurroundWith_Intention.java" startLine="55" startPosition="121" endLine="56" endPosition="154" />
+    <scopeInfo nodeId="5375423026569894934" fileName="MakeSurroundWith_Intention.java" startLine="57" startPosition="12" endLine="58" endPosition="166" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="77" startPosition="37" endLine="78" endPosition="28" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="14" startPosition="84" endLine="16" endPosition="3" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="17" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="25" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="42" startPosition="84" endLine="46" endPosition="16" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="48" startPosition="0" endLine="52" endPosition="0" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="76" startPosition="0" endLine="80" endPosition="0" />
+    <scopeInfo nodeId="5375423026569891161" fileName="MakeSurroundWith_Intention.java" startLine="34" startPosition="85" endLine="39" endPosition="5" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="41" startPosition="0" endLine="48" endPosition="0" />
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="33" startPosition="0" endLine="41" endPosition="0" />
+    <scopeInfo nodeId="5375423026569891163" fileName="MakeSurroundWith_Intention.java" startLine="53" startPosition="76" endLine="74" endPosition="37">
+      <varInfo nodeId="5375423026569891193" varName="sd" />
+    </scopeInfo>
+    <scopeInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="52" startPosition="0" endLine="76" endPosition="0" />
+    <unitInfo nodeId="5375423026569891159" fileName="MakeSurroundWith_Intention.java" startLine="14" startPosition="0" endLine="81" endPosition="0" unitName="STM.intentions.MakeSurroundWith_Intention" />
+  </root>
+  <root nodeId="5375423026569892148">
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="21" startPosition="30" endLine="22" endPosition="39" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="25" startPosition="36" endLine="26" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="29" startPosition="37" endLine="30" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="33" startPosition="44" endLine="34" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569892151" fileName="UnwrapAtomicBlock_Intention.java" startLine="37" startPosition="85" endLine="38" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="42" startPosition="58" endLine="43" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="44" startPosition="5" endLine="45" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569892236" fileName="UnwrapAtomicBlock_Intention.java" startLine="48" startPosition="90" endLine="49" endPosition="79" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5375423026569892244" fileName="UnwrapAtomicBlock_Intention.java" startLine="49" startPosition="79" endLine="50" endPosition="140" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5375423026569892255" fileName="UnwrapAtomicBlock_Intention.java" startLine="50" startPosition="140" endLine="51" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569892155" fileName="UnwrapAtomicBlock_Intention.java" startLine="54" startPosition="76" endLine="55" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5375423026569892161" fileName="UnwrapAtomicBlock_Intention.java" startLine="56" startPosition="133" endLine="57" endPosition="149" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5375423026569892168" fileName="UnwrapAtomicBlock_Intention.java" startLine="57" startPosition="149" endLine="58" endPosition="158" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5375423026569892177" fileName="UnwrapAtomicBlock_Intention.java" startLine="58" startPosition="158" endLine="59" endPosition="119" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569892194" fileName="UnwrapAtomicBlock_Intention.java" startLine="61" startPosition="37" endLine="62" endPosition="125" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569892202" fileName="UnwrapAtomicBlock_Intention.java" startLine="62" startPosition="125" endLine="63" endPosition="27" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569892216" fileName="UnwrapAtomicBlock_Intention.java" startLine="66" startPosition="12" endLine="67" endPosition="135" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5375423026569892222" fileName="UnwrapAtomicBlock_Intention.java" startLine="67" startPosition="135" endLine="68" endPosition="117" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569892230" fileName="UnwrapAtomicBlock_Intention.java" startLine="69" startPosition="5" endLine="70" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="73" startPosition="37" endLine="74" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="17" startPosition="85" endLine="19" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="UnwrapAtomicBlock_Intention#()V" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="41" startPosition="84" endLine="44" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5375423026569892214" fileName="UnwrapAtomicBlock_Intention.java" startLine="66" startPosition="10" endLine="69" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="36" startPosition="0" endLine="40" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="72" startPosition="0" endLine="76" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5375423026569892192" fileName="UnwrapAtomicBlock_Intention.java" startLine="60" startPosition="161" endLine="65" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Ljetbrains/mps/smodel/SNode;)V" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="47" startPosition="0" endLine="53" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableToNode#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="5375423026569892184" fileName="UnwrapAtomicBlock_Intention.java" startLine="59" startPosition="119" endLine="65" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="40" startPosition="0" endLine="47" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicable#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="5375423026569892159" fileName="UnwrapAtomicBlock_Intention.java" startLine="55" startPosition="29" endLine="69" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="53" startPosition="0" endLine="72" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="18" startPosition="40" endLine="18" endPosition="40" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="21" startPosition="30" endLine="22" endPosition="39" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="25" startPosition="36" endLine="26" endPosition="17" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="29" startPosition="37" endLine="30" endPosition="17" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="33" startPosition="44" endLine="34" endPosition="16" />
+    <scopeInfo nodeId="5375423026569892150" fileName="UnwrapAtomicBlock_Intention.java" startLine="37" startPosition="85" endLine="38" endPosition="33" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="42" startPosition="58" endLine="43" endPosition="19" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="73" startPosition="37" endLine="74" endPosition="28" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="17" startPosition="85" endLine="19" endPosition="3" />
+    <scopeInfo nodeId="5375423026569892193" fileName="UnwrapAtomicBlock_Intention.java" startLine="61" startPosition="37" endLine="63" endPosition="27" />
+    <scopeInfo nodeId="5375423026569892215" fileName="UnwrapAtomicBlock_Intention.java" startLine="66" startPosition="12" endLine="68" endPosition="117">
+      <varInfo nodeId="5375423026569892217" varName="statement" />
+    </scopeInfo>
+    <scopeInfo nodeId="5375423026569892235" fileName="UnwrapAtomicBlock_Intention.java" startLine="48" startPosition="90" endLine="51" endPosition="31">
+      <varInfo nodeId="5375423026569892245" varName="atomicBlock" />
+      <varInfo nodeId="5375423026569892237" varName="selectedNodes" />
+    </scopeInfo>
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="20" startPosition="0" endLine="24" endPosition="0" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="24" startPosition="0" endLine="28" endPosition="0" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="28" startPosition="0" endLine="32" endPosition="0" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="32" startPosition="0" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="36" startPosition="0" endLine="40" endPosition="0" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="41" startPosition="84" endLine="45" endPosition="16" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="72" startPosition="0" endLine="76" endPosition="0" />
+    <scopeInfo nodeId="5375423026569892192" fileName="UnwrapAtomicBlock_Intention.java" startLine="60" startPosition="161" endLine="65" endPosition="0" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="47" startPosition="0" endLine="53" endPosition="0" />
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="40" startPosition="0" endLine="47" endPosition="0" />
+    <scopeInfo nodeId="5375423026569892160" fileName="UnwrapAtomicBlock_Intention.java" startLine="56" startPosition="133" endLine="65" endPosition="9">
+      <varInfo nodeId="5375423026569892162" varName="statementList" />
+      <varInfo nodeId="5375423026569892169" varName="index" />
+    </scopeInfo>
+    <scopeInfo nodeId="5375423026569892154" fileName="UnwrapAtomicBlock_Intention.java" startLine="54" startPosition="76" endLine="70" endPosition="44">
+      <varInfo nodeId="5375423026569892156" varName="atomicBlock" />
+    </scopeInfo>
+    <scopeInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="53" startPosition="0" endLine="72" endPosition="0" />
+    <unitInfo nodeId="5375423026569892192" fileName="UnwrapAtomicBlock_Intention.java" startLine="60" startPosition="142" endLine="65" endPosition="7" unitName="STM.intentions.UnwrapAtomicBlock_Intention$1" />
+    <unitInfo nodeId="5375423026569892148" fileName="UnwrapAtomicBlock_Intention.java" startLine="17" startPosition="0" endLine="77" endPosition="0" unitName="STM.intentions.UnwrapAtomicBlock_Intention" />
+  </root>
+  <root nodeId="7434600580015926423">
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="19" startPosition="30" endLine="20" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="23" startPosition="36" endLine="24" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="27" startPosition="37" endLine="28" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="31" startPosition="44" endLine="32" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7434600580015926428" fileName="SurroundWithAtomic_Intention.java" startLine="35" startPosition="85" endLine="36" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7434600580015926439" fileName="SurroundWithAtomic_Intention.java" startLine="39" startPosition="76" endLine="40" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7434600580015926445" fileName="SurroundWithAtomic_Intention.java" startLine="40" startPosition="109" endLine="41" endPosition="65" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="7434600580015926451" fileName="SurroundWithAtomic_Intention.java" startLine="41" startPosition="65" endLine="42" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7434600580015926460" fileName="SurroundWithAtomic_Intention.java" startLine="43" startPosition="69" endLine="44" endPosition="250" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7434600580015926474" fileName="SurroundWithAtomic_Intention.java" startLine="45" startPosition="5" endLine="46" endPosition="83" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="49" startPosition="37" endLine="50" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="15" startPosition="86" endLine="17" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="SurroundWithAtomic_Intention#()V" />
+    <nodeInfo nodeId="7434600580015926456" fileName="SurroundWithAtomic_Intention.java" startLine="42" startPosition="66" endLine="45" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="18" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="22" startPosition="0" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="26" startPosition="0" endLine="30" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="30" startPosition="0" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="34" startPosition="0" endLine="38" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="48" startPosition="0" endLine="52" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="38" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="16" startPosition="41" endLine="16" endPosition="41" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="19" startPosition="30" endLine="20" endPosition="60" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="23" startPosition="36" endLine="24" endPosition="17" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="27" startPosition="37" endLine="28" endPosition="17" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="31" startPosition="44" endLine="32" endPosition="17" />
+    <scopeInfo nodeId="7434600580015926425" fileName="SurroundWithAtomic_Intention.java" startLine="35" startPosition="85" endLine="36" endPosition="34" />
+    <scopeInfo nodeId="7434600580015926459" fileName="SurroundWithAtomic_Intention.java" startLine="43" startPosition="69" endLine="44" endPosition="250" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="49" startPosition="37" endLine="50" endPosition="28" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="15" startPosition="86" endLine="17" endPosition="3" />
+    <scopeInfo nodeId="7434600580015926456" fileName="SurroundWithAtomic_Intention.java" startLine="42" startPosition="66" endLine="45" endPosition="5" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="18" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="22" startPosition="0" endLine="26" endPosition="0" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="26" startPosition="0" endLine="30" endPosition="0" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="30" startPosition="0" endLine="34" endPosition="0" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="34" startPosition="0" endLine="38" endPosition="0" />
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="48" startPosition="0" endLine="52" endPosition="0" />
+    <scopeInfo nodeId="7434600580015926427" fileName="SurroundWithAtomic_Intention.java" startLine="39" startPosition="76" endLine="46" endPosition="83">
+      <varInfo nodeId="7434600580015926446" varName="selectedNodes" />
+      <varInfo nodeId="7434600580015926440" varName="atomicStatement" />
+    </scopeInfo>
+    <scopeInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="38" startPosition="0" endLine="48" endPosition="0" />
+    <unitInfo nodeId="7434600580015926423" fileName="SurroundWithAtomic_Intention.java" startLine="15" startPosition="0" endLine="53" endPosition="0" unitName="STM.intentions.SurroundWithAtomic_Intention" />
+  </root>
+</debugInfo>
+
