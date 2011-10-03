@@ -45,17 +45,17 @@
     <nodeInfo nodeId="8694120209457770824" fileName="WordScan_TextGen.java" startLine="25" startPosition="7" endLine="26" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
     <nodeInfo nodeId="8694120209457770845" fileName="WordScan_TextGen.java" startLine="27" startPosition="83" endLine="28" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
     <nodeInfo nodeId="8694120209457770845" fileName="WordScan_TextGen.java" startLine="27" startPosition="83" endLine="28" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8694120209457770849" fileName="WordScan_TextGen.java" startLine="28" startPosition="35" endLine="29" endPosition="138" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8694120209457770849" fileName="WordScan_TextGen.java" startLine="29" startPosition="138" endLine="30" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8694120209457770849" fileName="WordScan_TextGen.java" startLine="30" startPosition="63" endLine="31" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8694120209457770863" fileName="WordScan_TextGen.java" startLine="31" startPosition="60" endLine="32" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
-    <nodeInfo nodeId="8694120209457770863" fileName="WordScan_TextGen.java" startLine="31" startPosition="60" endLine="32" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8694120209457770868" fileName="WordScan_TextGen.java" startLine="33" startPosition="12" endLine="34" endPosition="128" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8694120209457770868" fileName="WordScan_TextGen.java" startLine="34" startPosition="128" endLine="35" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8694120209457770868" fileName="WordScan_TextGen.java" startLine="35" startPosition="63" endLine="36" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8694120209457770849" fileName="WordScan_TextGen.java" startLine="28" startPosition="35" endLine="29" endPosition="139" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8694120209457770849" fileName="WordScan_TextGen.java" startLine="29" startPosition="139" endLine="30" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8694120209457770849" fileName="WordScan_TextGen.java" startLine="30" startPosition="63" endLine="31" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8694120209457770863" fileName="WordScan_TextGen.java" startLine="31" startPosition="61" endLine="32" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="8694120209457770863" fileName="WordScan_TextGen.java" startLine="31" startPosition="61" endLine="32" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8694120209457770868" fileName="WordScan_TextGen.java" startLine="33" startPosition="12" endLine="34" endPosition="129" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8694120209457770868" fileName="WordScan_TextGen.java" startLine="34" startPosition="129" endLine="35" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8694120209457770868" fileName="WordScan_TextGen.java" startLine="35" startPosition="63" endLine="36" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
     <nodeInfo nodeId="8694120209457770807" fileName="WordScan_TextGen.java" startLine="20" startPosition="35" endLine="23" endPosition="44" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
-    <nodeInfo nodeId="8694120209457770849" fileName="WordScan_TextGen.java" startLine="28" startPosition="35" endLine="31" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
-    <nodeInfo nodeId="8694120209457770868" fileName="WordScan_TextGen.java" startLine="33" startPosition="12" endLine="36" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="8694120209457770849" fileName="WordScan_TextGen.java" startLine="28" startPosition="35" endLine="31" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="8694120209457770868" fileName="WordScan_TextGen.java" startLine="33" startPosition="12" endLine="36" endPosition="61" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
     <nodeInfo nodeId="8694120209457738362" fileName="WordScan_TextGen.java" startLine="13" startPosition="42" endLine="17" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
     <nodeInfo nodeId="8694120209457770866" fileName="WordScan_TextGen.java" startLine="33" startPosition="10" endLine="37" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
     <nodeInfo nodeId="8694120209457770803" fileName="WordScan_TextGen.java" startLine="19" startPosition="106" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="visit#(Ljetbrains/mps/smodel/SNode;)V" />
@@ -67,13 +67,13 @@
     <scopeInfo nodeId="8694120209457770787" fileName="WordScan_TextGen.java" startLine="17" startPosition="5" endLine="18" endPosition="36" />
     <scopeInfo nodeId="8694120209457770824" fileName="WordScan_TextGen.java" startLine="25" startPosition="7" endLine="26" endPosition="25" />
     <scopeInfo nodeId="8694120209457770845" fileName="WordScan_TextGen.java" startLine="27" startPosition="83" endLine="28" endPosition="35" />
-    <scopeInfo nodeId="8694120209457770863" fileName="WordScan_TextGen.java" startLine="31" startPosition="60" endLine="32" endPosition="26" />
+    <scopeInfo nodeId="8694120209457770863" fileName="WordScan_TextGen.java" startLine="31" startPosition="61" endLine="32" endPosition="26" />
     <scopeInfo nodeId="8694120209457738364" fileName="WordScan_TextGen.java" startLine="14" startPosition="83" endLine="16" endPosition="72" />
     <scopeInfo nodeId="8694120209457770804" fileName="WordScan_TextGen.java" startLine="20" startPosition="35" endLine="23" endPosition="44" />
     <scopeInfo nodeId="8694120209457770807" fileName="WordScan_TextGen.java" startLine="20" startPosition="35" endLine="23" endPosition="44" />
-    <scopeInfo nodeId="8694120209457770849" fileName="WordScan_TextGen.java" startLine="28" startPosition="35" endLine="31" endPosition="60" />
-    <scopeInfo nodeId="8694120209457770867" fileName="WordScan_TextGen.java" startLine="33" startPosition="12" endLine="36" endPosition="60" />
-    <scopeInfo nodeId="8694120209457770868" fileName="WordScan_TextGen.java" startLine="33" startPosition="12" endLine="36" endPosition="60" />
+    <scopeInfo nodeId="8694120209457770849" fileName="WordScan_TextGen.java" startLine="28" startPosition="35" endLine="31" endPosition="61" />
+    <scopeInfo nodeId="8694120209457770867" fileName="WordScan_TextGen.java" startLine="33" startPosition="12" endLine="36" endPosition="61" />
+    <scopeInfo nodeId="8694120209457770868" fileName="WordScan_TextGen.java" startLine="33" startPosition="12" endLine="36" endPosition="61" />
     <scopeInfo nodeId="8694120209457770829" fileName="WordScan_TextGen.java" startLine="27" startPosition="83" endLine="32" endPosition="26" />
     <scopeInfo nodeId="8694120209457770803" fileName="WordScan_TextGen.java" startLine="19" startPosition="106" endLine="25" endPosition="0" />
     <scopeInfo nodeId="8694120209457738356" fileName="WordScan_TextGen.java" startLine="13" startPosition="42" endLine="37" endPosition="5" />

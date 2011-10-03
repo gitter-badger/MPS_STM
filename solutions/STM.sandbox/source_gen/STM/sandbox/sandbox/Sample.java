@@ -5,10 +5,8 @@ package STM.sandbox.sandbox;
 
 public class Sample {
   private String title;
-  private String title;
 
   public Sample(final String title) {
-    this.title = title;
     this.title = title;
   }
 

@@ -136,7 +136,7 @@
           <node role="ifTrue" roleId="tpee.1068580123161" type="tpee.StatementList" typeId="tpee.1068580123136" id="8694120209457738364">
             <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="8694120209457770777">
               <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="8694120209457770779">
-                <property name="value" nameId="2omo.1237305576108" value="\n @Grab(group='org.codehaus.gpars', module='gpars', version='0.11')" />
+                <property name="value" nameId="2omo.1237305576108" value="\n @Grab(group='org.codehaus.gpars', module='gpars', version='0.12')" />
               </node>
             </node>
             <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="8694120209457770783">
@@ -203,7 +203,7 @@
             </node>
             <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="8694120209457770849">
               <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="8694120209457770851">
-                <property name="value" nameId="2omo.1237305576108" value="\n println 'Found at: ' + urls.findAllParallel{println &quot;Downloading ${it}&quot;;def result = it.toURL().text.contains('" />
+                <property name="value" nameId="2omo.1237305576108" value="\n println ('Found at: ' + urls.findAllParallel{println &quot;Downloading ${it}&quot;;def result = it.toURL().text.contains('" />
               </node>
               <node role="part" roleId="2omo.1237306115446" type="2omo.NodeAppendPart" typeId="2omo.1237305334312" id="8694120209457770853">
                 <node role="value" roleId="2omo.1237305790512" type="tpee.DotExpression" typeId="tpee.1197027756228" id="8694120209457770856">
@@ -214,7 +214,7 @@
                 </node>
               </node>
               <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="8694120209457770862">
-                <property name="value" nameId="2omo.1237305576108" value="');println &quot;Done with ${it}&quot;;result}" />
+                <property name="value" nameId="2omo.1237305576108" value="');println &quot;Done with ${it}&quot;;result})" />
               </node>
             </node>
             <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="8694120209457770863">
@@ -240,7 +240,7 @@
             <node role="statements" roleId="tpee.1082485599096" type="tpee.StatementList" typeId="tpee.1068580123136" id="8694120209457770867">
               <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="8694120209457770868">
                 <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="8694120209457770870">
-                  <property name="value" nameId="2omo.1237305576108" value="\n println 'Found at: ' + urls.findAll{println &quot;Downloading ${it}&quot;;def result=it.toURL().text.contains('" />
+                  <property name="value" nameId="2omo.1237305576108" value="\n println ('Found at: ' + urls.findAll{println &quot;Downloading ${it}&quot;;def result=it.toURL().text.contains('" />
                 </node>
                 <node role="part" roleId="2omo.1237306115446" type="2omo.NodeAppendPart" typeId="2omo.1237305334312" id="8694120209457770872">
                   <node role="value" roleId="2omo.1237305790512" type="tpee.DotExpression" typeId="tpee.1197027756228" id="8694120209457770875">
@@ -251,7 +251,7 @@
                   </node>
                 </node>
                 <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="8694120209457770881">
-                  <property name="value" nameId="2omo.1237305576108" value="');println &quot;Done with ${it}&quot;;result}" />
+                  <property name="value" nameId="2omo.1237305576108" value="');println &quot;Done with ${it}&quot;;result})" />
                 </node>
               </node>
             </node>

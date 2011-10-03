@@ -12,7 +12,7 @@ import jetbrains.mps.internal.collections.runtime.IVisitor;
 public class WordScan_TextGen extends SNodeTextGen {
   public void doGenerateText(SNode node) {
     if (SPropertyOperations.hasValue(node, "parallel", "parallel", "sequential")) {
-      this.append("\n @Grab(group='org.codehaus.gpars', module='gpars', version='0.11')");
+      this.append("\n @Grab(group='org.codehaus.gpars', module='gpars', version='0.12')");
       this.append("\n import static groovyx.gpars.GParsPool.withPool ");
     }
     this.append("\n def urls = [ ");
@@ -26,14 +26,14 @@ public class WordScan_TextGen extends SNodeTextGen {
     this.append("\n ] ");
     if (SPropertyOperations.hasValue(node, "parallel", "parallel", "sequential")) {
       this.append("\n withPool {");
-      this.append("\n println 'Found at: ' + urls.findAllParallel{println \"Downloading ${it}\";def result = it.toURL().text.contains('");
+      this.append("\n println ('Found at: ' + urls.findAllParallel{println \"Downloading ${it}\";def result = it.toURL().text.contains('");
       this.append(SPropertyOperations.getString(node, "word"));
-      this.append("');println \"Done with ${it}\";result}");
+      this.append("');println \"Done with ${it}\";result})");
       this.append("\n }");
     } else {
-      this.append("\n println 'Found at: ' + urls.findAll{println \"Downloading ${it}\";def result=it.toURL().text.contains('");
+      this.append("\n println ('Found at: ' + urls.findAll{println \"Downloading ${it}\";def result=it.toURL().text.contains('");
       this.append(SPropertyOperations.getString(node, "word"));
-      this.append("');println \"Done with ${it}\";result}");
+      this.append("');println \"Done with ${it}\";result})");
     }
   }
 }

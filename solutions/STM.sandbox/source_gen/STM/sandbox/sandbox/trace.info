@@ -2,28 +2,26 @@
 <debugInfo>
   <root nodeId="393299394024635966">
     <nodeInfo nodeId="4773190895161956519" fileName="Sample.java" startLine="6" startPosition="21" endLine="7" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="title" />
-    <nodeInfo nodeId="1220974949334395582" fileName="Sample.java" startLine="7" startPosition="23" endLine="8" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="title" />
-    <nodeInfo nodeId="4773190895161956526" fileName="Sample.java" startLine="10" startPosition="37" endLine="11" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="1220974949334394255" fileName="Sample.java" startLine="11" startPosition="23" endLine="12" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="4773190895161958029" fileName="Sample.java" startLine="16" startPosition="28" endLine="17" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="4773190895161960355" fileName="Sample.java" startLine="20" startPosition="42" endLine="21" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="4773190895161960362" fileName="Sample.java" startLine="21" startPosition="37" endLine="22" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="393299394024635968" fileName="Sample.java" startLine="9" startPosition="0" endLine="13" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Sample#(Ljava/lang/String;)V" />
-    <nodeInfo nodeId="4773190895161957863" fileName="Sample.java" startLine="14" startPosition="0" endLine="19" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="toString#()Ljava/lang/String;" />
-    <nodeInfo nodeId="393299394024635972" fileName="Sample.java" startLine="19" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="main#([Ljava/lang/String;)V" />
-    <scopeInfo nodeId="4773190895161957866" fileName="Sample.java" startLine="16" startPosition="28" endLine="17" endPosition="17" />
-    <scopeInfo nodeId="393299394024635971" fileName="Sample.java" startLine="10" startPosition="37" endLine="12" endPosition="23" />
-    <scopeInfo nodeId="393299394024635975" fileName="Sample.java" startLine="20" startPosition="42" endLine="22" endPosition="47">
+    <nodeInfo nodeId="4773190895161956526" fileName="Sample.java" startLine="9" startPosition="37" endLine="10" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="4773190895161958029" fileName="Sample.java" startLine="14" startPosition="28" endLine="15" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="4773190895161960355" fileName="Sample.java" startLine="18" startPosition="42" endLine="19" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="4773190895161960362" fileName="Sample.java" startLine="19" startPosition="37" endLine="20" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="393299394024635968" fileName="Sample.java" startLine="8" startPosition="0" endLine="11" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Sample#(Ljava/lang/String;)V" />
+    <nodeInfo nodeId="4773190895161957863" fileName="Sample.java" startLine="12" startPosition="0" endLine="17" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="toString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="393299394024635972" fileName="Sample.java" startLine="17" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="main#([Ljava/lang/String;)V" />
+    <scopeInfo nodeId="393299394024635971" fileName="Sample.java" startLine="9" startPosition="37" endLine="10" endPosition="23" />
+    <scopeInfo nodeId="4773190895161957866" fileName="Sample.java" startLine="14" startPosition="28" endLine="15" endPosition="17" />
+    <scopeInfo nodeId="393299394024635975" fileName="Sample.java" startLine="18" startPosition="42" endLine="20" endPosition="47">
       <varInfo nodeId="4773190895161960356" varName="demo" />
     </scopeInfo>
-    <scopeInfo nodeId="393299394024635968" fileName="Sample.java" startLine="9" startPosition="0" endLine="13" endPosition="3">
+    <scopeInfo nodeId="393299394024635968" fileName="Sample.java" startLine="8" startPosition="0" endLine="11" endPosition="3">
       <varInfo nodeId="4773190895161956523" varName="title" />
     </scopeInfo>
-    <scopeInfo nodeId="4773190895161957863" fileName="Sample.java" startLine="14" startPosition="0" endLine="19" endPosition="0" />
-    <scopeInfo nodeId="393299394024635972" fileName="Sample.java" startLine="19" startPosition="0" endLine="24" endPosition="0">
+    <scopeInfo nodeId="4773190895161957863" fileName="Sample.java" startLine="12" startPosition="0" endLine="17" endPosition="0" />
+    <scopeInfo nodeId="393299394024635972" fileName="Sample.java" startLine="17" startPosition="0" endLine="22" endPosition="0">
       <varInfo nodeId="393299394024635976" varName="args" />
     </scopeInfo>
-    <unitInfo nodeId="393299394024635966" fileName="Sample.java" startLine="6" startPosition="0" endLine="25" endPosition="0" unitName="STM.sandbox.sandbox.Sample" />
+    <unitInfo nodeId="393299394024635966" fileName="Sample.java" startLine="6" startPosition="0" endLine="23" endPosition="0" unitName="STM.sandbox.sandbox.Sample" />
   </root>
   <root nodeId="4268640335983732166">
     <nodeInfo nodeId="6905767125586002136" fileName="Test.java" startLine="11" startPosition="19" endLine="12" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" propertyString="counter" />
