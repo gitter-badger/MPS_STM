@@ -20,6 +20,12 @@ public class Sample {
     Sample demo = new Sample("Demo");
     System.out.println("Title: " + demo.title);
     Money money = new Money(10, "eur");
+    int a = money.getAmount().intValue();
+    Money myMoney = money.plus(new Money(20, "eur"));
+    Money m = new Money(30, "usd").plus(new Money(20, "usd"));
     System.out.println("Money: " + money);
+    System.out.println("Money: " + money.getCurrency());
+
+    System.out.println("Converted " + money.to("usd").getAmount());
   }
 }

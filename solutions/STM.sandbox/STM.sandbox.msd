@@ -6,6 +6,7 @@
   <sourcePath />
   <dependencies>
     <dependency reexport="false">6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)</dependency>
+    <dependency reexport="false">562eff3e-65ac-4df8-98d2-6cf36850139c(MoneyRuntime)</dependency>
   </dependencies>
   <usedLanguages>
     <usedLanguage>be19a6e9-e972-4c4e-867f-04466d2dde44(STM)</usedLanguage>

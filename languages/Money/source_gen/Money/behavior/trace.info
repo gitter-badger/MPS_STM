@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
+  <unitInfo fileName="MoneyConversionType_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="Money.behavior.MoneyConversionType_BehaviorDescriptor" />
+  <unitInfo fileName="MoneyType_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="Money.behavior.MoneyType_BehaviorDescriptor" />
   <unitInfo fileName="MoneyLiteral_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="Money.behavior.MoneyLiteral_BehaviorDescriptor" />
-  <unitInfo fileName="MoneyType_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="17" endPosition="0" unitName="Money.behavior.MoneyType_BehaviorDescriptor" />
-  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="26" endPosition="0" unitName="Money.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="34" endPosition="0" unitName="Money.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="ConvertTo_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="35" endPosition="0" unitName="Money.behavior.ConvertTo_BehaviorDescriptor" />
+  <unitInfo fileName="GetCurrency_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="35" endPosition="0" unitName="Money.behavior.GetCurrency_BehaviorDescriptor" />
+  <unitInfo fileName="GetAmount_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="35" endPosition="0" unitName="Money.behavior.GetAmount_BehaviorDescriptor" />
 </debugInfo>
 

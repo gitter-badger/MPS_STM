@@ -9,38 +9,46 @@ import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Collection;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
 import jetbrains.mps.nodeEditor.cellProviders.CellProviderWithRole;
-import jetbrains.mps.lang.editor.cellProviders.PropertyCellProvider;
+import jetbrains.mps.lang.editor.cellProviders.RefNodeCellProvider;
 import jetbrains.mps.smodel.IOperationContext;
 import jetbrains.mps.nodeEditor.EditorManager;
+import jetbrains.mps.lang.editor.cellProviders.PropertyCellProvider;
 
-public class MoneyLiteral_Editor extends DefaultNodeEditor {
+public class ConvertTo_Editor extends DefaultNodeEditor {
   public EditorCell createEditorCell(EditorContext editorContext, SNode node) {
-    return this.createCollection_84i1v2_a(editorContext, node);
+    return this.createCollection_taq11b_a(editorContext, node);
   }
 
-  private EditorCell createCollection_84i1v2_a(EditorContext editorContext, SNode node) {
+  private EditorCell createCollection_taq11b_a(EditorContext editorContext, SNode node) {
     EditorCell_Collection editorCell = EditorCell_Collection.createHorizontal(editorContext, node);
-    editorCell.setCellId("Collection_84i1v2_a");
-    editorCell.addEditorCell(this.createProperty_84i1v2_a0(editorContext, node));
-    editorCell.addEditorCell(this.createProperty_84i1v2_b0(editorContext, node));
-    editorCell.addEditorCell(this.createConstant_84i1v2_c0(editorContext, node));
+    editorCell.setCellId("Collection_taq11b_a");
+    editorCell.addEditorCell(this.createConstant_taq11b_a0(editorContext, node));
+    editorCell.addEditorCell(this.createProperty_taq11b_b0(editorContext, node));
+    editorCell.addEditorCell(this.createConstant_taq11b_c0(editorContext, node));
+    editorCell.addEditorCell(this.createRefNode_taq11b_d0(editorContext, node));
     return editorCell;
   }
 
-  private EditorCell createConstant_84i1v2_c0(EditorContext editorContext, SNode node) {
-    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, " ");
-    editorCell.setCellId("Constant_84i1v2_c0");
+  private EditorCell createConstant_taq11b_a0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "convert to ");
+    editorCell.setCellId("Constant_taq11b_a0");
     editorCell.setDefaultText("");
     return editorCell;
   }
 
-  private EditorCell createProperty_84i1v2_a0(EditorContext editorContext, SNode node) {
-    CellProviderWithRole provider = new PropertyCellProvider(node, editorContext);
-    provider.setRole("amount");
-    provider.setNoTargetText("<no amount>");
+  private EditorCell createConstant_taq11b_c0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "using");
+    editorCell.setCellId("Constant_taq11b_c0");
+    editorCell.setDefaultText("");
+    return editorCell;
+  }
+
+  private EditorCell createRefNode_taq11b_d0(EditorContext editorContext, SNode node) {
+    CellProviderWithRole provider = new RefNodeCellProvider(node, editorContext);
+    provider.setRole("conversionTable");
+    provider.setNoTargetText("<no conversionTable>");
     EditorCell editorCell;
     editorCell = provider.createEditorCell(editorContext);
-    editorCell.setCellId("property_amount");
     editorCell.setSubstituteInfo(provider.createDefaultSubstituteInfo());
     SNode attributeConcept = provider.getRoleAttribute();
     Class attributeKind = provider.getRoleAttributeClass();
@@ -52,13 +60,13 @@ public class MoneyLiteral_Editor extends DefaultNodeEditor {
     return editorCell;
   }
 
-  private EditorCell createProperty_84i1v2_b0(EditorContext editorContext, SNode node) {
+  private EditorCell createProperty_taq11b_b0(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new PropertyCellProvider(node, editorContext);
-    provider.setRole("currecy");
-    provider.setNoTargetText("<no currecy>");
+    provider.setRole("targetCurrency");
+    provider.setNoTargetText("<no targetCurrency>");
     EditorCell editorCell;
     editorCell = provider.createEditorCell(editorContext);
-    editorCell.setCellId("property_currecy");
+    editorCell.setCellId("property_targetCurrency");
     editorCell.setSubstituteInfo(provider.createDefaultSubstituteInfo());
     SNode attributeConcept = provider.getRoleAttribute();
     Class attributeKind = provider.getRoleAttributeClass();

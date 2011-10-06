@@ -6,16 +6,16 @@ import java.math.BigDecimal;
 
 public class Money {
   private BigDecimal myAmount;
-  private String myCurrence;
+  private String myCurrency;
 
   public Money(BigDecimal amount, String currency) {
     this.setAmount(amount);
-    this.setCurrence(currency);
+    this.setCurrency(currency);
   }
 
   public Money(int amount, String currency) {
     this.setAmount(new BigDecimal(amount));
-    this.setCurrence(currency);
+    this.setCurrency(currency);
   }
 
   public Money to(String targetCurrency) {
@@ -24,7 +24,23 @@ public class Money {
 
   @Override
   public String toString() {
-    return this.getAmount() + " " + this.getCurrence();
+    return this.getAmount() + " " + this.getCurrency();
+  }
+
+  public Money plus(final Money other) {
+    if (!(this.getCurrency().equals(other.getCurrency()))) {
+      throw new IllegalArgumentException("The currencies do not match: " + this.getCurrency() + ":" + other.getCurrency());
+    } else {
+      return new Money(this.getAmount().add(other.getAmount()), this.getCurrency());
+    }
+  }
+
+  public Money minus(final Money other) {
+    if (!(this.getCurrency().equals(other.getCurrency()))) {
+      throw new IllegalArgumentException("The currencies do not match: " + this.getCurrency() + ":" + other.getCurrency());
+    } else {
+      return new Money(this.getAmount().subtract(other.getAmount()), this.getCurrency());
+    }
   }
 
   public BigDecimal getAmount() {
@@ -35,11 +51,11 @@ public class Money {
     this.myAmount = value;
   }
 
-  public String getCurrence() {
-    return this.myCurrence;
+  public String getCurrency() {
+    return this.myCurrency;
   }
 
-  private void setCurrence(String value) {
-    this.myCurrence = value;
+  private void setCurrency(String value) {
+    this.myCurrency = value;
   }
 }
