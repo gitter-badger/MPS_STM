@@ -7,6 +7,7 @@
   <language namespace="cccc689c-f365-4862-a8b6-34ecddf8ee26(jetbrains.mps.baseLanguage.dates)" />
   <language namespace="83888646-71ce-4f1c-9c53-c54016f6ad4f(jetbrains.mps.baseLanguage.collections)" />
   <language namespace="67b828fd-8fbc-4496-b7f7-8b64ac097c62(SampleExtensions)" />
+  <language namespace="662a9f2b-5802-4d16-9558-72c65c7a681e(Money)" />
   <import index="e2lb" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" version="-1" />
   <import index="fxg7" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.io(JDK/java.io@java_stub)" version="-1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
@@ -16,6 +17,7 @@
   <import index="tp6y" modelUID="r:00000000-0000-4000-0000-011c895903d6(jetbrains.mps.baseLanguage.dates.accessories)" version="-1" implicit="yes" />
   <import index="tp6x" modelUID="r:00000000-0000-4000-0000-011c895903d5(jetbrains.mps.baseLanguage.dates.structure)" version="1" implicit="yes" />
   <import index="tp2q" modelUID="r:00000000-0000-4000-0000-011c8959032e(jetbrains.mps.baseLanguage.collections.structure)" version="7" implicit="yes" />
+  <import index="v0h4" modelUID="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" version="-1" implicit="yes" />
   <roots>
     <node type="tpee.ClassConcept" typeId="tpee.1068390468198" id="4268640335983732166">
       <property name="name" nameId="tpck.1169194664001" value="Test" />
@@ -32,15 +34,6 @@
     <node type="z9zu.DiscountRuleSet" typeId="z9zu.3399367608522374850" id="3399367608522553708">
       <property name="product" nameId="z9zu.3399367608522385013" value="IDEA" />
       <property name="name" nameId="tpck.1169194664001" value="IdeaDiscounts2011" />
-    </node>
-    <node type="z9zu.CConcept" typeId="z9zu.8517288965981112513" id="8517288965981136198" />
-    <node type="z9zu.BConcept" typeId="z9zu.8517288965981112503" id="8517288965981141845">
-      <property name="value" nameId="z9zu.8517288965981112506" value="B1" />
-      <property name="name" nameId="tpck.1169194664001" value="b1" />
-    </node>
-    <node type="z9zu.BConcept" typeId="z9zu.8517288965981112503" id="8517288965981141846">
-      <property name="value" nameId="z9zu.8517288965981112506" value="B2" />
-      <property name="name" nameId="tpck.1169194664001" value="b2" />
     </node>
     <node type="tpee.ClassConcept" typeId="tpee.1068390468198" id="393299394024635966">
       <property name="name" nameId="tpck.1169194664001" value="Sample" />
@@ -272,14 +265,6 @@
       </node>
     </node>
   </root>
-  <root id="8517288965981136198">
-    <node role="aconcept" roleId="z9zu.8517288965981112516" type="z9zu.AConcept" typeId="z9zu.8517288965981100155" id="8517288965981186463">
-      <property name="foo" nameId="z9zu.8517288965981178922" value="aSJHG" />
-      <link role="b" roleId="z9zu.8517288965981112501" targetNodeId="8517288965981141845" resolveInfo="b1" />
-    </node>
-  </root>
-  <root id="8517288965981141845" />
-  <root id="8517288965981141846" />
   <root id="393299394024635966">
     <node role="field" roleId="tpee.1068390468199" type="tpee.FieldDeclaration" typeId="tpee.1068390468200" id="4773190895161956519">
       <property name="name" nameId="tpck.1169194664001" value="title" />
@@ -352,6 +337,50 @@
                 </node>
                 <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="4773190895161960366">
                   <property name="value" nameId="tpee.1070475926801" value="Title: " />
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node role="statement" roleId="tpee.1068581517665" type="tpee.LocalVariableDeclarationStatement" typeId="tpee.1068581242864" id="5447719361346495060">
+          <node role="localVariableDeclaration" roleId="tpee.1068581242865" type="tpee.LocalVariableDeclaration" typeId="tpee.1068581242863" id="5447719361346495061">
+            <property name="name" nameId="tpck.1169194664001" value="money" />
+            <node role="type" roleId="tpee.5680397130376446158" type="v0h4.MoneyType" typeId="v0h4.5447719361346490730" id="5447719361346496415" />
+            <node role="initializer" roleId="tpee.1068431790190" type="v0h4.MoneyLiteral" typeId="v0h4.5447719361346490674" id="5447719361346496649">
+              <property name="amount" nameId="v0h4.5447719361346490755" value="10" />
+              <property name="currecy" nameId="v0h4.5447719361346490756" value="eur" />
+            </node>
+          </node>
+        </node>
+        <node role="statement" roleId="tpee.1068581517665" type="tpee.LocalVariableDeclarationStatement" typeId="tpee.1068581242864" id="5447719361346519841">
+          <node role="localVariableDeclaration" roleId="tpee.1068581242865" type="tpee.LocalVariableDeclaration" typeId="tpee.1068581242863" id="5447719361346519842">
+            <property name="name" nameId="tpck.1169194664001" value="myMoney" />
+            <node role="type" roleId="tpee.5680397130376446158" type="v0h4.MoneyType" typeId="v0h4.5447719361346490730" id="5447719361346519843" />
+            <node role="initializer" roleId="tpee.1068431790190" type="tpee.PlusExpression" typeId="tpee.1068581242875" id="5447719361346519846">
+              <node role="rightExpression" roleId="tpee.1081773367579" type="v0h4.MoneyLiteral" typeId="v0h4.5447719361346490674" id="5447719361346519849">
+                <property name="amount" nameId="v0h4.5447719361346490755" value="20" />
+                <property name="currecy" nameId="v0h4.5447719361346490756" value="eur" />
+              </node>
+              <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.LocalVariableReference" typeId="tpee.1068581242866" id="5447719361346519845">
+                <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="5447719361346495061" resolveInfo="money" />
+              </node>
+            </node>
+          </node>
+        </node>
+        <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="5447719361346519285">
+          <node role="expression" roleId="tpee.1068580123156" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5447719361346519286">
+            <node role="operand" roleId="tpee.1197027771414" type="tpee.StaticFieldReference" typeId="tpee.1070533707846" id="5447719361346519287">
+              <link role="classifier" roleId="tpee.1144433057691" targetNodeId="e2lb.~System" resolveInfo="System" />
+              <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="e2lb.~System%dout" resolveInfo="out" />
+            </node>
+            <node role="operation" roleId="tpee.1197027833540" type="tpee.InstanceMethodCallOperation" typeId="tpee.1202948039474" id="5447719361346519288">
+              <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="fxg7.~PrintStream%dprintln(java%dlang%dString)%cvoid" resolveInfo="println" />
+              <node role="actualArgument" roleId="tpee.1068499141038" type="tpee.PlusExpression" typeId="tpee.1068581242875" id="5447719361346519290">
+                <node role="rightExpression" roleId="tpee.1081773367579" type="tpee.LocalVariableReference" typeId="tpee.1068581242866" id="5447719361346519293">
+                  <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="5447719361346495061" resolveInfo="money" />
+                </node>
+                <node role="leftExpression" roleId="tpee.1081773367580" type="tpee.StringLiteral" typeId="tpee.1070475926800" id="5447719361346519289">
+                  <property name="value" nameId="tpee.1070475926801" value="Money: " />
                 </node>
               </node>
             </node>
