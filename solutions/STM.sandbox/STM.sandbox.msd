@@ -12,6 +12,7 @@
     <usedLanguage>67b828fd-8fbc-4496-b7f7-8b64ac097c62(SampleExtensions)</usedLanguage>
     <usedLanguage>cccc689c-f365-4862-a8b6-34ecddf8ee26(jetbrains.mps.baseLanguage.dates)</usedLanguage>
     <usedLanguage>7a5dda62-9140-4668-ab76-d5ed1746f2b2(jetbrains.mps.lang.typesystem)</usedLanguage>
+    <usedLanguage>3304fc6e-7c6b-401e-a016-b944934bb21f(jetbrains.mps.baseLanguage.math)</usedLanguage>
   </usedLanguages>
 </solution>
 

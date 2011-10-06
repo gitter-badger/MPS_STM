@@ -10,10 +10,20 @@ import jetbrains.mps.nodeEditor.cells.EditorCell_Collection;
 import jetbrains.mps.nodeEditor.style.Style;
 import jetbrains.mps.nodeEditor.style.StyleAttributes;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
+import jetbrains.mps.nodeEditor.cells.EditorCell_Indent;
+import jetbrains.mps.nodeEditor.cells.EditorCell_Component;
 import jetbrains.mps.nodeEditor.cellProviders.CellProviderWithRole;
 import jetbrains.mps.lang.editor.cellProviders.RefNodeCellProvider;
 import jetbrains.mps.smodel.IOperationContext;
 import jetbrains.mps.nodeEditor.EditorManager;
+import javax.swing.JComponent;
+import jetbrains.mps.plugins.MacrosUtil;
+import jetbrains.mps.lang.core.behavior.INamedConcept_Behavior;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SModelOperations;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations;
+import javax.swing.Icon;
+import javax.swing.ImageIcon;
+import javax.swing.JLabel;
 
 public class AtomicBlock_Editor extends DefaultNodeEditor {
   public EditorCell createEditorCell(EditorContext editorContext, SNode node) {
@@ -24,43 +34,94 @@ public class AtomicBlock_Editor extends DefaultNodeEditor {
     EditorCell_Collection editorCell = EditorCell_Collection.createIndent2(editorContext, node);
     editorCell.setCellId("Collection_z837p1_a");
     editorCell.addEditorCell(this.createConstant_z837p1_a0(editorContext, node));
-    editorCell.addEditorCell(this.createCollection_z837p1_b0(editorContext, node));
-    editorCell.addEditorCell(this.createConstant_z837p1_c0(editorContext, node));
+    editorCell.addEditorCell(this.createIndentCell_z837p1_b0(editorContext, node));
+    editorCell.addEditorCell(this.createIndentCell_z837p1_c0(editorContext, node));
+    editorCell.addEditorCell(this.createJComponent_z837p1_d0(editorContext, node));
+    editorCell.addEditorCell(this.createCollection_z837p1_e0(editorContext, node));
+    editorCell.addEditorCell(this.createConstant_z837p1_f0(editorContext, node));
+    editorCell.addEditorCell(this.createIndentCell_z837p1_g0(editorContext, node));
+    editorCell.addEditorCell(this.createIndentCell_z837p1_h0(editorContext, node));
+    editorCell.addEditorCell(this.createJComponent_z837p1_i0(editorContext, node));
+    editorCell.addEditorCell(this.createConstant_z837p1_j0(editorContext, node));
     return editorCell;
   }
 
-  private EditorCell createCollection_z837p1_b0(EditorContext editorContext, SNode node) {
+  private EditorCell createCollection_z837p1_e0(EditorContext editorContext, SNode node) {
     EditorCell_Collection editorCell = EditorCell_Collection.createVertical(editorContext, node);
-    editorCell.setCellId("Collection_z837p1_b0");
+    editorCell.setCellId("Collection_z837p1_e0");
     {
       Style style = editorCell.getStyle();
       style.set(StyleAttributes.SELECTABLE, false);
       style.set(StyleAttributes.INDENT_LAYOUT_ON_NEW_LINE, true);
       style.set(StyleAttributes.INDENT_LAYOUT_INDENT, true);
     }
-    editorCell.addEditorCell(this.createRefNode_z837p1_a1a(editorContext, node));
+    editorCell.addEditorCell(this.createRefNode_z837p1_a4a(editorContext, node));
     return editorCell;
   }
 
   private EditorCell createConstant_z837p1_a0(EditorContext editorContext, SNode node) {
-    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "atomicBlock {");
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, " ");
     editorCell.setCellId("Constant_z837p1_a0");
-    editorCell.setDefaultText("");
-    return editorCell;
-  }
-
-  private EditorCell createConstant_z837p1_c0(EditorContext editorContext, SNode node) {
-    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "}");
-    editorCell.setCellId("Constant_z837p1_c0");
     {
       Style style = editorCell.getStyle();
-      style.set(StyleAttributes.INDENT_LAYOUT_ON_NEW_LINE, true);
+      style.set(StyleAttributes.INDENT_LAYOUT_INDENT, true);
     }
     editorCell.setDefaultText("");
     return editorCell;
   }
 
-  private EditorCell createRefNode_z837p1_a1a(EditorContext editorContext, SNode node) {
+  private EditorCell createConstant_z837p1_f0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, " ");
+    editorCell.setCellId("Constant_z837p1_f0");
+    {
+      Style style = editorCell.getStyle();
+      style.set(StyleAttributes.INDENT_LAYOUT_ON_NEW_LINE, true);
+      style.set(StyleAttributes.INDENT_LAYOUT_INDENT, true);
+    }
+    editorCell.setDefaultText("");
+    return editorCell;
+  }
+
+  private EditorCell createConstant_z837p1_j0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, " ");
+    editorCell.setCellId("Constant_z837p1_j0");
+    editorCell.setDefaultText("");
+    return editorCell;
+  }
+
+  private EditorCell createIndentCell_z837p1_b0(EditorContext editorContext, SNode node) {
+    EditorCell_Indent result = new EditorCell_Indent(editorContext, node);
+    return result;
+  }
+
+  private EditorCell createIndentCell_z837p1_c0(EditorContext editorContext, SNode node) {
+    EditorCell_Indent result = new EditorCell_Indent(editorContext, node);
+    return result;
+  }
+
+  private EditorCell createIndentCell_z837p1_g0(EditorContext editorContext, SNode node) {
+    EditorCell_Indent result = new EditorCell_Indent(editorContext, node);
+    return result;
+  }
+
+  private EditorCell createIndentCell_z837p1_h0(EditorContext editorContext, SNode node) {
+    EditorCell_Indent result = new EditorCell_Indent(editorContext, node);
+    return result;
+  }
+
+  private EditorCell createJComponent_z837p1_d0(EditorContext editorContext, SNode node) {
+    EditorCell editorCell = EditorCell_Component.createComponentCell(editorContext, node, AtomicBlock_Editor._QueryFunction_JComponent_z837p1_a3a(node, editorContext), "_z837p1_d0");
+    editorCell.setCellId("JComponent_z837p1_d0");
+    return editorCell;
+  }
+
+  private EditorCell createJComponent_z837p1_i0(EditorContext editorContext, SNode node) {
+    EditorCell editorCell = EditorCell_Component.createComponentCell(editorContext, node, AtomicBlock_Editor._QueryFunction_JComponent_z837p1_a8a(node, editorContext), "_z837p1_i0");
+    editorCell.setCellId("JComponent_z837p1_i0");
+    return editorCell;
+  }
+
+  private EditorCell createRefNode_z837p1_a4a(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new RefNodeCellProvider(node, editorContext);
     provider.setRole("body");
     provider.setNoTargetText("<no body>");
@@ -75,5 +136,17 @@ public class AtomicBlock_Editor extends DefaultNodeEditor {
       return manager.createRoleAttributeCell(editorContext, attributeConcept, attributeKind, editorCell);
     } else
     return editorCell;
+  }
+
+  private static JComponent _QueryFunction_JComponent_z837p1_a3a(SNode node, EditorContext editorContext) {
+    String expandPath = MacrosUtil.expandPath("${language_descriptor}/atomIcon.jpg", INamedConcept_Behavior.call_getFqName_1213877404258(SModelOperations.getModuleStub(SNodeOperations.getModel(SNodeOperations.getConceptDeclaration(node)))));
+    Icon icon = new ImageIcon(expandPath);
+    return new JLabel(icon);
+  }
+
+  private static JComponent _QueryFunction_JComponent_z837p1_a8a(SNode node, EditorContext editorContext) {
+    String expandPath = MacrosUtil.expandPath("${language_descriptor}/atomIconEnd.jpg", INamedConcept_Behavior.call_getFqName_1213877404258(SModelOperations.getModuleStub(SNodeOperations.getModel(SNodeOperations.getConceptDeclaration(node)))));
+    Icon icon = new ImageIcon(expandPath);
+    return new JLabel(icon);
   }
 }
