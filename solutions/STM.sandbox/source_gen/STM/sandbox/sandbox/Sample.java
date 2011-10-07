@@ -25,7 +25,10 @@ public class Sample {
     Money m = new Money(30, "usd").plus(new Money(20, "usd"));
     System.out.println("Money: " + money);
     System.out.println("Money: " + money.getCurrency());
-
-    System.out.println("Converted " + money.to("usd").getAmount());
+    // editor actions for money when they do not end with a constant 
+    // convert to needs a type rule demanding MoneyConversion, MoneyConversionType may not be needed 
+    // edit MoneyConversion as tables 
+    // use MoneyConversion to do conversions 
+    System.out.println("Converted " + money.to("usd").getAmount());/* error: statement w/o textGen:my_if */
   }
 }

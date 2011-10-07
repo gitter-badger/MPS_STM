@@ -12,6 +12,8 @@ public class IntentionsDescriptor extends BaseIntentionsDescriptor {
   }
 
   public void init() {
+    add(new ConvertIfToMyIf_Intention(), "954830572076084528");
+    add(new ConvertMyIfToIf_Intention(), "954830572076058611");
     add(new SurroundWithUnless_Intention(), "393299394024647596");
     add(new TurnToIfStatement_Intention(), "393299394024668987");
     add(new UnwrapUnlessBlock_Intention(), "393299394024667052");
