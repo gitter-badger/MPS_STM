@@ -25,7 +25,7 @@ public class Sample {
         if (!(false)) {
           int result = StmUtils.execute(new AtomicClosure<Integer>() {
             public Integer execute(Transaction p0) throws Exception {
-              String s = "Demo";
+              String s = Sample.create();
               Sample demo = new Sample(s);
               System.out.println("Title: " + demo.title);
               return 10;
@@ -37,13 +37,14 @@ public class Sample {
     }).start();
 
 
+
     // editor actions for money when they do not end with a constant 
     // convert to needs a type rule demanding MoneyConversion, MoneyConversionType may not be needed 
     // edit MoneyConversion as tables 
     // use MoneyConversion to do conversions 
     // Add unit tests for some of the language elements 
 
-    final Money money = new Money(10, "usd");
+    final Money money = new Money(20, "usd");
 
     if (money.getCurrency() != "usd") {
       int value1 = 10;
@@ -59,5 +60,9 @@ public class Sample {
       System.out.println("Foo");
       System.out.println("Bar");
     }
+  }
+
+  private static String create() {
+    return "Demo";
   }
 }

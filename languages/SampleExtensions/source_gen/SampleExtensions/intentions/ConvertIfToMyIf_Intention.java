@@ -49,6 +49,7 @@ public class ConvertIfToMyIf_Intention extends BaseIntention implements Intentio
       ListSequence.fromList(SLinkOperations.getTargets(SLinkOperations.getTarget(statement, "alternative", true), "statement", true)).addElement(SLinkOperations.getTarget(node, "ifFalseStatement", true));
     }
     SNodeOperations.replaceWithAnother(node, statement);
+    editorContext.select(SLinkOperations.getTarget(statement, "condition", true));
   }
 
   public String getLocationString() {

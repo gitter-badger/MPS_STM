@@ -47,6 +47,7 @@ public class ConvertMyIfToIf_Intention extends BaseIntention implements Intentio
     SLinkOperations.setTarget(statement, "ifFalseStatement", SConceptOperations.createNewNode("jetbrains.mps.baseLanguage.structure.BlockStatement", null), true);
     SLinkOperations.setTarget(SNodeOperations.cast(SLinkOperations.getTarget(statement, "ifFalseStatement", true), "jetbrains.mps.baseLanguage.structure.BlockStatement"), "statements", ifFalseBody, true);
     SNodeOperations.replaceWithAnother(node, statement);
+    editorContext.select(SLinkOperations.getTarget(statement, "condition", true));
   }
 
   public String getLocationString() {
