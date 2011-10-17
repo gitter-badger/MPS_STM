@@ -66,9 +66,18 @@
     <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Collection" typeId="tpc2.1073389446423" id="954830572075973683">
       <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="954830572075973686">
         <property name="text" nameId="tpc2.1073389577007" value="on condition that" />
+        <node role="styleItem" roleId="tpc2.1219418656006" type="tpc2.FontStyleStyleClassItem" typeId="tpc2.1186403751766" id="2390704698224420599">
+          <property name="style" nameId="tpc2.1186403771423" value="BOLD_ITALIC" />
+        </node>
       </node>
       <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_RefNode" typeId="tpc2.1073389882823" id="954830572075973688">
         <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="3v68.954830572075912397" />
+        <node role="styleItem" roleId="tpc2.1219418656006" type="tpc2.BackgroundColorStyleClassItem" typeId="tpc2.1186404574412" id="2390704698224419658">
+          <property name="color" nameId="tpc2.1186403713874" value="yellow" />
+          <node role="query" roleId="tpc2.1186403803051" type="tpc2.RGBColor" typeId="tpc2.1225456267680" id="2390704698224421926">
+            <property name="value" nameId="tpc2.1225456424731" value="F5F5DC" />
+          </node>
+        </node>
       </node>
       <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_RefNode" typeId="tpc2.1073389882823" id="954830572075974223">
         <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="3v68.954830572075912398" />
@@ -96,6 +105,15 @@
     <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Collection" typeId="tpc2.1073389446423" id="954830572075974241">
       <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_ConceptProperty" typeId="tpc2.1137553248617" id="954830572075998498">
         <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="3v68.954830572075998497" resolveInfo="title" />
+        <node role="styleItem" roleId="tpc2.1219418656006" type="tpc2.BackgroundColorStyleClassItem" typeId="tpc2.1186404574412" id="2390704698224369861">
+          <property name="color" nameId="tpc2.1186403713874" value="orange" />
+          <node role="query" roleId="tpc2.1186403803051" type="tpc2.RGBColor" typeId="tpc2.1225456267680" id="2390704698224421552">
+            <property name="value" nameId="tpc2.1225456424731" value="F5F5DC" />
+          </node>
+        </node>
+        <node role="styleItem" roleId="tpc2.1219418656006" type="tpc2.FontStyleStyleClassItem" typeId="tpc2.1186403751766" id="2390704698224420227">
+          <property name="style" nameId="tpc2.1186403771423" value="BOLD_ITALIC" />
+        </node>
       </node>
       <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_RefNodeList" typeId="tpc2.1073390211982" id="954830572075974244">
         <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="tpee.1068581517665" />

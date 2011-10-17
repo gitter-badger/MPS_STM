@@ -8,13 +8,15 @@ import jetbrains.mps.nodeEditor.EditorContext;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Collection;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
+import jetbrains.mps.nodeEditor.style.Style;
+import jetbrains.mps.nodeEditor.style.StyleAttributes;
+import jetbrains.mps.nodeEditor.MPSFonts;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Indent;
 import jetbrains.mps.nodeEditor.cellProviders.CellProviderWithRole;
 import jetbrains.mps.lang.editor.cellProviders.RefNodeCellProvider;
+import java.awt.Color;
 import jetbrains.mps.smodel.IOperationContext;
 import jetbrains.mps.nodeEditor.EditorManager;
-import jetbrains.mps.nodeEditor.style.Style;
-import jetbrains.mps.nodeEditor.style.StyleAttributes;
 
 public class MyIfStatement_Editor extends DefaultNodeEditor {
   public EditorCell createEditorCell(EditorContext editorContext, SNode node) {
@@ -39,6 +41,10 @@ public class MyIfStatement_Editor extends DefaultNodeEditor {
   private EditorCell createConstant_a1fgw3_a0(EditorContext editorContext, SNode node) {
     EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "on condition that");
     editorCell.setCellId("Constant_a1fgw3_a0");
+    {
+      Style style = editorCell.getStyle();
+      style.set(StyleAttributes.FONT_STYLE, MPSFonts.BOLD_ITALIC);
+    }
     editorCell.setDefaultText("");
     return editorCell;
   }
@@ -76,6 +82,10 @@ public class MyIfStatement_Editor extends DefaultNodeEditor {
     provider.setNoTargetText("<no condition>");
     EditorCell editorCell;
     editorCell = provider.createEditorCell(editorContext);
+    {
+      Style style = editorCell.getStyle();
+      style.set(StyleAttributes.BACKGROUND_COLOR, new Color(16119260));
+    }
     editorCell.setSubstituteInfo(provider.createDefaultSubstituteInfo());
     SNode attributeConcept = provider.getRoleAttribute();
     Class attributeKind = provider.getRoleAttributeClass();
