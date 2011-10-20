@@ -16,6 +16,8 @@
     <usedLanguage>3304fc6e-7c6b-401e-a016-b944934bb21f(jetbrains.mps.baseLanguage.math)</usedLanguage>
     <usedLanguage>662a9f2b-5802-4d16-9558-72c65c7a681e(Money)</usedLanguage>
     <usedLanguage>662a9f2b-5802-4d16-9558-72c65c7a681e(Money)</usedLanguage>
+    <usedLanguage>65c13e67-09b6-4695-af88-52024b7d2027(DecisionTable)</usedLanguage>
+    <usedLanguage>65c13e67-09b6-4695-af88-52024b7d2027(DecisionTable)</usedLanguage>
   </usedLanguages>
 </solution>
 

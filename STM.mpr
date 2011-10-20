@@ -21,6 +21,7 @@
       <modulePath path="${project}/languages/SampleExtensions/SampleExtensions.mpl" folder="" />
       <modulePath path="${project}/languages/Money/Money.mpl" folder="" />
       <modulePath path="${project}/solutions/MoneyRuntime/MoneyRuntime.msd" folder="" />
+      <modulePath path="${project}/languages/DecisionTable/DecisionTable.mpl" folder="" />
     </projectModules>
     <genConfs />
   </component>
