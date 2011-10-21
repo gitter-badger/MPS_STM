@@ -29,30 +29,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bafaab0b-6245-48a1-aa44-319d85c4c280" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/DecisionTable/source_gen.caches/DecisionTable/behavior/generated" afterPath="$PROJECT_DIR$/languages/DecisionTable/source_gen.caches/DecisionTable/behavior/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/DecisionTable/source_gen.caches/DecisionTable/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/DecisionTable/source_gen.caches/DecisionTable/generator/template/main/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/DecisionTable/source_gen.caches/DecisionTable/structure/generated" afterPath="$PROJECT_DIR$/languages/DecisionTable/source_gen.caches/DecisionTable/structure/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/DecisionTable/source_gen.caches/DecisionTable/typesystem/generated" afterPath="$PROJECT_DIR$/languages/DecisionTable/source_gen.caches/DecisionTable/typesystem/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/actions/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/actions/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/generator/template/main/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/behavior/generated" afterPath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/behavior/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/generated" afterPath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/generator/template/main/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/intentions/generated" afterPath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/intentions/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/scripts/generated" afterPath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/scripts/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/structure/generated" afterPath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/structure/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/textGen/generated" afterPath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/textGen/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/typesystem/generated" afterPath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/typesystem/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen/STM/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/STM/source_gen/STM/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen.caches/STM/sandbox/sandbox/dependencies" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen.caches/STM/sandbox/sandbox/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen.caches/STM/sandbox/sandbox/generated" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen.caches/STM/sandbox/sandbox/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/trace.info" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/classes_gen/STM/generator/template/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/STM/classes_gen/STM/generator/template/main/QueriesGenerated.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/classes_gen/STM/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/STM/classes_gen/STM/generator/template/main/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/classes_gen/STM/sandbox/sandbox/DecisionSample.class" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/classes_gen/STM/sandbox/sandbox/DecisionSample.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/classes_gen/STM/sandbox/sandbox/IfSample.class" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/classes_gen/STM/sandbox/sandbox/IfSample.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/classes_gen/STM/sandbox/sandbox/trace.info" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/classes_gen/STM/sandbox/sandbox/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/STM.iws" afterPath="$PROJECT_DIR$/STM.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/STM.mpl" afterPath="$PROJECT_DIR$/languages/STM/STM.mpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/STM/generator/template/main@generator.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen/STM/generator/template/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/STM/source_gen/STM/generator/template/main/QueriesGenerated.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/STM/sandbox/sandbox.mps" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/STM/sandbox/sandbox.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/Sample.java" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/Sample.java" />
     </list>
     <ignored path="STM.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,7 +65,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Sample" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Sample" pinned="false" current="false" current-in-tab="false">
         <entry file="mps://STM.sandbox.sandbox/Sample">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
@@ -91,10 +73,10 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="159" />
+                    <property name="caretX" value="323" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="3582114965807410137" />
+                      <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="8238782355405273238" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -108,18 +90,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MoneySample" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://STM.sandbox.sandbox/MoneySample">
+      <file leaf-file-name="IfSample" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://STM.sandbox.sandbox/IfSample">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
               <memento viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="15" />
+                    <property name="caretX" value="55" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
-                      <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="3607579524910567968" />
+                    <cellInfo cellId="Constant_eb7h0d_a0" cellNumber="0" isInList="false">
+                      <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="8238782355405273754" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -133,7 +115,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DecisionSample" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="DecisionSample" pinned="false" current="true" current-in-tab="true">
         <entry file="mps://STM.sandbox.sandbox/DecisionSample">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
@@ -141,10 +123,10 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="453" />
+                    <property name="caretX" value="131" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_value" cellNumber="0" isInList="false">
-                      <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="2603031361000938104" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="1987251859607087470" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -574,7 +556,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="Java Application.Class Sample">
+  <component name="RunManager" selected="Java Application.Class DecisionSample">
     <configuration default="false" name="Class Sample" type="Java Application" factoryName="Java" temporary="true">
       <MyState />
       <myNode>
@@ -702,7 +684,7 @@
     <frame x="109" y="-9" width="1820" height="1218" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32990655" sideWeight="0.4957699" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32990655" sideWeight="0.49125776" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -716,11 +698,11 @@
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24929498" sideWeight="0.6700935" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24299066" sideWeight="0.49125776" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24299066" sideWeight="0.48674563" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32990655" sideWeight="0.49971798" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32990655" sideWeight="0.50423014" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -762,7 +744,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polished the demos" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -775,6 +757,8 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Fixed generation for atomic expression" />
+    <MESSAGE value="Polished the demos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="mps://MoneyRuntime.classes/Money">
@@ -870,29 +854,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://STM.sandbox.sandbox/DecisionSample">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="453" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
-                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="2603031361000938104" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://STM.structure/AtomicExpression">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
@@ -915,6 +876,11 @@
           </inspectorMemento>
           <node nodeId="1285780675014199476" modelId="r:fff77d26-13ef-4f02-80fa-110dcc610c0c(STM.generator.template.main@generator)" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="14" selection-start="728" selection-end="728" vertical-scroll-proportion="0.59149486" />
       </provider>
     </entry>
     <entry file="mps://STM.sandbox.sandbox/MoneySample">
@@ -940,9 +906,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/Sample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="14" selection-start="728" selection-end="728" vertical-scroll-proportion="0.59149486" />
+    <entry file="mps://STM.sandbox.sandbox/IfSample">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="55" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_eb7h0d_a0" cellNumber="0" isInList="false">
+                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="8238782355405273754" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
       </provider>
     </entry>
     <entry file="mps://STM.sandbox.sandbox/Sample">
@@ -952,10 +936,33 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="159" />
+                <property name="caretX" value="323" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="3582114965807410137" />
+                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="8238782355405273238" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://STM.sandbox.sandbox/DecisionSample">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="131" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="1987251859607087470" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
