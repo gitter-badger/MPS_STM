@@ -18,13 +18,5 @@ public class Sample {
   public static void main(final String[] args) {
     Sample demo = new Sample("Demo");
     System.out.println("Title: " + demo.title);
-
-    // editor actions for money when they do not end with a constant 
-    // convert to needs a type rule demanding MoneyConversion, MoneyConversionType may not be needed 
-    // edit MoneyConversion as tables 
-    // use MoneyConversion to do conversions 
-    // Add unit tests for some of the language elements 
-
-    return;
   }
 }

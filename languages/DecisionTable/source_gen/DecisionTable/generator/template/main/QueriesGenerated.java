@@ -15,6 +15,7 @@ import jetbrains.mps.baseLanguage.structure.Expression;
 import jetbrains.mps.internal.collections.runtime.ListSequence;
 import jetbrains.mps.generator.template.SourceSubstituteMacroNodesContext;
 import jetbrains.mps.internal.collections.runtime.SetSequence;
+import java.util.List;
 import jetbrains.mps.internal.collections.runtime.IVisitor;
 import jetbrains.mps.generator.template.WeavingMappingRuleContext;
 
@@ -55,7 +56,7 @@ public class QueriesGenerated {
     SNode t = SNodeOperations.getAncestor(_context.getNode(), "DecisionTable.structure.DecisionTable", false, false);
     SNode rowHeader = _context.getNode();
     SNode colHeader = (SNode) ((Expression) SNodeOperations.getAdapter(_context.getNode())).getUserObject("colHeader");
-    return ListSequence.fromList(SLinkOperations.getTargets(t, "resultValues", true)).getElement(SNodeOperations.getIndexInParent(colHeader) * ListSequence.fromList(SLinkOperations.getTargets(t, "colHeaders", true)).count() + SNodeOperations.getIndexInParent(rowHeader));
+    return ListSequence.fromList(SLinkOperations.getTargets(t, "resultValues", true)).getElement(SNodeOperations.getIndexInParent(rowHeader) * ListSequence.fromList(SLinkOperations.getTargets(t, "colHeaders", true)).count() + SNodeOperations.getIndexInParent(colHeader));
   }
 
   public static SNode sourceNodeQuery_3863300516938186028(final IOperationContext operationContext, final SourceSubstituteMacroNodeContext _context) {
@@ -91,15 +92,16 @@ public class QueriesGenerated {
   }
 
   public static Iterable sourceNodesQuery_3863300516938171067(final IOperationContext operationContext, final SourceSubstituteMacroNodesContext _context) {
-    return SLinkOperations.getTargets(SNodeOperations.getAncestor(_context.getNode(), "DecisionTable.structure.DecisionTable", false, false), "rowHeaders", true);
-  }
-
-  public static Iterable sourceNodesQuery_3863300516938170992(final IOperationContext operationContext, final SourceSubstituteMacroNodesContext _context) {
-    ListSequence.fromList(SLinkOperations.getTargets(_context.getNode(), "rowHeaders", true)).visitAll(new IVisitor<SNode>() {
+    List<SNode> rowHeaders = SLinkOperations.getTargets(SNodeOperations.getAncestor(_context.getNode(), "DecisionTable.structure.DecisionTable", false, false), "rowHeaders", true);
+    ListSequence.fromList(rowHeaders).visitAll(new IVisitor<SNode>() {
       public void visit(SNode it) {
         ((Expression) SNodeOperations.getAdapter(it)).putUserObject("colHeader", _context.getNode());
       }
     });
+    return rowHeaders;
+  }
+
+  public static Iterable sourceNodesQuery_3863300516938170992(final IOperationContext operationContext, final SourceSubstituteMacroNodesContext _context) {
     return SLinkOperations.getTargets(_context.getNode(), "colHeaders", true);
   }
 

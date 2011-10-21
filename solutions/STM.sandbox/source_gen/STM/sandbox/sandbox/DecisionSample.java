@@ -10,18 +10,58 @@ public class DecisionSample {
   public DecisionSample() {
   }
 
-  public int main_0() {
-  }
-
-  public static void main(String[] args) {
+  public void run(String[] args) {
     Map<String, Object> person = MapSequence.fromMap(new HashMap<String, Object>());
     MapSequence.fromMap(person).put("name", "Joe");
     MapSequence.fromMap(person).put("age", 29);
-    MapSequence.fromMap(person).put("gender", "male");
+    MapSequence.fromMap(person).put("gender", "female");
 
-    int discount = main_0();
+    int discount = run_0(person, args);
 
-    System.out.println("Value: " + discount);
+    System.out.println("Your discount: " + discount);
+  }
+
+  public int run_0(Map<String, Object> person, String[] args) {
+    if (isMale(person)) {
+      if (isBaby(person)) {
+        return 100;
+      }
+      if (isChild(person)) {
+        return 50;
+      }
+      if (isAdult(person)) {
+        return 0;
+      }
+      if (isRetired(person)) {
+        return 20;
+      }
+      if (args.length > 0) {
+        return 0;
+      }
+    }
+    if (isFemale(person)) {
+      if (isBaby(person)) {
+        return 101;
+      }
+      if (isChild(person)) {
+        return 51;
+      }
+      if (isAdult(person)) {
+        return 1;
+      }
+      if (isRetired(person)) {
+        return 12;
+      }
+      if (args.length > 0) {
+        return 1;
+      }
+    }
+    return 0;
+  }
+
+  public static void main(String[] args) {
+    new DecisionSample().run(args);
+
   }
 
   public static boolean isBaby(Map<String, Object> person) {
