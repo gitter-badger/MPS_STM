@@ -7,6 +7,7 @@ import jetbrains.mps.nodeEditor.cells.EditorCell;
 import jetbrains.mps.nodeEditor.EditorContext;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Collection;
+import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
 import jetbrains.mps.nodeEditor.cellProviders.CellProviderWithRole;
 import jetbrains.mps.lang.editor.cellProviders.RefNodeCellProvider;
 import jetbrains.mps.smodel.IOperationContext;
@@ -26,8 +27,16 @@ public class DecisionTable_Editor extends DefaultNodeEditor {
     EditorCell_Collection editorCell = EditorCell_Collection.createIndent2(editorContext, node);
     editorCell.setCellId("Collection_h1ymql_a");
     editorCell.addEditorCell(this.createRefNode_h1ymql_a0(editorContext, node));
-    editorCell.addEditorCell(this.createRefNode_h1ymql_b0(editorContext, node));
-    editorCell.addEditorCell(this.createTable_h1ymql_c0(editorContext, node));
+    editorCell.addEditorCell(this.createConstant_h1ymql_b0(editorContext, node));
+    editorCell.addEditorCell(this.createRefNode_h1ymql_c0(editorContext, node));
+    editorCell.addEditorCell(this.createTable_h1ymql_d0(editorContext, node));
+    return editorCell;
+  }
+
+  private EditorCell createConstant_h1ymql_b0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "Default:");
+    editorCell.setCellId("Constant_h1ymql_b0");
+    editorCell.setDefaultText("");
     return editorCell;
   }
 
@@ -48,7 +57,7 @@ public class DecisionTable_Editor extends DefaultNodeEditor {
     return editorCell;
   }
 
-  private EditorCell createRefNode_h1ymql_b0(EditorContext editorContext, SNode node) {
+  private EditorCell createRefNode_h1ymql_c0(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new RefNodeCellProvider(node, editorContext);
     provider.setRole("defaultValue");
     provider.setNoTargetText("<no defaultValue>");
@@ -65,14 +74,14 @@ public class DecisionTable_Editor extends DefaultNodeEditor {
     return editorCell;
   }
 
-  private EditorCell createTable_h1ymql_c0(EditorContext editorContext, SNode node) {
+  private EditorCell createTable_h1ymql_d0(EditorContext editorContext, SNode node) {
     TableModelCreator creator = new TableModelCreator() {
       public TableModel getTable(final SNode node, final EditorContext editorContext) {
         return new XYCTableModel(node, SLinkOperations.findLinkDeclaration("DecisionTable.structure.DecisionTable", "colHeaders"), SLinkOperations.findLinkDeclaration("DecisionTable.structure.DecisionTable", "rowHeaders"), SLinkOperations.findLinkDeclaration("DecisionTable.structure.DecisionTable", "resultValues"), editorContext);
       }
     };
-    EditorCell_Collection editorCell = EditorCell_Table.createTable(editorContext, node, creator.getTable(node, editorContext), "Table_h1ymql_c0");
-    editorCell.setCellId("Table_h1ymql_c0_0");
+    EditorCell_Collection editorCell = EditorCell_Table.createTable(editorContext, node, creator.getTable(node, editorContext), "Table_h1ymql_d0");
+    editorCell.setCellId("Table_h1ymql_d0_0");
     return editorCell;
   }
 }

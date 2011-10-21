@@ -11,17 +11,22 @@ public class DecisionSample {
   }
 
   public void run(String[] args) {
-    Map<String, Object> person = MapSequence.fromMap(new HashMap<String, Object>());
-    MapSequence.fromMap(person).put("name", "Joe");
-    MapSequence.fromMap(person).put("age", 29);
-    MapSequence.fromMap(person).put("gender", "female");
+    Map<String, Object> person = this.createPerson();
 
-    int discount = run_0(person, args);
+    int discount = run_0(person);
 
     System.out.println("Your discount: " + discount);
   }
 
-  public int run_0(Map<String, Object> person, String[] args) {
+  private Map<String, Object> createPerson() {
+    Map<String, Object> person = MapSequence.fromMap(new HashMap<String, Object>());
+    MapSequence.fromMap(person).put("name", "Joe");
+    MapSequence.fromMap(person).put("age", 29);
+    MapSequence.fromMap(person).put("gender", "male");
+    return person;
+  }
+
+  public int run_0(Map<String, Object> person) {
     if (isMale(person)) {
       if (isBaby(person)) {
         return 100;
@@ -35,25 +40,19 @@ public class DecisionSample {
       if (isRetired(person)) {
         return 20;
       }
-      if (args.length > 0) {
-        return 0;
-      }
     }
     if (isFemale(person)) {
       if (isBaby(person)) {
-        return 101;
+        return 100;
       }
       if (isChild(person)) {
-        return 51;
+        return 50;
       }
       if (isAdult(person)) {
-        return 1;
+        return 0;
       }
       if (isRetired(person)) {
-        return 12;
-      }
-      if (args.length > 0) {
-        return 1;
+        return 10;
       }
     }
     return 0;
