@@ -8,18 +8,15 @@ public class IfSample {
   }
 
   public static void main(String[] args) {
-    if (true) {
-      int value1 = 10;
-      System.out.println("Result: " + value1);
-      System.out.println("1");
-      System.out.println("2");
-      System.out.println("3");
-      System.out.println("4");
+    if (args.length > 1) {
+      int value1 = Integer.parseInt(args[0]);
+      int value2 = Integer.parseInt(args[1]);
+      System.out.println("Result: " + (value1 + value2));
+      System.out.println("Done");
     } else {
-      int value2 = 20;
-      System.out.println("Alternative result: " + value2);
-      System.out.println("Foo");
-      System.out.println("Bar");
+      System.out.println("We can add two numbers");
+      System.out.println("Secify them as arguments");
+      System.out.println("Done");
     }
   }
 }

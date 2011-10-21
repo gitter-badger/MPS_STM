@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-2ngexira8fsb38rj9m4ppqzm0an720p">
+<dependencies version="2" modelHash="9zn1yl8odw4wz72de2jase3rlx1v4gn">
   <dep model="f:java_stub#2ebbb458-8ebb-481e-a5d7-9e27903323d4#org.joda.time(jetbrains.mps.baseLanguage.dates.runtime/org.joda.time@java_stub)" />
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.io(JDK/java.io@java_stub)" />
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
-  <dep model="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api(STM/org.multiverse.api@java_stub)" />
-  <dep model="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.closures(STM/org.multiverse.api.closures@java_stub)" />
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902b4(jetbrains.mps.lang.typesystem.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -19,7 +17,6 @@
   <dep model="r:00000000-0000-4000-0000-011c895903d7(jetbrains.mps.baseLanguage.dates.generator.baseLanguage.template.main@generator)" />
   <dep model="r:540d5e3a-9424-4c25-a6ed-9d51ec46dfad(MoneyRuntime.classes)" hash="4gekdwzqhxkp23gvxd0n4e4vv24zche" />
   <dep model="r:553cb42b-904b-4349-8a59-06c465ebc97b(DecisionTable.generator.template.main@generator)" hash="-2up6lygo5cthdayik4ty3fcpdcnm5fc" />
-  <dep model="r:a07e34b9-3902-4cb5-b6a1-b083eccaa9f3(SampleExtensions.generator.template.main@generator)" hash="-ca01pa9mr1f8a1gw3kt8qljjafb2vwv" />
   <dep model="r:a258f9a5-18d3-4bea-a833-20735290774c(jetbrains.mps.baseLanguage.overloadedOperators.structure)" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
   <dep model="r:c68260e6-0a07-47e7-af7c-570ace5903cf(Money.generator.template.main@generator)" hash="154ch6z4zrn3weypamm197185bdwgqe" />
@@ -30,7 +27,7 @@
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
   <dep model="r:fc76aa36-3cff-41c7-b94b-eee0e8341932(jetbrains.mps.internal.collections.runtime)" />
   <dep model="r:fff77d26-13ef-4f02-80fa-110dcc610c0c(STM.generator.template.main@generator)" hash="-ef092s2x9d495vgs7y2jf6exqkqho9m" />
-  <common hash="cqz0a4c6b73s3wqfd5w835sndh5wwps">
+  <common hash="-49r9cd3p6oz6vdehxuwyys9jgzphlvr">
     <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
   </common>
   <source id="4268640335983732166" name="Test" hash="1zfbrl9jp7yzexs6v3h1citff1ovwhd" dependsOnNodes="true">
@@ -38,8 +35,6 @@
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.io(JDK/java.io@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
-    <dep model="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api(STM/org.multiverse.api@java_stub)" />
-    <dep model="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.closures(STM/org.multiverse.api.closures@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c895902b4(jetbrains.mps.lang.typesystem.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -81,15 +76,12 @@
     <dep model="r:00000000-0000-4000-0000-011c895903d7(jetbrains.mps.baseLanguage.dates.generator.baseLanguage.template.main@generator)" />
     <file name="IdeaDiscounts2011" />
   </source>
-  <source id="393299394024635966" name="Sample" hash="543y6erxlfxgpxpiaq470jvc6ruid94" dependsOnNodes="true">
+  <source id="393299394024635966" name="Sample" hash="-340u0qu9ger4pq39z6zyfbpax7tyfz7" dependsOnNodes="true">
     <dep model="f:java_stub#2ebbb458-8ebb-481e-a5d7-9e27903323d4#org.joda.time(jetbrains.mps.baseLanguage.dates.runtime/org.joda.time@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.io(JDK/java.io@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
-    <dep model="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api(STM/org.multiverse.api@java_stub)" />
-    <dep model="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.closures(STM/org.multiverse.api.closures@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
-    <dep model="r:00000000-0000-4000-0000-011c895902b4(jetbrains.mps.lang.typesystem.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
@@ -98,7 +90,6 @@
     <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895903d7(jetbrains.mps.baseLanguage.dates.generator.baseLanguage.template.main@generator)" />
     <dep model="r:540d5e3a-9424-4c25-a6ed-9d51ec46dfad(MoneyRuntime.classes)" />
-    <dep model="r:a07e34b9-3902-4cb5-b6a1-b083eccaa9f3(SampleExtensions.generator.template.main@generator)" />
     <dep model="r:a258f9a5-18d3-4bea-a833-20735290774c(jetbrains.mps.baseLanguage.overloadedOperators.structure)" />
     <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
     <dep model="r:c68260e6-0a07-47e7-af7c-570ace5903cf(Money.generator.template.main@generator)" />
@@ -109,13 +100,11 @@
     <dep model="r:fff77d26-13ef-4f02-80fa-110dcc610c0c(STM.generator.template.main@generator)" />
     <file name="Sample.java" />
   </source>
-  <source id="3863300516938089393" name="DecisionSample" hash="ts9c8lutq5ujfcfkbnngo65t2829s2" dependsOnNodes="true">
+  <source id="3863300516938089393" name="DecisionSample" hash="-4q18f4xf6amj2srzalpfb9gph376dgg" dependsOnNodes="true">
     <dep model="f:java_stub#2ebbb458-8ebb-481e-a5d7-9e27903323d4#org.joda.time(jetbrains.mps.baseLanguage.dates.runtime/org.joda.time@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.io(JDK/java.io@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
-    <dep model="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api(STM/org.multiverse.api@java_stub)" />
-    <dep model="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.closures(STM/org.multiverse.api.closures@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
@@ -137,13 +126,12 @@
     <dep model="r:fff77d26-13ef-4f02-80fa-110dcc610c0c(STM.generator.template.main@generator)" />
     <file name="DecisionSample.java" />
   </source>
-  <source id="3863300516938089406" name="IfSample" hash="-6r2wftief54vyhplot60n1yh0eojfi1" dependsOnNodes="true">
+  <source id="3863300516938089406" name="IfSample" hash="b8yr6j8ipnv48km7sepwreiphc1ac8r" dependsOnNodes="true">
     <dep model="f:java_stub#2ebbb458-8ebb-481e-a5d7-9e27903323d4#org.joda.time(jetbrains.mps.baseLanguage.dates.runtime/org.joda.time@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.io(JDK/java.io@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
-    <dep model="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api(STM/org.multiverse.api@java_stub)" />
-    <dep model="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.closures(STM/org.multiverse.api.closures@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
@@ -152,7 +140,6 @@
     <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895903d7(jetbrains.mps.baseLanguage.dates.generator.baseLanguage.template.main@generator)" />
     <dep model="r:540d5e3a-9424-4c25-a6ed-9d51ec46dfad(MoneyRuntime.classes)" />
-    <dep model="r:a07e34b9-3902-4cb5-b6a1-b083eccaa9f3(SampleExtensions.generator.template.main@generator)" />
     <dep model="r:a258f9a5-18d3-4bea-a833-20735290774c(jetbrains.mps.baseLanguage.overloadedOperators.structure)" />
     <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
     <dep model="r:c68260e6-0a07-47e7-af7c-570ace5903cf(Money.generator.template.main@generator)" />
@@ -170,8 +157,6 @@
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.io(JDK/java.io@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
     <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util(JDK/java.util@java_stub)" />
-    <dep model="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api(STM/org.multiverse.api@java_stub)" />
-    <dep model="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.closures(STM/org.multiverse.api.closures@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />

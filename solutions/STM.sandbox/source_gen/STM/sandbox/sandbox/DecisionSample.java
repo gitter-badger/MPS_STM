@@ -16,6 +16,7 @@ public class DecisionSample {
 
     int discount = run_0(person);
 
+    System.out.println("Your name: " + MapSequence.fromMap(person).get("name"));
     System.out.println("Your discount: " + discount);
   }
 
@@ -36,7 +37,7 @@ public class DecisionSample {
         return 50;
       }
       if (isAdult(person)) {
-        return 0;
+        return 5;
       }
       if (isRetired(person)) {
         return 20;
@@ -50,7 +51,7 @@ public class DecisionSample {
         return 50;
       }
       if (isAdult(person)) {
-        return 0;
+        return 10;
       }
       if (isRetired(person)) {
         return 10;
