@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-33xyz58jdzxgmo9gef74gihvrlq2q8v">
+<dependencies version="2" modelHash="-ef092s2x9d495vgs7y2jf6exqkqho9m">
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902b7(jetbrains.mps.lang.typesystem.generator.baseLanguage.template.main@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -50,7 +50,7 @@
   <source id="9197116338992081428" name="reduce_AtomicClosureLiteral" hash="-aktfvih9pceyfyu1ksids6hbb08rs55">
     <dep model="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)" />
   </source>
-  <source id="1285780675014199476" name="reduce_AtomicExpression" hash="corczb089z0w7i42bwvh26sbc9l28d5">
+  <source id="1285780675014199476" name="reduce_AtomicExpression" hash="-bkrq06v8zprk8xjxmf0i9thig64putv">
     <dep model="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)" />
   </source>
 </dependencies>
