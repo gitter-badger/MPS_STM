@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-cw1vrti36pzg51xn88db0tcnfrebmao">
+<dependencies version="2" modelHash="4gekdwzqhxkp23gvxd0n4e4vv24zche">
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />
@@ -12,7 +12,7 @@
   <common hash="-3rfxxchjnoy1nn1za01wk0di1fdgck7">
     <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
   </common>
-  <source id="5447719361346501252" name="Money" hash="-b5jzrrphmsfkilyy1r4v6sx9ygddx6h">
+  <source id="5447719361346501252" name="Money" hash="-buifs1hts0mwb2ybdcjpex0d7kuhd8w">
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />

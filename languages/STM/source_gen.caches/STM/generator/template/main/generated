@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-96rpp34lajauxx0y3saq7chr0vgilfb">
+<dependencies version="2" modelHash="-33xyz58jdzxgmo9gef74gihvrlq2q8v">
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902b7(jetbrains.mps.lang.typesystem.generator.baseLanguage.template.main@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -17,7 +17,7 @@
   <dep model="r:352c9de2-07a6-423d-898a-913ad1b7a8bf(STM.structure)" hash="-7ce4axpc402bc75qdm3w95gvowgc310" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
-  <common hash="-e6nm2e38kzhnxnxpqfgghvgovuv5sww" dependsOnNodes="true">
+  <common hash="c8meria884bxv9x8pmiv00s9og85isd" dependsOnNodes="true">
     <dep root="1285780675014199476" />
     <dep root="683676710780429733" />
     <dep root="683676710780429734" />
@@ -47,10 +47,10 @@
   <source id="683676710780429734" name="reduce_AsyncClosureExecution" hash="-9imo3hfmrn7et43ei5lcy6m2himy8xc">
     <dep model="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)" />
   </source>
-  <source id="9197116338992081428" name="reduce_AtomicClosureLiteral" hash="3sus3rztree4f9anis4eocewa3dnmpc">
+  <source id="9197116338992081428" name="reduce_AtomicClosureLiteral" hash="-aktfvih9pceyfyu1ksids6hbb08rs55">
     <dep model="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)" />
   </source>
-  <source id="1285780675014199476" name="reduce_AtomicExpression" hash="ck2q1onivyjcferiem58wqmolq276f3">
+  <source id="1285780675014199476" name="reduce_AtomicExpression" hash="corczb089z0w7i42bwvh26sbc9l28d5">
     <dep model="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)" />
   </source>
 </dependencies>

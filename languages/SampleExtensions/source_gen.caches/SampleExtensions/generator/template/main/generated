@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-c51szvq58msb2k31f2rimeq4rcaamfq">
+<dependencies version="2" modelHash="-ca01pa9mr1f8a1gw3kt8qljjafb2vwv">
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
@@ -35,7 +35,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="QueriesGenerated.java" />
   </common>
-  <source id="393299394024627257" name="main" hash="2znstuzhxue19j3k74nuigql5gmzusy">
+  <source id="393299394024627257" name="main" hash="-2lnh6ko865pirvcorovpef1bt8awne9">
     <dep model="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)" />
   </source>
   <source id="954830572076054994" name="reduce_MyIfStatement" hash="-7eelej6z955i04pzp6vlmvbj7pc3ii3">

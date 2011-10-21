@@ -77,7 +77,7 @@
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="z9zu.8517288965981100155" resolveInfo="AConcept" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="4773190895161923298">
-      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="z9zu.4773190895161923297" resolveInfo="AtomicClosureLiteral" />
+      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="z9zu.683676710780382035" resolveInfo="AtomicClosureLiteral" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="4773190895161937272">
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="z9zu.4773190895161937271" resolveInfo="AClosureLiteral" />
