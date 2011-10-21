@@ -2,9 +2,13 @@
 <dependenciesRoot>
   <dependency className="STM.sandbox.sandbox.Sample" file="Sample.java">
     <classNode dependClassName="MoneyRuntime.classes.Money" />
+    <classNode dependClassName="java.lang.Object" />
     <classNode dependClassName="java.lang.Override" />
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="java.lang.System" />
+    <classNode dependClassName="java.util.HashMap" />
+    <classNode dependClassName="java.util.Map" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.MapSequence" />
   </dependency>
   <dependency className="STM.sandbox.sandbox.Scan1.groovy" file="Scan1.groovy.null" />
   <dependency className="STM.sandbox.sandbox.Test" file="Test.java">
