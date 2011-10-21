@@ -34,18 +34,12 @@
     </generator>
   </generators>
   <stubModelEntries>
-    <stubModelEntry path="C:/Users/Vaclav/MPSProjects/STM/jsr166y-070108.jar">
-      <manager moduleId="f3061a53-9226-4cc5-a443-f952ceaf5816" className="jetbrains.mps.baseLanguage.stubs.JavaStubs" />
-    </stubModelEntry>
-    <stubModelEntry path="C:/Users/Vaclav/MPSProjects/STM/multiverse-beta-0.7-SNAPSHOT.jar">
+    <stubModelEntry path="${STM_LIB}/">
       <manager moduleId="f3061a53-9226-4cc5-a443-f952ceaf5816" className="jetbrains.mps.baseLanguage.stubs.JavaStubs" />
     </stubModelEntry>
   </stubModelEntries>
   <runtimeStubModels>
-    <stubModelEntry path="C:/Users/Vaclav/MPSProjects/STM/jsr166y-070108.jar">
-      <manager moduleId="f3061a53-9226-4cc5-a443-f952ceaf5816" className="jetbrains.mps.baseLanguage.stubs.JavaStubs" />
-    </stubModelEntry>
-    <stubModelEntry path="C:/Users/Vaclav/MPSProjects/STM/multiverse-beta-0.7-SNAPSHOT.jar">
+    <stubModelEntry path="${STM_LIB}/">
       <manager moduleId="f3061a53-9226-4cc5-a443-f952ceaf5816" className="jetbrains.mps.baseLanguage.stubs.JavaStubs" />
     </stubModelEntry>
   </runtimeStubModels>
