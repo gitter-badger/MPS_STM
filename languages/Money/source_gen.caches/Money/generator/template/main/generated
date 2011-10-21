@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-2zv2y3rrfsz6larc3olfty23j69pjk6">
+<dependencies version="2" modelHash="154ch6z4zrn3weypamm197185bdwgqe">
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902b7(jetbrains.mps.lang.typesystem.generator.baseLanguage.template.main@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -15,7 +15,7 @@
   <dep model="r:00000000-0000-4000-0000-011c895903ac(jetbrains.mps.baseLanguageInternal.structure)" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
   <dep model="r:c3548bac-30eb-4a2a-937c-0111d5697309(jetbrains.mps.lang.smodel.generator.smodelAdapter)" />
-  <dep model="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" hash="-35mrb5bdvr844tx2ciudolrrhw4iwe3" />
+  <dep model="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" hash="-26y7owujm4bpdjjjqr7hbna7tmzuyqg" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
   <common hash="-2uy1zqg0o30v6nywjoifa4tmfwrrreu" dependsOnNodes="true">
     <dep root="1790427706118386761" />
@@ -45,7 +45,7 @@
   <source id="5447719361346496651" name="main" hash="-7j67soe95xxxp7adpsneh9emxuibs7w">
     <dep model="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)" />
   </source>
-  <source id="5447719361346500113" name="reduce_MoneyLiteral" hash="2tw0wupgour1ovjdywl60182ozhl49e">
+  <source id="5447719361346500113" name="reduce_MoneyLiteral" hash="2feqly8h11rij56x253b8pxon8ryiep">
     <dep model="r:00000000-0000-4000-0000-011c895902e9(jetbrains.mps.lang.generator.generator.baseLanguage.template.main@generator)" />
   </source>
   <source id="5447719361346518908" name="reduce_MoneyType" hash="-b9f0aqq48n8lrne1cp4eddxtb42bb2u">

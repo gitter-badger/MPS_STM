@@ -10,19 +10,11 @@ import jetbrains.mps.project.GlobalScope;
 
 public class MoneyLiteral extends Expression {
   public static final String concept = "Money.structure.MoneyLiteral";
-  public static final String CURRECY = "currecy";
   public static final String AMOUNT = "amount";
+  public static final String UNIT = "unit";
 
   public MoneyLiteral(SNode node) {
     super(node);
-  }
-
-  public String getCurrecy() {
-    return this.getProperty(MoneyLiteral.CURRECY);
-  }
-
-  public void setCurrecy(String value) {
-    this.setProperty(MoneyLiteral.CURRECY, value);
   }
 
   public int getAmount() {
@@ -31,6 +23,14 @@ public class MoneyLiteral extends Expression {
 
   public void setAmount(int value) {
     this.setIntegerProperty(MoneyLiteral.AMOUNT, value);
+  }
+
+  public CurencyUnit getUnit() {
+    return (CurencyUnit) this.getReferent(CurencyUnit.class, MoneyLiteral.UNIT);
+  }
+
+  public void setUnit(CurencyUnit node) {
+    super.setReferent(MoneyLiteral.UNIT, node);
   }
 
   public static MoneyLiteral newInstance(SModel sm, boolean init) {

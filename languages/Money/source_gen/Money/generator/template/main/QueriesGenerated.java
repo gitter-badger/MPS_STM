@@ -8,9 +8,9 @@ import jetbrains.mps.typesystem.inference.TypeChecker;
 import jetbrains.mps.lang.typesystem.runtime.HUtil;
 import jetbrains.mps.generator.template.PropertyMacroContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.generator.template.SourceSubstituteMacroNodeContext;
-import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 
 public class QueriesGenerated {
   public static boolean baseMappingRule_Condition_5447719361346553354(final IOperationContext operationContext, final BaseMappingRuleContext _context) {
@@ -26,7 +26,7 @@ public class QueriesGenerated {
   }
 
   public static Object propertyMacro_GetPropertyValue_5447719361346518812(final IOperationContext operationContext, final PropertyMacroContext _context) {
-    return SPropertyOperations.getString(_context.getNode(), "currecy");
+    return SPropertyOperations.getString(SLinkOperations.getTarget(_context.getNode(), "unit", false), "name");
   }
 
   public static Object propertyMacro_GetPropertyValue_1790427706118386796(final IOperationContext operationContext, final PropertyMacroContext _context) {

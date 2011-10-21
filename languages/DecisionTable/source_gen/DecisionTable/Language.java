@@ -9,6 +9,7 @@ import DecisionTable.typesystem.TypesystemDescriptor;
 import jetbrains.mps.ide.findusages.BaseFindUsagesDescriptor;
 import java.util.Collection;
 import jetbrains.mps.generator.runtime.TemplateModule;
+import jetbrains.mps.generator.runtime.TemplateUtil;
 
 public class Language extends LanguageRuntime {
   public static ModuleReference MODULE_REFERENCE = ModuleReference.fromString("65c13e67-09b6-4695-af88-52024b7d2027(DecisionTable)");
@@ -32,6 +33,6 @@ public class Language extends LanguageRuntime {
   }
 
   public Collection<TemplateModule> getGenerators() {
-    return null;
+    return TemplateUtil.<TemplateModule>asCollection(TemplateUtil.createInterpretedGenerator(this, "38daf5f6-3ea9-4539-9ff0-4dfa8b2ff692(DecisionTable#3863300516938090568)"));
   }
 }

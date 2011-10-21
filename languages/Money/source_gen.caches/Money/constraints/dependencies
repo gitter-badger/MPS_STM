@@ -4,6 +4,7 @@
     <classNode dependClassName="Money.constraints.ConvertTo_Constraints" />
     <classNode dependClassName="Money.constraints.GetAmount_Constraints" />
     <classNode dependClassName="Money.constraints.GetCurrency_Constraints" />
+    <classNode dependClassName="Money.constraints.MoneyLiteral_Constraints" />
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="java.util.Arrays" />
     <classNode dependClassName="jetbrains.mps.smodel.runtime.ConstraintsDescriptor" />
@@ -50,6 +51,9 @@
     <classNode dependClassName="jetbrains.mps.smodel.runtime.CheckingNodeContext" />
     <classNode dependClassName="jetbrains.mps.typesystem.inference.TypeChecker" />
     <classNode dependClassName="org.jetbrains.annotations.Nullable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.base.BaseConstraintsDescriptor" />
+  </dependency>
+  <dependency className="Money.constraints.MoneyLiteral_Constraints" file="MoneyLiteral_Constraints.java">
     <classNode extendsClassName="jetbrains.mps.smodel.runtime.base.BaseConstraintsDescriptor" />
   </dependency>
 </dependenciesRoot>

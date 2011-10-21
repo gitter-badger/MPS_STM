@@ -21,6 +21,9 @@
     <node type="tp1t.ConceptConstraints" typeId="tp1t.1213093968558" id="1790427706118381728">
       <link role="concept" roleId="tp1t.1213093996982" targetNodeId="v0h4.1790427706118381722" resolveInfo="ConvertTo" />
     </node>
+    <node type="tp1t.ConceptConstraints" typeId="tp1t.1213093968558" id="3607579524910558859">
+      <link role="concept" roleId="tp1t.1213093996982" targetNodeId="v0h4.5447719361346490674" resolveInfo="MoneyLiteral" />
+    </node>
   </roots>
   <root id="5447719361346553527">
     <node role="canBeChild" roleId="tp1t.1213106463729" type="tp1t.ConstraintFunction_CanBeAChild" typeId="tp1t.1202989531578" id="5447719361346553528">
@@ -139,5 +142,6 @@
       </node>
     </node>
   </root>
+  <root id="3607579524910558859" />
 </model>
 

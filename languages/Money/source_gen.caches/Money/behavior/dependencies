@@ -2,6 +2,8 @@
 <dependenciesRoot>
   <dependency className="Money.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
     <classNode dependClassName="Money.behavior.ConvertTo_BehaviorDescriptor" />
+    <classNode dependClassName="Money.behavior.CurencyUnit_BehaviorDescriptor" />
+    <classNode dependClassName="Money.behavior.CurrencyDefTable_BehaviorDescriptor" />
     <classNode dependClassName="Money.behavior.GetAmount_BehaviorDescriptor" />
     <classNode dependClassName="Money.behavior.GetCurrency_BehaviorDescriptor" />
     <classNode dependClassName="Money.behavior.MoneyConversionType_BehaviorDescriptor" />
@@ -21,6 +23,22 @@
     <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
     <classNode dependClassName="jetbrains.mps.smodel.SNode" />
     <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Money.behavior.CurencyUnit_BehaviorDescriptor" file="CurencyUnit_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="Money.behavior.CurrencyDefTable_BehaviorDescriptor" file="CurrencyDefTable_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
     <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
   <dependency className="Money.behavior.GetAmount_BehaviorDescriptor" file="GetAmount_BehaviorDescriptor.java">

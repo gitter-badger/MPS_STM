@@ -4,7 +4,18 @@
     <modelRoot path="${language_descriptor}/languageModels" namespacePrefix="DecisionTable" />
   </models>
   <accessoryModels />
-  <generators />
+  <generators>
+    <generator name="main" generatorUID="DecisionTable#3863300516938090568" uuid="38daf5f6-3ea9-4539-9ff0-4dfa8b2ff692">
+      <models>
+        <modelRoot path="${language_descriptor}/generator/template" namespacePrefix="DecisionTable.generator.template" />
+      </models>
+      <external-templates />
+      <usedDevKits>
+        <usedDevKit>fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)</usedDevKit>
+      </usedDevKits>
+      <mapping-priorities />
+    </generator>
+  </generators>
   <sourcePath />
   <dependencies>
     <dependency reexport="false">258bd2f6-0d02-411d-86b2-5a5ea083e6d2(jetbrains.mps.lang.editor.table.runtime)</dependency>

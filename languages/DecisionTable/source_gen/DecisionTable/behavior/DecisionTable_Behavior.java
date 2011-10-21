@@ -4,6 +4,13 @@ package DecisionTable.behavior;
 
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
+import jetbrains.mps.lang.smodel.generator.smodelAdapter.SNodeOperations;
+import java.util.Set;
+import jetbrains.mps.internal.collections.runtime.SetSequence;
+import java.util.HashSet;
+import jetbrains.mps.internal.collections.runtime.ListSequence;
+import jetbrains.mps.internal.collections.runtime.ISelector;
 
 public class DecisionTable_Behavior {
   public static void init(SNode thisNode) {
@@ -15,5 +22,29 @@ public class DecisionTable_Behavior {
     SLinkOperations.addNewChild(thisNode, "resultValues", "jetbrains.mps.baseLanguage.structure.Expression");
     SLinkOperations.addNewChild(thisNode, "resultValues", "jetbrains.mps.baseLanguage.structure.Expression");
     SLinkOperations.addNewChild(thisNode, "resultValues", "jetbrains.mps.baseLanguage.structure.Expression");
+  }
+
+  public static String call_generatedMethodName_3863300516938126198(SNode thisNode) {
+    return SPropertyOperations.getString(SNodeOperations.getAncestor(thisNode, "jetbrains.mps.baseLanguage.structure.BaseMethodDeclaration", false, false), "name") + "_" + SNodeOperations.getIndexInParent(thisNode);
+  }
+
+  public static Set<SNode> call_referencedLVDs_3863300516938155424(SNode thisNode) {
+    Set<SNode> res = SetSequence.fromSet(new HashSet<SNode>());
+    SetSequence.fromSet(res).addSequence(ListSequence.fromList(SNodeOperations.getDescendants(thisNode, "jetbrains.mps.baseLanguage.structure.LocalVariableReference", false, new String[]{})).select(new ISelector<SNode, SNode>() {
+      public SNode select(SNode it) {
+        return SLinkOperations.getTarget(it, "variableDeclaration", false);
+      }
+    }));
+    return res;
+  }
+
+  public static Set<SNode> call_referencedParams_3863300516938159619(SNode thisNode) {
+    Set<SNode> params = SetSequence.fromSet(new HashSet<SNode>());
+    SetSequence.fromSet(params).addSequence(ListSequence.fromList(SNodeOperations.getDescendants(thisNode, "jetbrains.mps.baseLanguage.structure.ParameterReference", false, new String[]{})).select(new ISelector<SNode, SNode>() {
+      public SNode select(SNode it) {
+        return SLinkOperations.getTarget(it, "variableDeclaration", false);
+      }
+    }));
+    return params;
   }
 }
