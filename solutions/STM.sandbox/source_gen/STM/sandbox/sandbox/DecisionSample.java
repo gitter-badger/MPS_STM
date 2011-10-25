@@ -13,8 +13,8 @@ public class DecisionSample {
   public void run(String[] args) {
     Map<String, Object> person = this.createPerson();
 
-
-    int discount = run_0(person);
+    int discount;
+    discount = run_0(person);
 
     System.out.println("Your name: " + MapSequence.fromMap(person).get("name"));
     System.out.println("Your discount: " + discount);

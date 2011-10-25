@@ -12,7 +12,7 @@
   <dep model="r:00000000-0000-4000-0000-011c8959033a(jetbrains.mps.baseLanguage.closures.generator.baseLanguage.template.main@generator)" />
   <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
-  <dep model="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" hash="-26y7owujm4bpdjjjqr7hbna7tmzuyqg" />
+  <dep model="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" hash="7ra1o39mcigem1ir4un1tmi6q4ggbqc" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
   <common dependsOnNodes="true">
     <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" />
@@ -31,8 +31,8 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="BehaviorAspectDescriptor.java" />
     <file name="ConvertTo_BehaviorDescriptor.java" />
-    <file name="CurencyUnit_BehaviorDescriptor.java" />
     <file name="CurrencyDefTable_BehaviorDescriptor.java" />
+    <file name="CurrencyUnit_BehaviorDescriptor.java" />
     <file name="GetAmount_BehaviorDescriptor.java" />
     <file name="GetCurrency_BehaviorDescriptor.java" />
     <file name="MoneyConversionType_BehaviorDescriptor.java" />

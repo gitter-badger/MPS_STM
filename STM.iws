@@ -29,8 +29,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bafaab0b-6245-48a1-aa44-319d85c4c280" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Vaclav\MPSProjects\STM\languages\Money\classes_gen\Money\behavior\CurencyUnit_BehaviorDescriptor.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Vaclav\MPSProjects\STM\languages\Money\classes_gen\Money\editor\CurencyUnit_Editor.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Vaclav\MPSProjects\STM\languages\Money\classes_gen\Money\structure\CurencyUnit.class" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Vaclav\MPSProjects\STM\languages\Money\source_gen\Money\behavior\CurencyUnit_BehaviorDescriptor.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/behavior/CurrencyUnit_BehaviorDescriptor.java" />
+      <change type="MOVED" beforePath="C:\Users\Vaclav\MPSProjects\STM\languages\Money\source_gen\Money\editor\CurencyUnit_Editor.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/editor/CurrencyUnit_Editor.java" />
+      <change type="MOVED" beforePath="C:\Users\Vaclav\MPSProjects\STM\languages\Money\source_gen\Money\structure\CurencyUnit.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/CurrencyUnit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/DecisionTable/source_gen.caches/DecisionTable/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/DecisionTable/source_gen.caches/DecisionTable/generator/template/main/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/actions/dependencies" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/actions/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/actions/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/actions/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/behavior/dependencies" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/behavior/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/behavior/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/behavior/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/constraints/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/constraints/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/editor/dependencies" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/editor/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/editor/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/editor/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/generator/template/main/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/structure/dependencies" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/structure/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/structure/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/structure/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/typesystem/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/typesystem/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/actions/trace.info" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/actions/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/behavior/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/editor/trace.info" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/editor/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/trace.info" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/behavior/generated" afterPath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/behavior/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/textGen/generated" afterPath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/textGen/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen.caches/STM/sandbox/sandbox/generated" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen.caches/STM/sandbox/sandbox/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/trace.info" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/STM.iws" afterPath="$PROJECT_DIR$/STM.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/languageModels/actions.mps" afterPath="$PROJECT_DIR$/languages/Money/languageModels/actions.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/Money/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/Money/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/actions/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/actions/QueriesGenerated.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/behavior/BehaviorAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/behavior/BehaviorAspectDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/CurrencyDefTable.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/CurrencyDefTable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/MoneyLiteral.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/MoneyLiteral.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/StructureAspectDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/STM/sandbox/sandbox.mps" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/STM/sandbox/sandbox.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/DecisionSample.java" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/DecisionSample.java" />
     </list>
     <ignored path="STM.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,68 +96,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Sample" pinned="false" current="true" current-in-tab="true">
-        <entry file="mps://STM.sandbox.sandbox/Sample">
+      <file leaf-file-name="MoneySample" pinned="false" current="true" current-in-tab="true">
+        <entry file="mps://STM.sandbox.sandbox/MoneySample">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
               <memento viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="391" />
+                    <property name="caretX" value="143" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_zedcwq_b0" cellNumber="0" isInList="false">
-                      <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="3582114965807410134" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IfSample" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://STM.sandbox.sandbox/IfSample">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="55" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_eb7h0d_a0" cellNumber="0" isInList="false">
-                      <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="8238782355405273754" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DecisionSample" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://STM.sandbox.sandbox/DecisionSample">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="421" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_value" cellNumber="0" isInList="false">
-                      <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="2603031361000938104" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="3607579524910568001" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -462,51 +447,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="STM" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Empty" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="STM" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="STM" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator/StmUtils" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Empty" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="STM" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="STM" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator/StmUtils" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="STM.generator.template" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main@generator" />
+              <option name="myItemId" value="Money" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -521,6 +462,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Money" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="typesystem" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -552,6 +497,24 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Money" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="structure" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Empty" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="STM" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="STM.sandbox" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -561,6 +524,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sandbox" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Empty" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="STM" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MoneyRuntime" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -576,7 +553,7 @@
     <property name="GoToAction.allIncluded" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="preferences.pathVariables" />
+    <property name="options.lastSelected" value="mps.editor.settings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
@@ -584,62 +561,12 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="Java Application.Class DecisionSample">
+  <component name="RunManager" selected="Java Application.Class Sample">
     <configuration default="false" name="Class Sample" type="Java Application" factoryName="Java" temporary="true">
       <MyState />
       <myNode>
         <MyState>
           <option name="myNodeId" value="393299394024635966" />
-          <option name="myModelId" value="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" />
-        </MyState>
-      </myNode>
-      <myRunParameters>
-        <MyState>
-          <option name="myJavaRunParameters">
-            <JavaRunParameters>
-              <option name="jrePath" />
-              <option name="programParameters" />
-              <option name="useAlternativeJre" value="false" />
-              <option name="vmOptions" />
-              <option name="workingDirectory" />
-            </JavaRunParameters>
-          </option>
-        </MyState>
-      </myRunParameters>
-      <RunnerSettings RunnerId="Default Runner" />
-      <ConfigurationWrapper RunnerId="Default Runner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Class MoneySample" type="Java Application" factoryName="Java" temporary="true">
-      <MyState />
-      <myNode>
-        <MyState>
-          <option name="myNodeId" value="3607579524910567967" />
-          <option name="myModelId" value="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" />
-        </MyState>
-      </myNode>
-      <myRunParameters>
-        <MyState>
-          <option name="myJavaRunParameters">
-            <JavaRunParameters>
-              <option name="jrePath" />
-              <option name="programParameters" />
-              <option name="useAlternativeJre" value="false" />
-              <option name="vmOptions" />
-              <option name="workingDirectory" />
-            </JavaRunParameters>
-          </option>
-        </MyState>
-      </myRunParameters>
-      <RunnerSettings RunnerId="Default Runner" />
-      <ConfigurationWrapper RunnerId="Default Runner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Class DecisionSample" type="Java Application" factoryName="Java" temporary="true">
-      <MyState />
-      <myNode>
-        <MyState>
-          <option name="myNodeId" value="3863300516938089393" />
           <option name="myModelId" value="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" />
         </MyState>
       </myNode>
@@ -685,10 +612,8 @@
         <option name="jetbrains.mps.execution.configurations.plugin.Make_BeforeTask" enabled="true" />
       </method>
     </configuration>
-    <list size="3">
+    <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Java Application.Class Sample" />
-      <item index="1" class="java.lang.String" itemvalue="Java Application.Class MoneySample" />
-      <item index="2" class="java.lang.String" itemvalue="Java Application.Class DecisionSample" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -712,31 +637,31 @@
     <frame x="109" y="-9" width="1820" height="1218" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32990655" sideWeight="0.48674563" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32897195" sideWeight="0.4822335" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Model Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291536" sideWeight="0.4964824" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Module Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32848042" sideWeight="0.49438202" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24929498" sideWeight="0.6700935" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17033277" sideWeight="0.671028" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24299066" sideWeight="0.4822335" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32990655" sideWeight="0.5087423" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990655" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17757009" sideWeight="0.99892586" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32990655" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Analyze Stacktrace" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23831776" sideWeight="0.49520588" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23738317" sideWeight="0.49520588" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -789,185 +714,126 @@
     <MESSAGE value="Polished the demos" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://MoneyRuntime.classes/Money">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="384">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="827" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:540d5e3a-9424-4c25-a6ed-9d51ec46dfad(MoneyRuntime.classes)" id="6143206611772089839" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="38">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://STM.structure/AtomicClosureLiteral">
+    <entry file="mps://SampleExtensions.structure/UnlessStatement">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="38">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="9197116338992081428" modelId="r:fff77d26-13ef-4f02-80fa-110dcc610c0c(STM.generator.template.main@generator)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://SampleExtensions.generator.template.main@generator/main">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="220">
+          <memento viewPositionX="0" viewPositionY="207">
             <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="381" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_jiideg_a0" cellNumber="0" isInList="false">
-                  <node model="r:a07e34b9-3902-4cb5-b6a1-b083eccaa9f3(SampleExtensions.generator.template.main@generator)" id="6143206611772089842" />
-                </cellInfo>
-              </stackElement>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="selectionEnd" value="10" />
                 <property name="hasNonTrivialSelection" value="true" />
                 <property name="selectionStart" value="0" />
-                <property name="caretX" value="381" />
+                <property name="caretX" value="369" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="Constant_jiideg_a0" cellNumber="0" isInList="false">
-                  <node model="r:a07e34b9-3902-4cb5-b6a1-b083eccaa9f3(SampleExtensions.generator.template.main@generator)" id="6143206611772089842" />
-                </cellInfo>
-              </stackElement>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Collection_jiideg_a" cellNumber="0" isInList="false">
-                  <node model="r:a07e34b9-3902-4cb5-b6a1-b083eccaa9f3(SampleExtensions.generator.template.main@generator)" id="6143206611772089842" />
+                  <node model="r:a07e34b9-3902-4cb5-b6a1-b083eccaa9f3(SampleExtensions.generator.template.main@generator)" id="393299394024635957" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
             <folded />
           </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="38">
-            <selectionStack />
+          <inspectorMemento viewPositionX="0" viewPositionY="207">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionEnd" value="10" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="selectionStart" value="0" />
+                <property name="caretX" value="369" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_jiideg_a0" cellNumber="0" isInList="false">
+                  <node model="r:a07e34b9-3902-4cb5-b6a1-b083eccaa9f3(SampleExtensions.generator.template.main@generator)" id="393299394024635957" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
             <folded />
           </inspectorMemento>
+          <node nodeId="393299394024627257" modelId="r:a07e34b9-3902-4cb5-b6a1-b083eccaa9f3(SampleExtensions.generator.template.main@generator)" />
         </state>
       </provider>
     </entry>
-    <entry file="mps://SampleExtensions.structure/UnlessStatement">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="393299394024627213" modelId="r:47174b35-df1c-485d-9362-8e3256f44aca(SampleExtensions.structure)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://STM.structure/AtomicExpression">
+    <entry file="mps://Money.structure/ConvertTo">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
           <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="83" />
+                <property name="caretX" value="75" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" id="1790427706118381722" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1790427706118381722" modelId="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://Money.structure/GetCurrency">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="75" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" id="1790427706118304177" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1790427706118304177" modelId="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://Money.structure/GetAmount">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="75" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" id="5447719361346519865" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="5447719361346519865" modelId="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://Money.generator.template.main@generator/reduce_PlusExpression">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="204" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:fff77d26-13ef-4f02-80fa-110dcc610c0c(STM.generator.template.main@generator)" id="1285780675014199476" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="1285780675014199476" modelId="r:fff77d26-13ef-4f02-80fa-110dcc610c0c(STM.generator.template.main@generator)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/Sample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="14" selection-start="728" selection-end="728" vertical-scroll-proportion="0.59149486" />
-      </provider>
-    </entry>
-    <entry file="mps://STM.sandbox.sandbox/MoneySample">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="15" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
-                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="3607579524910567968" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://STM.sandbox.sandbox/IfSample">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="55" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_eb7h0d_a0" cellNumber="0" isInList="false">
-                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="8238782355405273754" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://STM.sandbox.sandbox/DecisionSample">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="421" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
-                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="2603031361000938104" />
+                  <node model="r:c68260e6-0a07-47e7-af7c-570ace5903cf(Money.generator.template.main@generator)" id="5447719361346558510" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -987,10 +853,83 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="15" />
+                <property name="caretX" value="39" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="3607579524910567213" />
+                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="3607579524910567981" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://Money.structure/MoneyType">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="259" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" id="5447719361346490730" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="5447719361346490730" modelId="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://Money.structure/CurrencyDefTable">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="selectionEnd" value="4" />
+                <property name="hasNonTrivialSelection" value="true" />
+                <property name="selectionStart" value="0" />
+                <property name="caretX" value="227" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_rootable" cellNumber="0" isInList="false">
+                  <node model="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" id="3607579524910560662" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="3607579524910560662" modelId="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://Money.actions/makeMoneyFromInteger">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="58" viewPositionY="234">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="337" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:a4988a37-dce9-4e83-b399-b6b2ea80640c(Money.actions)" id="3607579524910547696" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1003,17 +942,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://Money.actions/makeMoneyFromInteger">
+    <entry file="mps://MoneyRuntime.classes/Money">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="24">
+          <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="161" />
+                <property name="caretX" value="307" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_cqa5bf_a0a" cellNumber="0" isInList="false">
-                  <node model="r:a4988a37-dce9-4e83-b399-b6b2ea80640c(Money.actions)" id="3607579524910547547" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:540d5e3a-9424-4c25-a6ed-9d51ec46dfad(MoneyRuntime.classes)" id="5447719361346519354" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://Money.structure/MoneyLiteral">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="150" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_y5igai_a0_0" cellNumber="0" isInList="false">
+                  <node model="r:c68260e6-0a07-47e7-af7c-570ace5903cf(Money.generator.template.main@generator)" id="5447719361346518798" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="-8">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="5447719361346500113" modelId="r:c68260e6-0a07-47e7-af7c-570ace5903cf(Money.generator.template.main@generator)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://Money.typesystem/MoneyOperations">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="103" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_xc5f9o_a2a" cellNumber="0" isInList="false">
+                  <node model="r:0c486cb8-8265-4e9d-90e8-118f83fd1147(Money.typesystem)" id="5447719361346552314" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1023,6 +1009,30 @@
             <selectionStack />
             <folded />
           </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://Money.structure/CurrencyUnit">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="99" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" id="3607579524910560663" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="3607579524910560663" modelId="r:cd29712f-cf1b-4f19-90a2-4ce86af0d5f6(Money.structure)" />
         </state>
       </provider>
     </entry>
@@ -1033,10 +1043,56 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="391" />
+                <property name="caretX" value="15" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_zedcwq_b0" cellNumber="0" isInList="false">
-                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="3582114965807410134" />
+                <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="393299394024635967" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://STM.sandbox.sandbox/DecisionSample">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="159" viewPositionY="180">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="47" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_u338ov_a0a" cellNumber="0" isInList="false">
+                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="3863300516938089398" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://STM.sandbox.sandbox/MoneySample">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="143" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:df38f3f2-a3d4-4535-b3f0-65bccb7dddd4(STM.sandbox.sandbox)" id="3607579524910568001" />
                 </cellInfo>
               </stackElement>
             </selectionStack>

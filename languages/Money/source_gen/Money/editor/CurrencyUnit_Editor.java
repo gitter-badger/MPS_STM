@@ -11,12 +11,12 @@ import jetbrains.mps.lang.editor.cellProviders.PropertyCellProvider;
 import jetbrains.mps.smodel.IOperationContext;
 import jetbrains.mps.nodeEditor.EditorManager;
 
-public class CurencyUnit_Editor extends DefaultNodeEditor {
+public class CurrencyUnit_Editor extends DefaultNodeEditor {
   public EditorCell createEditorCell(EditorContext editorContext, SNode node) {
-    return this.createProperty_j3y0b8_a(editorContext, node);
+    return this.createProperty_su0r8b_a(editorContext, node);
   }
 
-  private EditorCell createProperty_j3y0b8_a(EditorContext editorContext, SNode node) {
+  private EditorCell createProperty_su0r8b_a(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new PropertyCellProvider(node, editorContext);
     provider.setRole("name");
     provider.setNoTargetText("<no name>");

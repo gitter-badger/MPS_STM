@@ -27,7 +27,7 @@
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v0h4.1790427706118391955" resolveInfo="MoneyConversionType" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="3607579524910560665">
-      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v0h4.3607579524910560663" resolveInfo="CurencyUnit" />
+      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v0h4.3607579524910560663" resolveInfo="CurrencyUnit" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="3607579524910560671">
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v0h4.3607579524910560662" resolveInfo="CurrencyDefTable" />

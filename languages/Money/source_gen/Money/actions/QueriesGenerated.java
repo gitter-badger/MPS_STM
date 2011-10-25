@@ -46,7 +46,6 @@ public class QueriesGenerated {
         }
 
         public String getMatchingText(String pattern) {
-          System.err.println("pattern: " + pattern);
           Iterable<SNode> units = ListSequence.fromList(SModelOperations.getRoots(SNodeOperations.getModel(_context.getSourceNode()), "Money.structure.CurrencyDefTable")).translate(new ITranslator2<SNode, SNode>() {
             public Iterable<SNode> translate(SNode it) {
               return SLinkOperations.getTargets(it, "units", true);
@@ -54,7 +53,6 @@ public class QueriesGenerated {
           });
           for (SNode u : Sequence.fromIterable(units)) {
             if (SPropertyOperations.getString(u, "name").startsWith(pattern)) {
-              System.err.println("match!");
               return SPropertyOperations.getString(u, "name");
             }
           }

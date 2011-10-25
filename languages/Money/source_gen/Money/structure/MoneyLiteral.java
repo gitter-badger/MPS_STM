@@ -25,11 +25,11 @@ public class MoneyLiteral extends Expression {
     this.setIntegerProperty(MoneyLiteral.AMOUNT, value);
   }
 
-  public CurencyUnit getUnit() {
-    return (CurencyUnit) this.getReferent(CurencyUnit.class, MoneyLiteral.UNIT);
+  public CurrencyUnit getUnit() {
+    return (CurrencyUnit) this.getReferent(CurrencyUnit.class, MoneyLiteral.UNIT);
   }
 
-  public void setUnit(CurencyUnit node) {
+  public void setUnit(CurrencyUnit node) {
     super.setReferent(MoneyLiteral.UNIT, node);
   }
 

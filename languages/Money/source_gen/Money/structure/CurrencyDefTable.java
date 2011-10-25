@@ -22,19 +22,19 @@ public class CurrencyDefTable extends BaseConcept {
     return this.getChildCount(CurrencyDefTable.UNITS);
   }
 
-  public Iterator<CurencyUnit> unitses() {
-    return this.children(CurencyUnit.class, CurrencyDefTable.UNITS);
+  public Iterator<CurrencyUnit> unitses() {
+    return this.children(CurrencyUnit.class, CurrencyDefTable.UNITS);
   }
 
-  public List<CurencyUnit> getUnitses() {
-    return this.getChildren(CurencyUnit.class, CurrencyDefTable.UNITS);
+  public List<CurrencyUnit> getUnitses() {
+    return this.getChildren(CurrencyUnit.class, CurrencyDefTable.UNITS);
   }
 
-  public void addUnits(CurencyUnit node) {
+  public void addUnits(CurrencyUnit node) {
     this.addChild(CurrencyDefTable.UNITS, node);
   }
 
-  public void insertUnits(CurencyUnit prev, CurencyUnit node) {
+  public void insertUnits(CurrencyUnit prev, CurrencyUnit node) {
     this.insertChild(prev, CurrencyDefTable.UNITS, node);
   }
 

@@ -7,8 +7,8 @@ import jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor;
 import jetbrains.mps.smodel.SNode;
 import jetbrains.mps.lang.core.behavior.INamedConcept_Behavior;
 
-public class CurencyUnit_BehaviorDescriptor extends BaseConcept_BehaviorDescriptor implements INamedConcept_BehaviorDescriptor {
-  public CurencyUnit_BehaviorDescriptor() {
+public class CurrencyUnit_BehaviorDescriptor extends BaseConcept_BehaviorDescriptor implements INamedConcept_BehaviorDescriptor {
+  public CurrencyUnit_BehaviorDescriptor() {
   }
 
   public String virtual_getFqName_1213877404258(SNode thisNode) {
@@ -17,6 +17,6 @@ public class CurencyUnit_BehaviorDescriptor extends BaseConcept_BehaviorDescript
 
   @Override
   public String getConceptFqName() {
-    return "Money.structure.CurencyUnit";
+    return "Money.structure.CurrencyUnit";
   }
 }

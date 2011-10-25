@@ -1073,16 +1073,16 @@
     </node>
   </root>
   <root id="3607579524910567212">
-    <node role="units" roleId="v0h4.3607579524910560668" type="v0h4.CurencyUnit" typeId="v0h4.3607579524910560663" id="3607579524910567213">
+    <node role="units" roleId="v0h4.3607579524910560668" type="v0h4.CurrencyUnit" typeId="v0h4.3607579524910560663" id="3607579524910567213">
       <property name="name" nameId="tpck.1169194664001" value="EUR" />
     </node>
-    <node role="units" roleId="v0h4.3607579524910560668" type="v0h4.CurencyUnit" typeId="v0h4.3607579524910560663" id="3607579524910567214">
+    <node role="units" roleId="v0h4.3607579524910560668" type="v0h4.CurrencyUnit" typeId="v0h4.3607579524910560663" id="3607579524910567214">
       <property name="name" nameId="tpck.1169194664001" value="USD" />
     </node>
-    <node role="units" roleId="v0h4.3607579524910560668" type="v0h4.CurencyUnit" typeId="v0h4.3607579524910560663" id="3607579524910567215">
+    <node role="units" roleId="v0h4.3607579524910560668" type="v0h4.CurrencyUnit" typeId="v0h4.3607579524910560663" id="3607579524910567215">
       <property name="name" nameId="tpck.1169194664001" value="CZK" />
     </node>
-    <node role="units" roleId="v0h4.3607579524910560668" type="v0h4.CurencyUnit" typeId="v0h4.3607579524910560663" id="3607579524910567981">
+    <node role="units" roleId="v0h4.3607579524910560668" type="v0h4.CurrencyUnit" typeId="v0h4.3607579524910560663" id="3607579524910567981">
       <property name="name" nameId="tpck.1169194664001" value="GBP" />
     </node>
   </root>

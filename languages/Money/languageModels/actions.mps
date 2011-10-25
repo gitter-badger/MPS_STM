@@ -44,7 +44,7 @@
                   </node>
                   <node role="type" roleId="tpee.5680397130376446158" type="tp2q.SequenceType" typeId="tp2q.1151689724996" id="3607579524910560817">
                     <node role="elementType" roleId="tp2q.1151689745422" type="tp25.SNodeType" typeId="tp25.1138055754698" id="3607579524910560818">
-                      <link role="concept" roleId="tp25.1138405853777" targetNodeId="v0h4.3607579524910560663" resolveInfo="CurencyUnit" />
+                      <link role="concept" roleId="tp25.1138405853777" targetNodeId="v0h4.3607579524910560663" resolveInfo="CurrencyUnit" />
                     </node>
                   </node>
                 </node>
@@ -53,7 +53,7 @@
                 <node role="localVariableDeclaration" roleId="tpee.1068581242865" type="tpee.LocalVariableDeclaration" typeId="tpee.1068581242863" id="3607579524910567677">
                   <property name="name" nameId="tpck.1169194664001" value="unit" />
                   <node role="type" roleId="tpee.5680397130376446158" type="tp25.SNodeType" typeId="tp25.1138055754698" id="3607579524910567678">
-                    <link role="concept" roleId="tp25.1138405853777" targetNodeId="v0h4.3607579524910560663" resolveInfo="CurencyUnit" />
+                    <link role="concept" roleId="tp25.1138405853777" targetNodeId="v0h4.3607579524910560663" resolveInfo="CurrencyUnit" />
                   </node>
                   <node role="initializer" roleId="tpee.1068431790190" type="tpee.DotExpression" typeId="tpee.1197027756228" id="3607579524910567679">
                     <node role="operand" roleId="tpee.1197027771414" type="tpee.LocalVariableReference" typeId="tpee.1068581242866" id="3607579524910567680">
@@ -185,7 +185,7 @@
                   </node>
                   <node role="type" roleId="tpee.5680397130376446158" type="tp2q.SequenceType" typeId="tp2q.1151689724996" id="3607579524910560804">
                     <node role="elementType" roleId="tp2q.1151689745422" type="tp25.SNodeType" typeId="tp25.1138055754698" id="3607579524910560806">
-                      <link role="concept" roleId="tp25.1138405853777" targetNodeId="v0h4.3607579524910560663" resolveInfo="CurencyUnit" />
+                      <link role="concept" roleId="tp25.1138405853777" targetNodeId="v0h4.3607579524910560663" resolveInfo="CurrencyUnit" />
                     </node>
                   </node>
                 </node>

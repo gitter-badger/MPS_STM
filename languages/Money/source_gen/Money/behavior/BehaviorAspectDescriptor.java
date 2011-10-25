@@ -7,7 +7,7 @@ import java.util.Arrays;
 import jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted;
 
 public class BehaviorAspectDescriptor implements jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor {
-  private static String[] stringSwitchCases_846f5o_a0a0a = new String[]{"Money.structure.ConvertTo", "Money.structure.CurencyUnit", "Money.structure.CurrencyDefTable", "Money.structure.GetAmount", "Money.structure.GetCurrency", "Money.structure.MoneyConversionType", "Money.structure.MoneyLiteral", "Money.structure.MoneyType"};
+  private static String[] stringSwitchCases_846f5o_a0a0a = new String[]{"Money.structure.ConvertTo", "Money.structure.CurrencyDefTable", "Money.structure.CurrencyUnit", "Money.structure.GetAmount", "Money.structure.GetCurrency", "Money.structure.MoneyConversionType", "Money.structure.MoneyLiteral", "Money.structure.MoneyType"};
 
   public BehaviorAspectDescriptor() {
   }
@@ -26,10 +26,10 @@ public class BehaviorAspectDescriptor implements jetbrains.mps.smodel.runtime.Be
         return new ConvertTo_BehaviorDescriptor();
       case 5:
         return new MoneyConversionType_BehaviorDescriptor();
-      case 2:
-        return new CurrencyDefTable_BehaviorDescriptor();
       case 1:
-        return new CurencyUnit_BehaviorDescriptor();
+        return new CurrencyDefTable_BehaviorDescriptor();
+      case 2:
+        return new CurrencyUnit_BehaviorDescriptor();
       default:
         return BehaviorAspectInterpreted.getInstance().getDescriptor(fqName);
     }

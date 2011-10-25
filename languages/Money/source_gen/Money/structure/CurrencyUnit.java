@@ -12,75 +12,75 @@ import jetbrains.mps.smodel.SModel;
 import jetbrains.mps.smodel.SModelUtil_new;
 import jetbrains.mps.project.GlobalScope;
 
-public class CurencyUnit extends BaseConcept implements INamedConcept {
-  public static final String concept = "Money.structure.CurencyUnit";
+public class CurrencyUnit extends BaseConcept implements INamedConcept {
+  public static final String concept = "Money.structure.CurrencyUnit";
   public static final String NAME = "name";
   public static final String SHORT_DESCRIPTION = "shortDescription";
   public static final String ALIAS = "alias";
   public static final String VIRTUAL_PACKAGE = "virtualPackage";
   public static final String SMODEL_ATTRIBUTE = "smodelAttribute";
 
-  public CurencyUnit(SNode node) {
+  public CurrencyUnit(SNode node) {
     super(node);
   }
 
   public String getName() {
-    return this.getProperty(CurencyUnit.NAME);
+    return this.getProperty(CurrencyUnit.NAME);
   }
 
   public void setName(String value) {
-    this.setProperty(CurencyUnit.NAME, value);
+    this.setProperty(CurrencyUnit.NAME, value);
   }
 
   public String getShortDescription() {
-    return this.getProperty(CurencyUnit.SHORT_DESCRIPTION);
+    return this.getProperty(CurrencyUnit.SHORT_DESCRIPTION);
   }
 
   public void setShortDescription(String value) {
-    this.setProperty(CurencyUnit.SHORT_DESCRIPTION, value);
+    this.setProperty(CurrencyUnit.SHORT_DESCRIPTION, value);
   }
 
   public String getAlias() {
-    return this.getProperty(CurencyUnit.ALIAS);
+    return this.getProperty(CurrencyUnit.ALIAS);
   }
 
   public void setAlias(String value) {
-    this.setProperty(CurencyUnit.ALIAS, value);
+    this.setProperty(CurrencyUnit.ALIAS, value);
   }
 
   public String getVirtualPackage() {
-    return this.getProperty(CurencyUnit.VIRTUAL_PACKAGE);
+    return this.getProperty(CurrencyUnit.VIRTUAL_PACKAGE);
   }
 
   public void setVirtualPackage(String value) {
-    this.setProperty(CurencyUnit.VIRTUAL_PACKAGE, value);
+    this.setProperty(CurrencyUnit.VIRTUAL_PACKAGE, value);
   }
 
   public int getSmodelAttributesCount() {
-    return this.getChildCount(CurencyUnit.SMODEL_ATTRIBUTE);
+    return this.getChildCount(CurrencyUnit.SMODEL_ATTRIBUTE);
   }
 
   public Iterator<Attribute> smodelAttributes() {
-    return this.children(Attribute.class, CurencyUnit.SMODEL_ATTRIBUTE);
+    return this.children(Attribute.class, CurrencyUnit.SMODEL_ATTRIBUTE);
   }
 
   public List<Attribute> getSmodelAttributes() {
-    return this.getChildren(Attribute.class, CurencyUnit.SMODEL_ATTRIBUTE);
+    return this.getChildren(Attribute.class, CurrencyUnit.SMODEL_ATTRIBUTE);
   }
 
   public void addSmodelAttribute(Attribute node) {
-    this.addChild(CurencyUnit.SMODEL_ATTRIBUTE, node);
+    this.addChild(CurrencyUnit.SMODEL_ATTRIBUTE, node);
   }
 
   public void insertSmodelAttribute(Attribute prev, Attribute node) {
-    this.insertChild(prev, CurencyUnit.SMODEL_ATTRIBUTE, node);
+    this.insertChild(prev, CurrencyUnit.SMODEL_ATTRIBUTE, node);
   }
 
-  public static CurencyUnit newInstance(SModel sm, boolean init) {
-    return (CurencyUnit) SModelUtil_new.instantiateConceptDeclaration("Money.structure.CurencyUnit", sm, GlobalScope.getInstance(), init).getAdapter();
+  public static CurrencyUnit newInstance(SModel sm, boolean init) {
+    return (CurrencyUnit) SModelUtil_new.instantiateConceptDeclaration("Money.structure.CurrencyUnit", sm, GlobalScope.getInstance(), init).getAdapter();
   }
 
-  public static CurencyUnit newInstance(SModel sm) {
-    return CurencyUnit.newInstance(sm, false);
+  public static CurrencyUnit newInstance(SModel sm) {
+    return CurrencyUnit.newInstance(sm, false);
   }
 }
