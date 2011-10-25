@@ -29,43 +29,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bafaab0b-6245-48a1-aa44-319d85c4c280" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Vaclav\MPSProjects\STM\languages\Money\classes_gen\Money\behavior\CurencyUnit_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Vaclav\MPSProjects\STM\languages\Money\classes_gen\Money\editor\CurencyUnit_Editor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Vaclav\MPSProjects\STM\languages\Money\classes_gen\Money\structure\CurencyUnit.class" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Vaclav\MPSProjects\STM\languages\Money\source_gen\Money\behavior\CurencyUnit_BehaviorDescriptor.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/behavior/CurrencyUnit_BehaviorDescriptor.java" />
-      <change type="MOVED" beforePath="C:\Users\Vaclav\MPSProjects\STM\languages\Money\source_gen\Money\editor\CurencyUnit_Editor.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/editor/CurrencyUnit_Editor.java" />
-      <change type="MOVED" beforePath="C:\Users\Vaclav\MPSProjects\STM\languages\Money\source_gen\Money\structure\CurencyUnit.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/CurrencyUnit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/DecisionTable/source_gen.caches/DecisionTable/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/DecisionTable/source_gen.caches/DecisionTable/generator/template/main/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/actions/dependencies" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/actions/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/actions/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/actions/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/behavior/dependencies" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/behavior/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/behavior/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/behavior/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/constraints/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/constraints/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/editor/dependencies" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/editor/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/editor/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/editor/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/generator/template/main/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/structure/dependencies" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/structure/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/structure/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/structure/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/typesystem/generated" afterPath="$PROJECT_DIR$/languages/Money/source_gen.caches/Money/typesystem/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/actions/trace.info" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/actions/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/behavior/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/editor/trace.info" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/editor/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/trace.info" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/behavior/generated" afterPath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/behavior/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/textGen/generated" afterPath="$PROJECT_DIR$/languages/STM/source_gen.caches/STM/textGen/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen.caches/STM/sandbox/sandbox/generated" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen.caches/STM/sandbox/sandbox/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/trace.info" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/classes_gen/Money/actions/QueriesGenerated$1.class" afterPath="$PROJECT_DIR$/languages/Money/classes_gen/Money/actions/QueriesGenerated$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/classes_gen/Money/actions/QueriesGenerated$4.class" afterPath="$PROJECT_DIR$/languages/Money/classes_gen/Money/actions/QueriesGenerated$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/classes_gen/Money/actions/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/Money/classes_gen/Money/actions/QueriesGenerated.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/classes_gen/Money/actions/trace.info" afterPath="$PROJECT_DIR$/languages/Money/classes_gen/Money/actions/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/classes_gen/Money/behavior/BehaviorAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/Money/classes_gen/Money/behavior/BehaviorAspectDescriptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/classes_gen/Money/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/Money/classes_gen/Money/behavior/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/classes_gen/Money/editor/trace.info" afterPath="$PROJECT_DIR$/languages/Money/classes_gen/Money/editor/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/classes_gen/Money/structure/CurrencyDefTable.class" afterPath="$PROJECT_DIR$/languages/Money/classes_gen/Money/structure/CurrencyDefTable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/classes_gen/Money/structure/MoneyLiteral.class" afterPath="$PROJECT_DIR$/languages/Money/classes_gen/Money/structure/MoneyLiteral.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/classes_gen/Money/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/Money/classes_gen/Money/structure/StructureAspectDescriptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/classes_gen/Money/structure/trace.info" afterPath="$PROJECT_DIR$/languages/Money/classes_gen/Money/structure/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/classes_gen/STM/sandbox/sandbox/trace.info" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/classes_gen/STM/sandbox/sandbox/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/STM.iws" afterPath="$PROJECT_DIR$/STM.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/languageModels/actions.mps" afterPath="$PROJECT_DIR$/languages/Money/languageModels/actions.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/Money/languageModels/editor.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/Money/languageModels/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/actions/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/actions/QueriesGenerated.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/behavior/BehaviorAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/behavior/BehaviorAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/CurrencyDefTable.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/CurrencyDefTable.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/MoneyLiteral.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/MoneyLiteral.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/Money/source_gen/Money/structure/StructureAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/STM/sandbox/sandbox.mps" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/STM/sandbox/sandbox.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/DecisionSample.java" afterPath="$PROJECT_DIR$/solutions/STM.sandbox/source_gen/STM/sandbox/sandbox/DecisionSample.java" />
     </list>
     <ignored path="STM.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -697,7 +673,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polished the demos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed the typo in CurrencyDefTable name" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -712,6 +688,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Fixed generation for atomic expression" />
     <MESSAGE value="Polished the demos" />
+    <MESSAGE value="Fixed the typo in CurrencyDefTable name" />
   </component>
   <component name="editorHistoryManager">
     <entry file="mps://SampleExtensions.structure/UnlessStatement">
