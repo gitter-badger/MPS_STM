@@ -17,7 +17,7 @@ public class AtomicBlock_TextGen extends SNodeTextGen {
     }
     this.appendNewLine();
     this.indentBuffer();
-    this.append("org.multiverse.api.StmUtils.executeChecked(new org.multiverse.api.closures.AtomicVoidClosure() {");
+    this.append("org.multiverse.api.StmUtils.execute(new org.multiverse.api.closures.AtomicVoidClosure() {");
     this.increaseDepth();
     this.append("public void execute(org.multiverse.api.Transaction transaction) throws java.lang.Exception {");
     this.increaseDepth();

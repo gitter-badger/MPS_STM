@@ -198,5 +198,107 @@
     <unitInfo nodeId="4773190895161960342" fileName="Test.java" startLine="23" startPosition="18" endLine="27" endPosition="5" unitName="STM.sandbox.sandbox.Test$2" />
     <unitInfo nodeId="4268640335983732166" fileName="Test.java" startLine="11" startPosition="0" endLine="30" endPosition="0" unitName="STM.sandbox.sandbox.Test" />
   </root>
+  <root nodeId="8467823278008697507">
+    <nodeInfo nodeId="8467823278008701343" fileName="STMSample.java" startLine="15" startPosition="70" endLine="16" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8467823278008701349" fileName="STMSample.java" startLine="16" startPosition="57" endLine="17" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8467823278008701355" fileName="STMSample.java" startLine="17" startPosition="57" endLine="18" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008701363" fileName="STMSample.java" startLine="18" startPosition="19" endLine="19" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008701370" fileName="STMSample.java" startLine="19" startPosition="19" endLine="20" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008713938" fileName="STMSample.java" startLine="20" startPosition="43" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="8467823278008713931" fileName="STMSample.java" startLine="21" startPosition="0" endLine="22" endPosition="69" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="8467823278008713936" fileName="STMSample.java" startLine="22" startPosition="69" endLine="23" endPosition="70" conceptFqName="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+    <nodeInfo nodeId="8467823278008701379" fileName="STMSample.java" startLine="23" startPosition="70" endLine="24" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.AssertStatement" />
+    <nodeInfo nodeId="8467823278008701391" fileName="STMSample.java" startLine="24" startPosition="37" endLine="25" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.AssertStatement" />
+    <nodeInfo nodeId="8467823278008826112" fileName="STMSample.java" startLine="25" startPosition="38" endLine="26" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.Statement" />
+    <nodeInfo nodeId="8467823278008826114" fileName="STMSample.java" startLine="28" startPosition="25" endLine="29" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008826126" fileName="STMSample.java" startLine="33" startPosition="25" endLine="34" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008826135" fileName="STMSample.java" startLine="38" startPosition="25" endLine="39" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008826670" fileName="STMSample.java" startLine="41" startPosition="15" endLine="42" endPosition="23" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008826142" fileName="STMSample.java" startLine="42" startPosition="23" endLine="43" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.AssertStatement" />
+    <nodeInfo nodeId="8467823278008826148" fileName="STMSample.java" startLine="43" startPosition="37" endLine="44" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.AssertStatement" />
+    <nodeInfo nodeId="8467823278008699923" fileName="STMSample.java" startLine="47" startPosition="31" endLine="48" endPosition="51" conceptFqName="jetbrains.mps.baseLanguage.structure.FieldDeclaration" propertyString="counter" />
+    <nodeInfo nodeId="8467823278008827708" fileName="STMSample.java" startLine="55" startPosition="62" endLine="56" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8467823278008827714" fileName="STMSample.java" startLine="56" startPosition="36" endLine="57" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008827688" fileName="STMSample.java" startLine="64" startPosition="62" endLine="65" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8467823278008827696" fileName="STMSample.java" startLine="65" startPosition="36" endLine="66" endPosition="38" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008701295" fileName="STMSample.java" startLine="73" startPosition="65" endLine="74" endPosition="31" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8467823278008701322" fileName="STMSample.java" startLine="81" startPosition="62" endLine="82" endPosition="29" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008701331" fileName="STMSample.java" startLine="82" startPosition="29" endLine="83" endPosition="28" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008697509" fileName="STMSample.java" startLine="11" startPosition="24" endLine="13" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="STMSample#()V" />
+    <nodeInfo nodeId="8467823278008699919" fileName="STMSample.java" startLine="49" startPosition="0" endLine="51" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="Account#()V" />
+    <nodeInfo nodeId="8467823278008826119" fileName="STMSample.java" startLine="27" startPosition="31" endLine="31" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="run#()V" />
+    <nodeInfo nodeId="8467823278008826123" fileName="STMSample.java" startLine="32" startPosition="31" endLine="36" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="run#()V" />
+    <nodeInfo nodeId="8467823278008826132" fileName="STMSample.java" startLine="37" startPosition="31" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="run#()V" />
+    <nodeInfo nodeId="8467823278008822305" fileName="STMSample.java" startLine="72" startPosition="60" endLine="76" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Lorg/multiverse/api/Transaction;)Ljava/lang/Integer;" />
+    <nodeInfo nodeId="8467823278008826119" fileName="STMSample.java" startLine="26" startPosition="0" endLine="31" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008826123" fileName="STMSample.java" startLine="31" startPosition="15" endLine="36" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008826132" fileName="STMSample.java" startLine="36" startPosition="15" endLine="41" endPosition="15" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008822943" fileName="STMSample.java" startLine="54" startPosition="48" endLine="59" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Lorg/multiverse/api/Transaction;)V" />
+    <nodeInfo nodeId="8467823278008822938" fileName="STMSample.java" startLine="63" startPosition="48" endLine="68" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Lorg/multiverse/api/Transaction;)V" />
+    <nodeInfo nodeId="8467823278008822304" fileName="STMSample.java" startLine="71" startPosition="33" endLine="76" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8467823278008822109" fileName="STMSample.java" startLine="80" startPosition="48" endLine="85" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Lorg/multiverse/api/Transaction;)V" />
+    <nodeInfo nodeId="8467823278008822942" fileName="STMSample.java" startLine="53" startPosition="41" endLine="59" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008822937" fileName="STMSample.java" startLine="62" startPosition="42" endLine="68" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008822108" fileName="STMSample.java" startLine="79" startPosition="109" endLine="85" endPosition="9" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8467823278008701290" fileName="STMSample.java" startLine="70" startPosition="0" endLine="78" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="currentBalance#()I" />
+    <nodeInfo nodeId="8467823278008699931" fileName="STMSample.java" startLine="52" startPosition="0" endLine="61" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="debit#(I)V" />
+    <nodeInfo nodeId="8467823278008701271" fileName="STMSample.java" startLine="61" startPosition="0" endLine="70" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="credit#(I)V" />
+    <nodeInfo nodeId="8467823278008701306" fileName="STMSample.java" startLine="78" startPosition="0" endLine="87" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="transfer#(LSTM/sandbox/sandbox/STMSample/Account;LSTM/sandbox/sandbox/STMSample/Account;I)V" />
+    <nodeInfo nodeId="8467823278008697513" fileName="STMSample.java" startLine="14" startPosition="0" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="main#([Ljava/lang/String;)V" />
+    <scopeInfo nodeId="8467823278008697512" fileName="STMSample.java" startLine="12" startPosition="22" endLine="12" endPosition="22" />
+    <scopeInfo nodeId="8467823278008699922" fileName="STMSample.java" startLine="50" startPosition="22" endLine="50" endPosition="22" />
+    <scopeInfo nodeId="8467823278008826121" fileName="STMSample.java" startLine="28" startPosition="25" endLine="29" endPosition="47" />
+    <scopeInfo nodeId="8467823278008826125" fileName="STMSample.java" startLine="33" startPosition="25" endLine="34" endPosition="47" />
+    <scopeInfo nodeId="8467823278008826134" fileName="STMSample.java" startLine="38" startPosition="25" endLine="39" endPosition="47" />
+    <scopeInfo nodeId="8467823278008822305" fileName="STMSample.java" startLine="73" startPosition="65" endLine="74" endPosition="31" />
+    <scopeInfo nodeId="8467823278008697509" fileName="STMSample.java" startLine="11" startPosition="24" endLine="13" endPosition="3" />
+    <scopeInfo nodeId="8467823278008699919" fileName="STMSample.java" startLine="49" startPosition="0" endLine="51" endPosition="5" />
+    <scopeInfo nodeId="8467823278008822944" fileName="STMSample.java" startLine="55" startPosition="62" endLine="57" endPosition="38">
+      <varInfo nodeId="8467823278008827709" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="8467823278008822939" fileName="STMSample.java" startLine="64" startPosition="62" endLine="66" endPosition="38">
+      <varInfo nodeId="8467823278008827689" varName="value" />
+    </scopeInfo>
+    <scopeInfo nodeId="8467823278008822110" fileName="STMSample.java" startLine="81" startPosition="62" endLine="83" endPosition="28" />
+    <scopeInfo nodeId="8467823278008826119" fileName="STMSample.java" startLine="27" startPosition="31" endLine="31" endPosition="0" />
+    <scopeInfo nodeId="8467823278008826123" fileName="STMSample.java" startLine="32" startPosition="31" endLine="36" endPosition="0" />
+    <scopeInfo nodeId="8467823278008826132" fileName="STMSample.java" startLine="37" startPosition="31" endLine="41" endPosition="0" />
+    <scopeInfo nodeId="8467823278008822305" fileName="STMSample.java" startLine="72" startPosition="60" endLine="76" endPosition="0" />
+    <scopeInfo nodeId="8467823278008822943" fileName="STMSample.java" startLine="54" startPosition="48" endLine="59" endPosition="0" />
+    <scopeInfo nodeId="8467823278008822938" fileName="STMSample.java" startLine="63" startPosition="48" endLine="68" endPosition="0" />
+    <scopeInfo nodeId="8467823278008701293" fileName="STMSample.java" startLine="71" startPosition="33" endLine="76" endPosition="9" />
+    <scopeInfo nodeId="8467823278008822109" fileName="STMSample.java" startLine="80" startPosition="48" endLine="85" endPosition="0" />
+    <scopeInfo nodeId="8467823278008699934" fileName="STMSample.java" startLine="53" startPosition="41" endLine="59" endPosition="9" />
+    <scopeInfo nodeId="8467823278008701274" fileName="STMSample.java" startLine="62" startPosition="42" endLine="68" endPosition="9" />
+    <scopeInfo nodeId="8467823278008701309" fileName="STMSample.java" startLine="79" startPosition="109" endLine="85" endPosition="9" />
+    <scopeInfo nodeId="8467823278008701290" fileName="STMSample.java" startLine="70" startPosition="0" endLine="78" endPosition="0" />
+    <scopeInfo nodeId="8467823278008699931" fileName="STMSample.java" startLine="52" startPosition="0" endLine="61" endPosition="0">
+      <varInfo nodeId="8467823278008699935" varName="amount" />
+    </scopeInfo>
+    <scopeInfo nodeId="8467823278008701271" fileName="STMSample.java" startLine="61" startPosition="0" endLine="70" endPosition="0">
+      <varInfo nodeId="8467823278008701275" varName="amount" />
+    </scopeInfo>
+    <scopeInfo nodeId="8467823278008701306" fileName="STMSample.java" startLine="78" startPosition="0" endLine="87" endPosition="0">
+      <varInfo nodeId="8467823278008701319" varName="amount" />
+      <varInfo nodeId="8467823278008701312" varName="to" />
+      <varInfo nodeId="8467823278008701310" varName="from" />
+    </scopeInfo>
+    <scopeInfo nodeId="8467823278008697516" fileName="STMSample.java" startLine="15" startPosition="70" endLine="44" endPosition="38">
+      <varInfo nodeId="8467823278008701344" varName="a1" />
+      <varInfo nodeId="8467823278008701350" varName="a2" />
+    </scopeInfo>
+    <scopeInfo nodeId="8467823278008697513" fileName="STMSample.java" startLine="14" startPosition="0" endLine="46" endPosition="0">
+      <varInfo nodeId="8467823278008697517" varName="args" />
+    </scopeInfo>
+    <unitInfo nodeId="8467823278008826119" fileName="STMSample.java" startLine="27" startPosition="19" endLine="31" endPosition="5" unitName="STM.sandbox.sandbox.STMSample$1" />
+    <unitInfo nodeId="8467823278008826123" fileName="STMSample.java" startLine="32" startPosition="19" endLine="36" endPosition="5" unitName="STM.sandbox.sandbox.STMSample$2" />
+    <unitInfo nodeId="8467823278008826132" fileName="STMSample.java" startLine="37" startPosition="19" endLine="41" endPosition="5" unitName="STM.sandbox.sandbox.STMSample$3" />
+    <unitInfo nodeId="8467823278008822305" fileName="STMSample.java" startLine="72" startPosition="34" endLine="76" endPosition="7" unitName="STM.sandbox.sandbox.STMSample$4" />
+    <unitInfo nodeId="8467823278008822943" fileName="STMSample.java" startLine="54" startPosition="27" endLine="59" endPosition="7" unitName="STM.sandbox.sandbox.STMSample$2" />
+    <unitInfo nodeId="8467823278008822938" fileName="STMSample.java" startLine="63" startPosition="27" endLine="68" endPosition="7" unitName="STM.sandbox.sandbox.STMSample$3" />
+    <unitInfo nodeId="8467823278008822109" fileName="STMSample.java" startLine="80" startPosition="27" endLine="85" endPosition="7" unitName="STM.sandbox.sandbox.STMSample$1" />
+    <unitInfo nodeId="8467823278008699917" fileName="STMSample.java" startLine="47" startPosition="0" endLine="88" endPosition="0" unitName="STM.sandbox.sandbox.STMSample$Account" />
+    <unitInfo nodeId="8467823278008697507" fileName="STMSample.java" startLine="11" startPosition="0" endLine="89" endPosition="0" unitName="STM.sandbox.sandbox.STMSample" />
+  </root>
 </debugInfo>
 

@@ -86,9 +86,9 @@
     <nodeInfo nodeId="9200214263550152366" fileName="AtomicBlock_TextGen.java" startLine="17" startPosition="5" endLine="18" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
     <nodeInfo nodeId="9200214263550152366" fileName="AtomicBlock_TextGen.java" startLine="17" startPosition="5" endLine="18" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
     <nodeInfo nodeId="9200214263550152368" fileName="AtomicBlock_TextGen.java" startLine="18" startPosition="25" endLine="19" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="9200214263550152342" fileName="AtomicBlock_TextGen.java" startLine="19" startPosition="24" endLine="20" endPosition="116" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
-    <nodeInfo nodeId="9200214263550152342" fileName="AtomicBlock_TextGen.java" startLine="19" startPosition="24" endLine="20" endPosition="116" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="9200214263550152894" fileName="AtomicBlock_TextGen.java" startLine="20" startPosition="116" endLine="21" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="9200214263550152342" fileName="AtomicBlock_TextGen.java" startLine="19" startPosition="24" endLine="20" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="9200214263550152342" fileName="AtomicBlock_TextGen.java" startLine="19" startPosition="24" endLine="20" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="9200214263550152894" fileName="AtomicBlock_TextGen.java" startLine="20" startPosition="109" endLine="21" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
     <nodeInfo nodeId="9200214263550152896" fileName="AtomicBlock_TextGen.java" startLine="21" startPosition="25" endLine="22" endPosition="112" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
     <nodeInfo nodeId="9200214263550152896" fileName="AtomicBlock_TextGen.java" startLine="21" startPosition="25" endLine="22" endPosition="112" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
     <nodeInfo nodeId="9200214263550152898" fileName="AtomicBlock_TextGen.java" startLine="22" startPosition="112" endLine="23" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
@@ -107,11 +107,11 @@
     <nodeInfo nodeId="9200214263550152327" fileName="AtomicBlock_TextGen.java" startLine="14" startPosition="42" endLine="17" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
     <nodeInfo nodeId="9200214263550152898" fileName="AtomicBlock_TextGen.java" startLine="22" startPosition="112" endLine="25" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
     <nodeInfo nodeId="9200214263550152327" fileName="AtomicBlock_TextGen.java" startLine="29" startPosition="23" endLine="32" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="9200214263550152894" fileName="AtomicBlock_TextGen.java" startLine="20" startPosition="116" endLine="27" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="9200214263550152894" fileName="AtomicBlock_TextGen.java" startLine="20" startPosition="109" endLine="27" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
     <nodeInfo nodeId="9200214263550152327" fileName="AtomicBlock_TextGen.java" startLine="13" startPosition="55" endLine="34" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="doGenerateText#(Ljetbrains/mps/smodel/SNode;)V" />
     <scopeInfo nodeId="9200214263550152327" fileName="AtomicBlock_TextGen.java" startLine="15" startPosition="44" endLine="16" endPosition="61" />
     <scopeInfo nodeId="9200214263550152366" fileName="AtomicBlock_TextGen.java" startLine="17" startPosition="5" endLine="18" endPosition="25" />
-    <scopeInfo nodeId="9200214263550152342" fileName="AtomicBlock_TextGen.java" startLine="19" startPosition="24" endLine="20" endPosition="116" />
+    <scopeInfo nodeId="9200214263550152342" fileName="AtomicBlock_TextGen.java" startLine="19" startPosition="24" endLine="20" endPosition="109" />
     <scopeInfo nodeId="9200214263550152896" fileName="AtomicBlock_TextGen.java" startLine="21" startPosition="25" endLine="22" endPosition="112" />
     <scopeInfo nodeId="9200214263550152900" fileName="AtomicBlock_TextGen.java" startLine="23" startPosition="25" endLine="24" endPosition="146" />
     <scopeInfo nodeId="9200214263550152905" fileName="AtomicBlock_TextGen.java" startLine="25" startPosition="25" endLine="26" endPosition="22" />
@@ -119,7 +119,7 @@
     <scopeInfo nodeId="9200214263550152350" fileName="AtomicBlock_TextGen.java" startLine="28" startPosition="25" endLine="29" endPosition="23" />
     <scopeInfo nodeId="9200214263550152327" fileName="AtomicBlock_TextGen.java" startLine="30" startPosition="44" endLine="31" endPosition="219" />
     <scopeInfo nodeId="9200214263550152898" fileName="AtomicBlock_TextGen.java" startLine="22" startPosition="112" endLine="25" endPosition="25" />
-    <scopeInfo nodeId="9200214263550152894" fileName="AtomicBlock_TextGen.java" startLine="20" startPosition="116" endLine="27" endPosition="25" />
+    <scopeInfo nodeId="9200214263550152894" fileName="AtomicBlock_TextGen.java" startLine="20" startPosition="109" endLine="27" endPosition="25" />
     <scopeInfo nodeId="9200214263550152327" fileName="AtomicBlock_TextGen.java" startLine="14" startPosition="42" endLine="32" endPosition="5" />
     <scopeInfo nodeId="9200214263550152327" fileName="AtomicBlock_TextGen.java" startLine="13" startPosition="55" endLine="34" endPosition="0" />
     <unitInfo nodeId="9200214263550152327" fileName="AtomicBlock_TextGen.java" startLine="13" startPosition="0" endLine="35" endPosition="0" unitName="STM.textGen.AtomicBlock_TextGen" />

@@ -122,7 +122,7 @@
   </root>
   <root id="683676710780382035">
     <node role="conceptProperty" roleId="tpce.1105725339613" type="tpce.StringConceptProperty" typeId="tpce.1105725638761" id="683676710780382289">
-      <property name="value" nameId="tpce.1105725733873" value="atomically" />
+      <property name="value" nameId="tpce.1105725733873" value="do atomically" />
       <link role="conceptPropertyDeclaration" roleId="tpce.1105725439818" targetNodeId="tpck.1137473891462" resolveInfo="alias" />
     </node>
     <node role="conceptProperty" roleId="tpce.1105725339613" type="tpce.BooleanConceptProperty" typeId="tpce.1105725574259" id="9197116338992081427">

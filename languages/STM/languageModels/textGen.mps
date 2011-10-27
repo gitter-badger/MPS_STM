@@ -33,7 +33,7 @@
         <node role="statement" roleId="tpee.1068581517665" type="2omo.IndentBufferOperation" typeId="2omo.1233920501193" id="9200214263550152368" />
         <node role="statement" roleId="tpee.1068581517665" type="2omo.AppendOperation" typeId="2omo.1237306079178" id="9200214263550152342">
           <node role="part" roleId="2omo.1237306115446" type="2omo.ConstantStringAppendPart" typeId="2omo.1237305557638" id="9200214263550152344">
-            <property name="value" nameId="2omo.1237305576108" value="org.multiverse.api.StmUtils.executeChecked(new org.multiverse.api.closures.AtomicVoidClosure() {" />
+            <property name="value" nameId="2omo.1237305576108" value="org.multiverse.api.StmUtils.execute(new org.multiverse.api.closures.AtomicVoidClosure() {" />
           </node>
         </node>
         <node role="statement" roleId="tpee.1068581517665" type="2omo.WithIndentOperation" typeId="2omo.1236188139846" id="9200214263550152894">
