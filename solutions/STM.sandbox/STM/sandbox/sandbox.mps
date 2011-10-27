@@ -32,14 +32,17 @@
       <property name="word" nameId="z9zu.8694120209457738325" value="Scala" />
       <property name="name" nameId="tpck.1169194664001" value="Scan1.groovy" />
       <property name="parallel" nameId="z9zu.8694120209457738326" value="sequential" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="groovy" />
     </node>
     <node type="z9zu.DiscountRuleSet" typeId="z9zu.3399367608522374850" id="3399367608522485775">
       <property name="product" nameId="z9zu.3399367608522385013" value="TeamCity" />
       <property name="name" nameId="tpck.1169194664001" value="MyDiscounts" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="discount" />
     </node>
     <node type="z9zu.DiscountRuleSet" typeId="z9zu.3399367608522374850" id="3399367608522553708">
       <property name="product" nameId="z9zu.3399367608522385013" value="IDEA" />
       <property name="name" nameId="tpck.1169194664001" value="IdeaDiscounts2011" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="discount" />
     </node>
     <node type="tpee.ClassConcept" typeId="tpee.1068390468198" id="393299394024635966">
       <property name="name" nameId="tpck.1169194664001" value="Sample" />
@@ -50,12 +53,16 @@
     <node type="tpee.ClassConcept" typeId="tpee.1068390468198" id="3863300516938089406">
       <property name="name" nameId="tpck.1169194664001" value="IfSample" />
     </node>
-    <node type="v0h4.CurrencyDefTable" typeId="v0h4.3607579524910560662" id="3607579524910567212" />
+    <node type="v0h4.CurrencyDefTable" typeId="v0h4.3607579524910560662" id="3607579524910567212">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="money" />
+    </node>
     <node type="tpee.ClassConcept" typeId="tpee.1068390468198" id="3607579524910567967">
       <property name="name" nameId="tpck.1169194664001" value="MoneySample" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="money" />
     </node>
     <node type="tpee.ClassConcept" typeId="tpee.1068390468198" id="8467823278008697507">
       <property name="name" nameId="tpck.1169194664001" value="STMSample" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="stm" />
     </node>
   </roots>
   <root id="4268640335983732166">
