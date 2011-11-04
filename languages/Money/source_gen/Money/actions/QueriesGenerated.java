@@ -41,6 +41,7 @@ public class QueriesGenerated {
             SLinkOperations.setTarget(ml, "unit", unit, false);
             SPropertyOperations.set(ml, "amount", "" + SPropertyOperations.getInteger(SNodeOperations.cast(_context.getSourceNode(), "jetbrains.mps.baseLanguage.structure.IntegerConstant"), "value"));
             SNodeOperations.replaceWithAnother(_context.getSourceNode(), ml);
+            return ml;
           }
           return _context.getSourceNode();
         }
