@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
   <root nodeId="3607579524910567967">
-    <nodeInfo nodeId="3607579524910567990" fileName="MoneySample.java" startLine="11" startPosition="42" endLine="12" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="3607579524910567998" fileName="MoneySample.java" startLine="12" startPosition="62" endLine="13" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="3607579524910567969" fileName="MoneySample.java" startLine="7" startPosition="26" endLine="9" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="MoneySample#()V" />
-    <nodeInfo nodeId="3607579524910567974" fileName="MoneySample.java" startLine="10" startPosition="0" endLine="15" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="main#([Ljava/lang/String;)V" />
-    <scopeInfo nodeId="3607579524910567972" fileName="MoneySample.java" startLine="8" startPosition="24" endLine="8" endPosition="24" />
-    <scopeInfo nodeId="3607579524910567969" fileName="MoneySample.java" startLine="7" startPosition="26" endLine="9" endPosition="3" />
-    <scopeInfo nodeId="3607579524910567977" fileName="MoneySample.java" startLine="11" startPosition="42" endLine="13" endPosition="37">
-      <varInfo nodeId="3607579524910567991" varName="m" />
-    </scopeInfo>
-    <scopeInfo nodeId="3607579524910567974" fileName="MoneySample.java" startLine="10" startPosition="0" endLine="15" endPosition="0">
+    <nodeInfo nodeId="3607579524910567969" fileName="MoneySample.java" startLine="6" startPosition="26" endLine="8" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="MoneySample#()V" />
+    <nodeInfo nodeId="3607579524910567974" fileName="MoneySample.java" startLine="9" startPosition="0" endLine="12" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="main#([Ljava/lang/String;)V" />
+    <scopeInfo nodeId="3607579524910567972" fileName="MoneySample.java" startLine="7" startPosition="24" endLine="7" endPosition="24" />
+    <scopeInfo nodeId="3607579524910567977" fileName="MoneySample.java" startLine="10" startPosition="42" endLine="10" endPosition="42" />
+    <scopeInfo nodeId="3607579524910567969" fileName="MoneySample.java" startLine="6" startPosition="26" endLine="8" endPosition="3" />
+    <scopeInfo nodeId="3607579524910567974" fileName="MoneySample.java" startLine="9" startPosition="0" endLine="12" endPosition="0">
       <varInfo nodeId="3607579524910567978" varName="args" />
     </scopeInfo>
-    <unitInfo nodeId="3607579524910567967" fileName="MoneySample.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="STM.sandbox.sandbox.MoneySample" />
+    <unitInfo nodeId="3607579524910567967" fileName="MoneySample.java" startLine="6" startPosition="0" endLine="13" endPosition="0" unitName="STM.sandbox.sandbox.MoneySample" />
   </root>
   <root nodeId="3863300516938089393">
     <nodeInfo nodeId="1987251859607101931" fileName="DecisionSample.java" startLine="13" startPosition="34" endLine="14" endPosition="53" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
