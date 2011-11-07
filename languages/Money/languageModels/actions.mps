@@ -152,8 +152,13 @@
                     </node>
                   </node>
                   <node role="statement" roleId="tpee.1068581517665" type="tpee.ReturnStatement" typeId="tpee.1068581242878" id="5796591703341896855">
-                    <node role="expression" roleId="tpee.1068581517676" type="tpee.LocalVariableReference" typeId="tpee.1068581242866" id="5796591703341966462">
-                      <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="3607579524910547646" resolveInfo="ml" />
+                    <node role="expression" roleId="tpee.1068581517676" type="tpee.DotExpression" typeId="tpee.1197027756228" id="6451560055131404268">
+                      <node role="operand" roleId="tpee.1197027771414" type="tpee.LocalVariableReference" typeId="tpee.1068581242866" id="5796591703341966462">
+                        <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="3607579524910547646" resolveInfo="ml" />
+                      </node>
+                      <node role="operation" roleId="tpee.1197027833540" type="tp25.SLinkAccess" typeId="tp25.1138056143562" id="6451560055131438513">
+                        <link role="link" roleId="tp25.1138056516764" targetNodeId="v0h4.3607579524910560680" />
+                      </node>
                     </node>
                   </node>
                 </node>
