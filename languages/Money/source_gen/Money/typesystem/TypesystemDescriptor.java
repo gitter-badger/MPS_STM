@@ -4,6 +4,7 @@ package Money.typesystem;
 
 import jetbrains.mps.lang.typesystem.runtime.BaseHelginsDescriptor;
 import jetbrains.mps.lang.typesystem.runtime.InferenceRule_Runtime;
+import jetbrains.mps.lang.typesystem.runtime.SubtypingRule_Runtime;
 import jetbrains.mps.lang.typesystem.runtime.OverloadedOperationsTypesProvider;
 import jetbrains.mps.smodel.SNode;
 import java.util.Set;
@@ -20,6 +21,10 @@ public class TypesystemDescriptor extends BaseHelginsDescriptor {
     {
       InferenceRule_Runtime inferenceRule = new typeof_MoneyLiteral_InferenceRule();
       this.myInferenceRules.add(inferenceRule);
+    }
+    {
+      SubtypingRule_Runtime subtypingRule = new Money_extends_java_lang_Object_SubtypingRule();
+      this.mySubtypingRules.add(subtypingRule);
     }
     this.myOverloadedOperationsTypesProviders.add(new TypesystemDescriptor.CustomOverloadedOperationsTypesProvider_a("jetbrains.mps.baseLanguage.structure.MinusExpression"));
     this.myOverloadedOperationsTypesProviders.add(new TypesystemDescriptor.CustomOverloadedOperationsTypesProvider_a("jetbrains.mps.baseLanguage.structure.PlusExpression"));

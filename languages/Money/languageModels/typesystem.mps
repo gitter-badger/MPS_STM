@@ -13,6 +13,7 @@
   <import index="tp3r" modelUID="r:00000000-0000-4000-0000-011c8959034b(jetbrains.mps.lang.quotation.structure)" version="0" implicit="yes" />
   <import index="tpd4" modelUID="r:00000000-0000-4000-0000-011c895902b4(jetbrains.mps.lang.typesystem.structure)" version="3" implicit="yes" />
   <import index="tp25" modelUID="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)" version="-1" implicit="yes" />
+  <import index="e2lb" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" version="-1" implicit="yes" />
   <roots>
     <node type="tpd4.InferenceRule" typeId="tpd4.1174643105530" id="5447719361346490733">
       <property name="name" nameId="tpck.1169194664001" value="typeof_MoneyLiteral" />
@@ -22,6 +23,9 @@
     </node>
     <node type="tpd4.InferenceRule" typeId="tpd4.1174643105530" id="1790427706118391928">
       <property name="name" nameId="tpck.1169194664001" value="typeof_ConvertTo" />
+    </node>
+    <node type="tpd4.SubtypingRule" typeId="tpd4.1175147670730" id="3694786099210003295">
+      <property name="name" nameId="tpck.1169194664001" value="Money_extends_java_lang_Object" />
     </node>
   </roots>
   <root id="5447719361346490733">
@@ -100,6 +104,21 @@
     <node role="applicableNode" roleId="tpd4.1174648101952" type="tpd4.ConceptReference" typeId="tpd4.1174642788531" id="1790427706118391930">
       <property name="name" nameId="tpck.1169194664001" value="conversion" />
       <link role="concept" roleId="tpd4.1174642800329" targetNodeId="v0h4.1790427706118381722" resolveInfo="ConvertTo" />
+    </node>
+  </root>
+  <root id="3694786099210003295">
+    <node role="body" roleId="tpd4.1175147624276" type="tpee.StatementList" typeId="tpee.1068580123136" id="3694786099210003296">
+      <node role="statement" roleId="tpee.1068581517665" type="tpee.ReturnStatement" typeId="tpee.1068581242878" id="3694786099210006965">
+        <node role="expression" roleId="tpee.1068581517676" type="tp3r.Quotation" typeId="tp3r.1196350785113" id="3694786099210006967">
+          <node role="quotedNode" roleId="tp3r.1196350785114" type="tpee.ClassifierType" typeId="tpee.1107535904670" id="3694786099210006970">
+            <link role="classifier" roleId="tpee.1107535924139" targetNodeId="e2lb.~Object" resolveInfo="Object" />
+          </node>
+        </node>
+      </node>
+    </node>
+    <node role="applicableNode" roleId="tpd4.1174648101952" type="tpd4.ConceptReference" typeId="tpd4.1174642788531" id="3694786099210003298">
+      <property name="name" nameId="tpck.1169194664001" value="moneyType" />
+      <link role="concept" roleId="tpd4.1174642800329" targetNodeId="v0h4.5447719361346490730" resolveInfo="MoneyType" />
     </node>
   </root>
 </model>
