@@ -12,6 +12,6 @@ public class MoneyType_Behavior {
   }
 
   public static List<String> virtual_getVariableSuffixes_1213877337304(SNode thisNode) {
-    return ListSequence.fromListAndArray(new ArrayList<String>(), "cash");
+    return ListSequence.fromListAndArray(new ArrayList<String>(), "Savings", "Pennies", "Money", "Cash");
   }
 }
