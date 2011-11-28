@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="IntentionsDescriptor.java" startLine="9" startPosition="0" endLine="22" endPosition="0" unitName="SampleExtensions.intentions.IntentionsDescriptor" />
+  <unitInfo fileName="IntentionsDescriptor.java" startLine="9" startPosition="0" endLine="23" endPosition="0" unitName="SampleExtensions.intentions.IntentionsDescriptor" />
   <root nodeId="393299394024647596">
     <nodeInfo nodeId="393299394024647596" fileName="SurroundWithUnless_Intention.java" startLine="19" startPosition="30" endLine="20" endPosition="60" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="393299394024647596" fileName="SurroundWithUnless_Intention.java" startLine="23" startPosition="36" endLine="24" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
@@ -207,6 +207,64 @@
     </scopeInfo>
     <scopeInfo nodeId="393299394024668987" fileName="TurnToIfStatement_Intention.java" startLine="37" startPosition="0" endLine="80" endPosition="0" />
     <unitInfo nodeId="393299394024668987" fileName="TurnToIfStatement_Intention.java" startLine="14" startPosition="0" endLine="85" endPosition="0" unitName="SampleExtensions.intentions.TurnToIfStatement_Intention" />
+  </root>
+  <root nodeId="8008559088281289910">
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="18" startPosition="30" endLine="19" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="22" startPosition="36" endLine="23" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="26" startPosition="37" endLine="27" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="30" startPosition="44" endLine="31" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8008559088281307139" fileName="SplitIf_Intention.java" startLine="34" startPosition="85" endLine="35" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="39" startPosition="58" endLine="40" endPosition="19" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="41" startPosition="5" endLine="42" endPosition="16" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8008559088281307143" fileName="SplitIf_Intention.java" startLine="45" startPosition="90" endLine="46" endPosition="306" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8008559088281340148" fileName="SplitIf_Intention.java" startLine="49" startPosition="76" endLine="50" endPosition="153" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8008559088281340256" fileName="SplitIf_Intention.java" startLine="50" startPosition="153" endLine="51" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8008559088281340263" fileName="SplitIf_Intention.java" startLine="51" startPosition="82" endLine="52" endPosition="84" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8008559088281340271" fileName="SplitIf_Intention.java" startLine="52" startPosition="84" endLine="53" endPosition="62" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8008559088281389426" fileName="SplitIf_Intention.java" startLine="53" startPosition="62" endLine="54" endPosition="113" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8008559088281347205" fileName="SplitIf_Intention.java" startLine="54" startPosition="113" endLine="55" endPosition="66" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8008559088281347197" fileName="SplitIf_Intention.java" startLine="55" startPosition="66" endLine="56" endPosition="56" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8008559088281406382" fileName="SplitIf_Intention.java" startLine="56" startPosition="56" endLine="57" endPosition="151" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8008559088281404628" fileName="SplitIf_Intention.java" startLine="57" startPosition="151" endLine="58" endPosition="144" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="61" startPosition="37" endLine="62" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="14" startPosition="75" endLine="16" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="SplitIf_Intention#()V" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="38" startPosition="84" endLine="41" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="17" startPosition="0" endLine="21" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getConcept#()Ljava/lang/String;" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="21" startPosition="0" endLine="25" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isParameterized#()Z" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="25" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isErrorIntention#()Z" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="29" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isAvailableInChildNodes#()Z" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="33" startPosition="0" endLine="37" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getDescription#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Ljava/lang/String;" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="44" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableToNode#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="60" startPosition="0" endLine="64" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getLocationString#()Ljava/lang/String;" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="37" startPosition="0" endLine="44" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicable#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)Z" />
+    <nodeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="48" startPosition="0" endLine="60" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="execute#(Ljetbrains/mps/smodel/SNode;Ljetbrains/mps/nodeEditor/EditorContext;)V" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="15" startPosition="30" endLine="15" endPosition="30" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="18" startPosition="30" endLine="19" endPosition="62" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="22" startPosition="36" endLine="23" endPosition="17" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="26" startPosition="37" endLine="27" endPosition="17" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="30" startPosition="44" endLine="31" endPosition="17" />
+    <scopeInfo nodeId="8008559088281289912" fileName="SplitIf_Intention.java" startLine="34" startPosition="85" endLine="35" endPosition="32" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="39" startPosition="58" endLine="40" endPosition="19" />
+    <scopeInfo nodeId="8008559088281307142" fileName="SplitIf_Intention.java" startLine="45" startPosition="90" endLine="46" endPosition="306" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="61" startPosition="37" endLine="62" endPosition="41" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="14" startPosition="75" endLine="16" endPosition="3" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="17" startPosition="0" endLine="21" endPosition="0" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="21" startPosition="0" endLine="25" endPosition="0" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="25" startPosition="0" endLine="29" endPosition="0" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="29" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="33" startPosition="0" endLine="37" endPosition="0" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="38" startPosition="84" endLine="42" endPosition="16" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="44" startPosition="0" endLine="48" endPosition="0" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="60" startPosition="0" endLine="64" endPosition="0" />
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="37" startPosition="0" endLine="44" endPosition="0" />
+    <scopeInfo nodeId="8008559088281289914" fileName="SplitIf_Intention.java" startLine="49" startPosition="76" endLine="58" endPosition="144">
+      <varInfo nodeId="8008559088281389427" varName="statement" />
+      <varInfo nodeId="8008559088281340149" varName="andExpression" />
+      <varInfo nodeId="8008559088281340257" varName="left" />
+      <varInfo nodeId="8008559088281340264" varName="right" />
+    </scopeInfo>
+    <scopeInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="48" startPosition="0" endLine="60" endPosition="0" />
+    <unitInfo nodeId="8008559088281289910" fileName="SplitIf_Intention.java" startLine="14" startPosition="0" endLine="65" endPosition="0" unitName="SampleExtensions.intentions.SplitIf_Intention" />
   </root>
   <root nodeId="954830572076058611">
     <nodeInfo nodeId="954830572076058611" fileName="ConvertMyIfToIf_Intention.java" startLine="18" startPosition="30" endLine="19" endPosition="54" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
