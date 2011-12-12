@@ -20,24 +20,6 @@ public class MoneyLiteral_Behavior {
     return text;
   }
 
-  public static String call_convertAmountSimple_595452003767173184(SNode thisNode, final int amount) {
-    String text;
-    switch (amount) {
-      case 10:
-        text = "ten";
-        break;
-      case 20:
-        text = "twenty";
-        break;
-      case 30:
-        text = "thirty";
-        break;
-      default:
-        text = "my" + amount;
-    }
-    return text;
-  }
-
   public static String call_convertAmountAdvanced_595452003767176013(SNode thisNode, final int amount) {
     Map<Integer, String> smallConversion = MapSequence.<Integer, String>fromMapAndKeysArray(new HashMap<Integer, String>(), 1, 2, 3, 4, 5, 6, 7, 8, 9, 10).withValues("one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten");
     Map<Integer, String> mediumConversion = MapSequence.<Integer, String>fromMapAndKeysArray(new HashMap<Integer, String>(), 11, 12, 13, 14, 15, 16, 17, 18, 19).withValues("eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen");

@@ -16,12 +16,12 @@
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
   <component name="MPSProject">
     <projectModules>
-      <modulePath path="${project}/solutions/STM.sandbox/STM.sandbox.msd" />
+      <modulePath path="${project}/languages/DecisionTable/DecisionTable.mpl" folder="" />
+      <modulePath path="${project}/languages/Money/Money.mpl" folder="" />
       <modulePath path="${project}/languages/STM/STM.mpl" />
       <modulePath path="${project}/languages/SampleExtensions/SampleExtensions.mpl" folder="" />
-      <modulePath path="${project}/languages/Money/Money.mpl" folder="" />
       <modulePath path="${project}/solutions/MoneyRuntime/MoneyRuntime.msd" folder="" />
-      <modulePath path="${project}/languages/DecisionTable/DecisionTable.mpl" folder="" />
+      <modulePath path="${project}/solutions/STM.sandbox/STM.sandbox.msd" />
     </projectModules>
     <genConfs />
   </component>
