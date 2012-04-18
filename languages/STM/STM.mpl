@@ -34,19 +34,18 @@
     </generator>
   </generators>
   <stubModelEntries>
-    <stubModelEntry path="${STM_PROJECT_ROOT}/multiverse-beta-0.7-SNAPSHOT.jar">
+    <stubModelEntry path="${STM_LIB}/multiverse-beta-0.7-SNAPSHOT.jar">
       <manager moduleId="f3061a53-9226-4cc5-a443-f952ceaf5816" className="jetbrains.mps.baseLanguage.stubs.JavaStubs" />
     </stubModelEntry>
   </stubModelEntries>
   <runtimeStubModels>
-    <stubModelEntry path="${STM_PROJECT_ROOT}/multiverse-beta-0.7-SNAPSHOT.jar">
+    <stubModelEntry path="${STM_LIB}/multiverse-beta-0.7-SNAPSHOT.jar">
       <manager moduleId="f3061a53-9226-4cc5-a443-f952ceaf5816" className="jetbrains.mps.baseLanguage.stubs.JavaStubs" />
     </stubModelEntry>
   </runtimeStubModels>
   <sourcePath />
   <dependencies>
     <dependency reexport="false">37a3367b-1fb2-44d8-aa6b-18075e74e003(MPS.Classpath)</dependency>
-    <dependency reexport="false">67b828fd-8fbc-4496-b7f7-8b64ac097c62(SampleExtensions)</dependency>
     <dependency reexport="false">d7a92d38-f7db-40d0-8431-763b0c3c9f20(jetbrains.mps.lang.intentions)</dependency>
     <dependency reexport="false">7a5dda62-9140-4668-ab76-d5ed1746f2b2(jetbrains.mps.lang.typesystem)</dependency>
   </dependencies>
