@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <solution name="STM.sandbox" uuid="6144ecf1-a3d5-4acb-9e52-6c04c362e50c" compileInMPS="true">
   <models>
-    <modelRoot path="${solution_descriptor}/" namespacePrefix="" />
+    <modelRoot path="${solution_descriptor}/" />
   </models>
   <sourcePath />
   <dependencies>
@@ -11,7 +11,6 @@
   <usedLanguages>
     <usedLanguage>be19a6e9-e972-4c4e-867f-04466d2dde44(STM)</usedLanguage>
     <usedLanguage>cccc689c-f365-4862-a8b6-34ecddf8ee26(jetbrains.mps.baseLanguage.dates)</usedLanguage>
-    <usedLanguage>3304fc6e-7c6b-401e-a016-b944934bb21f(jetbrains.mps.baseLanguage.math)</usedLanguage>
     <usedLanguage>7a5dda62-9140-4668-ab76-d5ed1746f2b2(jetbrains.mps.lang.typesystem)</usedLanguage>
   </usedLanguages>
 </solution>
