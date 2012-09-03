@@ -1,11 +1,9 @@
-MPS demo project
+MPS demo project (MPS 2.5.1)
 
 Steps to open the project in MPS:
 1. clone the repository
 2. start MPS
 3. open the project through the STM.mpr project file
-4. In File -> Settings -> Path Variables add an STM_PROJECT_ROOT variable pointing to the root directory of the project
-5. Close and re-open the project for MPS to pick the new values
-6. In the "Project View" panel on the left hand side of the screen select the four language nodes (icons with capital letter L), right-click and choose "Rebuild Selected Modules"
-7. Select the two solution nodes (icons with capital letter S), right-click and choose "Rebuild Selected Modules"
-8. Now you should be able to run the solutions in the STM_sandbox module as well as create your own ones
+4. In the "Project View" panel on the left hand side of the screen select the four language nodes (icons with capital letter L), right-click and choose "Rebuild Selected Modules"
+5. Select the two solution nodes (icons with capital letter S), right-click and choose "Rebuild Selected Modules"
+6. Now you should be able to run the solutions in the STM_sandbox module as well as create your own ones
