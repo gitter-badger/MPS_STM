@@ -17,6 +17,7 @@
   <component name="MPSProject">
     <projectModules>
       <modulePath path="${project}/languages/STM/STM.mpl" />
+      <modulePath path="${project}/solutions/STM.Runtime/Runtime.msd" folder="" />
       <modulePath path="${project}/solutions/STM.sandbox/STM.sandbox.msd" />
     </projectModules>
     <genConfs />

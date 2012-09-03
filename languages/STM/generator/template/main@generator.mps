@@ -9,25 +9,9 @@
   <import index="z9zu" modelUID="r:352c9de2-07a6-423d-898a-913ad1b7a8bf(STM.structure)" version="2" />
   <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="3" />
   <import index="e2lb" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" version="-1" />
-  <import index="5q8c" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.predicates(STM/org.multiverse.api.predicates@java_stub)" version="-1" />
-  <import index="911a" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api(STM/org.multiverse.api@java_stub)" version="-1" />
-  <import index="cqc2" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse(STM/org.multiverse@java_stub)" version="-1" />
-  <import index="8xzv" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.stms.beta(STM/org.multiverse.stms.beta@java_stub)" version="-1" />
-  <import index="n6ln" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.functions(STM/org.multiverse.api.functions@java_stub)" version="-1" />
-  <import index="njhw" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.exceptions(STM/org.multiverse.api.exceptions@java_stub)" version="-1" />
-  <import index="tjku" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.stms.beta.transactionalobjects(STM/org.multiverse.stms.beta.transactionalobjects@java_stub)" version="-1" />
-  <import index="dq2k" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.stms.beta.conflictcounters(STM/org.multiverse.stms.beta.conflictcounters@java_stub)" version="-1" />
-  <import index="22ad" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.utils(STM/org.multiverse.utils@java_stub)" version="-1" />
-  <import index="tqlr" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.commitbarriers(STM/org.multiverse.commitbarriers@java_stub)" version="-1" />
-  <import index="canu" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.lifecycle(STM/org.multiverse.api.lifecycle@java_stub)" version="-1" />
-  <import index="70rp" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.blocking(STM/org.multiverse.api.blocking@java_stub)" version="-1" />
-  <import index="le0" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.stms.beta.transactions(STM/org.multiverse.stms.beta.transactions@java_stub)" version="-1" />
-  <import index="i9is" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.stms.beta.orec(STM/org.multiverse.stms.beta.orec@java_stub)" version="-1" />
-  <import index="fplp" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.sensors(STM/org.multiverse.sensors@java_stub)" version="-1" />
-  <import index="opoo" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.closures(STM/org.multiverse.api.closures@java_stub)" version="-1" />
-  <import index="a692" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.stms.beta.sensors(STM/org.multiverse.stms.beta.sensors@java_stub)" version="-1" />
-  <import index="klbs" modelUID="f:java_stub#be19a6e9-e972-4c4e-867f-04466d2dde44#org.multiverse.api.references(STM/org.multiverse.api.references@java_stub)" version="-1" />
   <import index="53gy" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.util.concurrent(JDK/java.util.concurrent@java_stub)" version="-1" />
+  <import index="i0wi" modelUID="f:java_stub#006b52e2-3af1-4738-82ee-efd8ebef4e84#org.multiverse.api(STM.Runtime/org.multiverse.api@java_stub)" version="-1" />
+  <import index="7ldg" modelUID="f:java_stub#006b52e2-3af1-4738-82ee-efd8ebef4e84#org.multiverse.api.closures(STM.Runtime/org.multiverse.api.closures@java_stub)" version="-1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="tpf8" modelUID="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" version="2" implicit="yes" />
   <import index="tp25" modelUID="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)" version="16" implicit="yes" />
@@ -135,40 +119,40 @@
   <root id="9197116338992081428">
     <node role="contentNode" roleId="tpf8.1092060348987" type="tpee.StatementList" typeId="tpee.1068580123136" id="9197116338992118181">
       <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="9197116338992119196">
-        <node role="expression" roleId="tpee.1068580123156" type="tpee.StaticMethodCall" typeId="tpee.1081236700937" id="6143206611772100908">
-          <link role="classConcept" roleId="tpee.1144433194310" targetNodeId="911a.~StmUtils" resolveInfo="StmUtils" />
-          <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="911a.~StmUtils%dexecute(org%dmultiverse%dapi%dclosures%dAtomicVoidClosure)%cvoid" resolveInfo="execute" />
-          <node role="actualArgument" roleId="tpee.1068499141038" type="tpee.GenericNewExpression" typeId="tpee.1145552977093" id="6143206611772100909">
-            <node role="creator" roleId="tpee.1145553007750" type="tpee.AnonymousClassCreator" typeId="tpee.1182160077978" id="6143206611772100910">
-              <node role="cls" roleId="tpee.1182160096073" type="tpee.AnonymousClass" typeId="tpee.1170345865475" id="6143206611772100911">
+        <node role="expression" roleId="tpee.1068580123156" type="tpee.StaticMethodCall" typeId="tpee.1081236700937" id="2694937486431124248">
+          <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="i0wi.~StmUtils%dexecute(org%dmultiverse%dapi%dclosures%dAtomicVoidClosure)%cvoid" resolveInfo="execute" />
+          <link role="classConcept" roleId="tpee.1144433194310" targetNodeId="i0wi.~StmUtils" resolveInfo="StmUtils" />
+          <node role="actualArgument" roleId="tpee.1068499141038" type="tpee.GenericNewExpression" typeId="tpee.1145552977093" id="2694937486431124249">
+            <node role="creator" roleId="tpee.1145553007750" type="tpee.AnonymousClassCreator" typeId="tpee.1182160077978" id="2694937486431124250">
+              <node role="cls" roleId="tpee.1182160096073" type="tpee.AnonymousClass" typeId="tpee.1170345865475" id="2694937486431124251">
                 <property name="nonStatic" nameId="tpee.521412098689998745" value="true" />
                 <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="e2lb.~Object%d&lt;init&gt;()" resolveInfo="Object" />
-                <link role="classifier" roleId="tpee.1170346070688" targetNodeId="opoo.~AtomicVoidClosure" resolveInfo="AtomicVoidClosure" />
-                <node role="visibility" roleId="tpee.1178549979242" type="tpee.PublicVisibility" typeId="tpee.1146644602865" id="6143206611772100912" />
-                <node role="method" roleId="tpee.1107880067339" type="tpee.InstanceMethodDeclaration" typeId="tpee.1068580123165" id="6143206611772100913">
+                <link role="classifier" roleId="tpee.1170346070688" targetNodeId="7ldg.~AtomicVoidClosure" resolveInfo="AtomicVoidClosure" />
+                <node role="visibility" roleId="tpee.1178549979242" type="tpee.PublicVisibility" typeId="tpee.1146644602865" id="2694937486431124252" />
+                <node role="method" roleId="tpee.1107880067339" type="tpee.InstanceMethodDeclaration" typeId="tpee.1068580123165" id="2694937486431124253">
                   <property name="isAbstract" nameId="tpee.1178608670077" value="false" />
                   <property name="name" nameId="tpck.1169194664001" value="execute" />
-                  <node role="visibility" roleId="tpee.1178549979242" type="tpee.PublicVisibility" typeId="tpee.1146644602865" id="6143206611772100914" />
-                  <node role="returnType" roleId="tpee.1068580123133" type="tpee.VoidType" typeId="tpee.1068581517677" id="6143206611772100915" />
-                  <node role="parameter" roleId="tpee.1068580123134" type="tpee.ParameterDeclaration" typeId="tpee.1068498886292" id="6143206611772100916">
+                  <node role="visibility" roleId="tpee.1178549979242" type="tpee.PublicVisibility" typeId="tpee.1146644602865" id="2694937486431124254" />
+                  <node role="returnType" roleId="tpee.1068580123133" type="tpee.VoidType" typeId="tpee.1068581517677" id="2694937486431124255" />
+                  <node role="parameter" roleId="tpee.1068580123134" type="tpee.ParameterDeclaration" typeId="tpee.1068498886292" id="2694937486431124256">
                     <property name="name" nameId="tpck.1169194664001" value="p0" />
-                    <node role="type" roleId="tpee.5680397130376446158" type="tpee.ClassifierType" typeId="tpee.1107535904670" id="6143206611772100917">
-                      <link role="classifier" roleId="tpee.1107535924139" targetNodeId="911a.~Transaction" resolveInfo="Transaction" />
+                    <node role="type" roleId="tpee.5680397130376446158" type="tpee.ClassifierType" typeId="tpee.1107535904670" id="2694937486431124257">
+                      <link role="classifier" roleId="tpee.1107535924139" targetNodeId="i0wi.~Transaction" resolveInfo="Transaction" />
                     </node>
                   </node>
-                  <node role="throwsItem" roleId="tpee.1164879685961" type="tpee.ClassifierType" typeId="tpee.1107535904670" id="6143206611772100918">
+                  <node role="throwsItem" roleId="tpee.1164879685961" type="tpee.ClassifierType" typeId="tpee.1107535904670" id="2694937486431124258">
                     <link role="classifier" roleId="tpee.1107535924139" targetNodeId="e2lb.~Exception" resolveInfo="Exception" />
                   </node>
-                  <node role="body" roleId="tpee.1068580123135" type="tpee.StatementList" typeId="tpee.1068580123136" id="6143206611772100919">
-                    <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tpf8.CopySrcNodeMacro" typeId="tpf8.1114706874351" id="6143206611772100920">
-                      <node role="sourceNodeQuery" roleId="tpf8.1168024447342" type="tpf8.SourceSubstituteMacro_SourceNodeQuery" typeId="tpf8.1168024337012" id="6143206611772100921">
-                        <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="6143206611772100922">
-                          <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="6143206611772100923">
-                            <node role="expression" roleId="tpee.1068580123156" type="tpee.DotExpression" typeId="tpee.1197027756228" id="6143206611772100924">
-                              <node role="operation" roleId="tpee.1197027833540" type="tp25.SLinkAccess" typeId="tp25.1138056143562" id="6143206611772100925">
+                  <node role="body" roleId="tpee.1068580123135" type="tpee.StatementList" typeId="tpee.1068580123136" id="2694937486431124259">
+                    <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tpf8.CopySrcNodeMacro" typeId="tpf8.1114706874351" id="2694937486431124260">
+                      <node role="sourceNodeQuery" roleId="tpf8.1168024447342" type="tpf8.SourceSubstituteMacro_SourceNodeQuery" typeId="tpf8.1168024337012" id="2694937486431124261">
+                        <node role="body" roleId="tpee.1137022507850" type="tpee.StatementList" typeId="tpee.1068580123136" id="2694937486431124262">
+                          <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="2694937486431124263">
+                            <node role="expression" roleId="tpee.1068580123156" type="tpee.DotExpression" typeId="tpee.1197027756228" id="2694937486431124264">
+                              <node role="operation" roleId="tpee.1197027833540" type="tp25.SLinkAccess" typeId="tp25.1138056143562" id="2694937486431124265">
                                 <link role="link" roleId="tp25.1138056516764" targetNodeId="tp2c.1199569916463" />
                               </node>
-                              <node role="operand" roleId="tpee.1197027771414" type="tpf8.TemplateFunctionParameter_sourceNode" typeId="tpf8.1167169188348" id="6143206611772100926" />
+                              <node role="operand" roleId="tpee.1197027771414" type="tpf8.TemplateFunctionParameter_sourceNode" typeId="tpf8.1167169188348" id="2694937486431124266" />
                             </node>
                           </node>
                         </node>
@@ -179,7 +163,7 @@
               </node>
             </node>
           </node>
-          <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tpf8.TemplateFragment" typeId="tpf8.1095672379244" id="6143206611772100927" />
+          <node role="smodelAttribute" roleId="tpck.5169995583184591170" type="tpf8.TemplateFragment" typeId="tpf8.1095672379244" id="2694937486431124267" />
         </node>
       </node>
     </node>
@@ -187,14 +171,14 @@
   <root id="1285780675014199476">
     <node role="contentNode" roleId="tpf8.1092060348987" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="1285780675014199481">
       <node role="expression" roleId="tpee.1068580123156" type="tpee.StaticMethodCall" typeId="tpee.1081236700937" id="6143206611772100954">
-        <link role="classConcept" roleId="tpee.1144433194310" targetNodeId="911a.~StmUtils" resolveInfo="StmUtils" />
-        <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="911a.~StmUtils%dexecute(org%dmultiverse%dapi%dclosures%dAtomicClosure)%cjava%dlang%dObject" resolveInfo="execute" />
+        <link role="classConcept" roleId="tpee.1144433194310" targetNodeId="i0wi.~StmUtils" resolveInfo="StmUtils" />
+        <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="i0wi.~StmUtils%dexecute(org%dmultiverse%dapi%dclosures%dAtomicClosure)%cjava%dlang%dObject" resolveInfo="execute" />
         <node role="actualArgument" roleId="tpee.1068499141038" type="tpee.GenericNewExpression" typeId="tpee.1145552977093" id="6143206611772100955">
           <node role="creator" roleId="tpee.1145553007750" type="tpee.AnonymousClassCreator" typeId="tpee.1182160077978" id="6143206611772100956">
             <node role="cls" roleId="tpee.1182160096073" type="tpee.AnonymousClass" typeId="tpee.1170345865475" id="6143206611772100957">
               <property name="nonStatic" nameId="tpee.521412098689998745" value="true" />
-              <link role="classifier" roleId="tpee.1170346070688" targetNodeId="opoo.~AtomicClosure" resolveInfo="AtomicClosure" />
               <link role="baseMethodDeclaration" roleId="tpee.1068499141037" targetNodeId="e2lb.~Object%d&lt;init&gt;()" resolveInfo="Object" />
+              <link role="classifier" roleId="tpee.1170346070688" targetNodeId="7ldg.~AtomicClosure" resolveInfo="AtomicClosure" />
               <node role="visibility" roleId="tpee.1178549979242" type="tpee.PublicVisibility" typeId="tpee.1146644602865" id="6143206611772100958" />
               <node role="method" roleId="tpee.1107880067339" type="tpee.InstanceMethodDeclaration" typeId="tpee.1068580123165" id="6143206611772100959">
                 <property name="isAbstract" nameId="tpee.1178608670077" value="false" />
@@ -203,7 +187,7 @@
                 <node role="parameter" roleId="tpee.1068580123134" type="tpee.ParameterDeclaration" typeId="tpee.1068498886292" id="6143206611772100971">
                   <property name="name" nameId="tpck.1169194664001" value="p0" />
                   <node role="type" roleId="tpee.5680397130376446158" type="tpee.ClassifierType" typeId="tpee.1107535904670" id="6143206611772100972">
-                    <link role="classifier" roleId="tpee.1107535924139" targetNodeId="911a.~Transaction" resolveInfo="Transaction" />
+                    <link role="classifier" roleId="tpee.1107535924139" targetNodeId="i0wi.~Transaction" resolveInfo="Transaction" />
                   </node>
                 </node>
                 <node role="throwsItem" roleId="tpee.1164879685961" type="tpee.ClassifierType" typeId="tpee.1107535904670" id="6143206611772100973">
