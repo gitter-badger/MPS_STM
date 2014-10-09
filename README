@@ -7,3 +7,5 @@ Steps to open the project in MPS:
 4. In the "Project View" panel on the left hand side of the screen select the four language nodes (icons with capital letter L), right-click and choose "Rebuild Selected Modules"
 5. Select the two solution nodes (icons with capital letter S), right-click and choose "Rebuild Selected Modules"
 6. Now you should be able to run the solutions in the STM_sandbox module as well as create your own ones
+
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/vaclav/MPS_STM?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
